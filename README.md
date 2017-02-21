@@ -64,7 +64,7 @@ For each cluster we also attempted to provide documents that came from the TDT E
 
 The Arabic documents came from the Agence France Press (AFP) Arabic Newswire (1998, 2000-2001). They were translated to English by two fully automatic machine translation (MT) systems.
 
-=> IBM and ISI provided five example translations from two such MT systems to give an idea of the quality of the English output.
+* Bullet 1 IBM and ISI provided five example translations from two such MT systems to give an idea of the quality of the English output.
 
 Summarizers created a very short summary (~10 words, no specific format other than linear) of each document and a short summary (~ 100 words) of each cluster in English. In both cases the summarizer worked from professional translations to English of the original Arabic document(s). Here are the [summarization instructions](http://duc.nist.gov/duc2004/t3.4.summarization.instructions) the LDC summarizers were given. (The instructions pre-date the determination of the size limits in bytes, that's why the limits are in terms of words.) These summaries were not focused in any particular way beyond by the documents.
 For one of the test docsets (30047) we did not use for testing, we provided sample test data files: the output of two machine translation systems, the manual translations for the document set and for each document, additional English documents relevant to the topic of the docset, and the manual summaries (4 humans' versions) of the manually translated documents. The MT output contains mutiple variants for each sentence, ranked by descending quality. In the actual test data NIST will provide a version containing only the best translation for each sentence. Note that ISI and IBM used independent sentence separation.
@@ -75,14 +75,14 @@ For one of the test docsets (30047) we did not use for testing, we provided samp
 
 The documents came from the following collections with their own taggings:
 
-AP newswire, 1998-2000
-New York Times newswire, 1998-2000
-Xinhua News Agency (English version), 1996-2000
-Here is a DTD.
+* Bullet 1 AP newswire, 1998-2000
+* Bullet 2 New York Times newswire, 1998-2000
+* Bullet 3 Xinhua News Agency (English version), 1996-2000
+[Here is a DTD.](http://duc.nist.gov/duc2003/dtds/tdttrec/)
 
 **Manual summaries:** NIST assessors created a focused short summary (<= 665 bytes) of each cluster, designed to answer the question defined by the assessor. 
 
-Here are the question creation, document selection, and summarization instructions for the NIST document selectors/summarizers. 
+Here are the [question creation, document selection, and summarization instructions](http://duc.nist.gov/duc2004/t5.assessor.instructions) for the NIST document selectors/summarizers. 
  
 
 ## Tasks and measures
@@ -120,9 +120,9 @@ Submitted summaries will be evaluated solely using ROUGE n-gram matching.
 ### Task 3 - Very short cross-lingual single-document summaries
 Two required runs and one optional one per group:
 
-Required: (Priority=1) Given one or more automatic English translations of each document in the 25 TDT clusters, create a **very short summary** (<= 75 bytes) of the document in English. No other English documents can be used.
-Required: (Priority=2) Given a manual English translation of each document in the 25 TDT clusters, create a **very short summary** (<= 75 bytes) of the document in English. No other English documents can be used.
-Optional: (Priority=3) A run using the MT output and any other documents from English sources,e.g., relevant documents for these 25 clusters provided by NIST.
+* Bullet 1a Required: (Priority=1) Given one or more automatic English translations of each document in the 25 TDT clusters, create a **very short summary** (<= 75 bytes) of the document in English. No other English documents can be used.
+* Bullet 1b Required: (Priority=2) Given a manual English translation of each document in the 25 TDT clusters, create a **very short summary** (<= 75 bytes) of the document in English. No other English documents can be used.
+* Bullet 1c Optional: (Priority=3) A run using the MT output and any other documents from English sources,e.g., relevant documents for these 25 clusters provided by NIST.
 Summaries over the size limit will be truncated; no bonus for creating a shorter summary. No specific format other than linear is required.
 
 Submitted summaries will be evaluated solely using ROUGE n-gram matching.
