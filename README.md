@@ -9,7 +9,7 @@
   
   2)[SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04230)
   
-  3)[SummaRuNNer: A Recurrent Neural Network based Sequence Model for Extractive Summarization of Documents](https://arxiv.org/abs/1611.04244)
+  3)[Classify or Select: Neural Architectures for Extractive Document Summarization](https://arxiv.org/pdf/1611.04244)
 
 ### II. Using graph representation of multi-doc and graph embedding:
 
