@@ -1,0 +1,10 @@
+****************************************************************
+Text Summarization Example
+****************************************************************
+Parameters are set as follows:
+DivRank: lambda=04, beta=0.8, alpha=0.9
+Cumulative DivRank: lambda=01, beta=1.8, alpha=0.9
+MMR: gamma=0.6
+PageRank: lambda=0.3
+Personalized PageRank: lambda=0.4, beta=0.4
+Grasshopper: lambda=0.1, beta=1.2
