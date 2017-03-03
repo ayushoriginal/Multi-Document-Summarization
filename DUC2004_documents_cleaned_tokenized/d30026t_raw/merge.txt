@@ -1,0 +1,381 @@
+The outcome of the Microsoft antitrust case may be a long way off, but one thing is already clear : This is the first major e-mail trial.
+The government's prosecution and Microsoft Corp.'s defense, to a striking degree, are legal campaigns waged with electronic messages.
+The human testimony often pales next to the e-mail evidence.
+On the stand or in videotaped testimony, the people being questioned shrug, mumble and forget.
+The e-mail is alive with ideas and competitive zeal, punctuated with profanity and exclamation points.
+The second week of the trial ended with the prosecutors being frustrated because a lengthy cross-examination by Microsoft's lead lawyer left no time for the government to show several hours of a videotaped deposition of Bill Gates, the Microsoft chairman.
+With a new witness, an executive of Apple Computer Inc., taking the stand Monday, it is uncertain when the Gates tape will be played.
+The Justice Department and the 20 states suing Microsoft believe that the tape will strengthen their case because it shows Gates saying he was not involved in plans to take what the government alleges were illegal steps to stifle competition in the Internet software market.
+The Gates videotape, said David Boies, the Justice Department's trial lawyer, offers an opportunity to judge Gates credibility.
+But the Gates credibility gap, if there is one, becomes an issue not because of the videotape but because his taped remarks can be compared and contrasted with the e-mail he wrote and received.
+The e-mail record, the government insists, shows Gates waist-deep in plotting the anti-competitive deals and bullying tactics that he denies or professes to have never heard of in his taped deposition.
+If his machinations are central to the government's case, why not summon Gates to the trial?
+The government does not need to put Gates on the stand, because we have his e-mail and memoranda, Stephen Houck, a lawyer for the states, told the court.
+The Microsoft legal team has for months been preparing its e-mail defense.
+First, Microsoft argues, anything that looks damaging is taken out of context.
+I urge your honor, John Warden, Microsoft's lead lawyer, told Judge Thomas Penfield Jackson, to view with considerable skepticism the crazy quilt of e-mail fragments that seem to form the core of the government's case.
+But Microsoft has also mounted an e-mail counterattack, culled from the millions of messages it obtained by subpoena from competitors in pretrial discovery.
+Warden's cross-examination ritual is to present a government witness with an internal e-mail from his company and then pose a declaration as a question.
+These interrogations have two refrains : Isn't it true your company does exactly what you are accusing Microsoft of doing, and isn't it true that Microsoft prevailed not because it is a predatory monopolist but because of its superior technology?
+Microsoft is accused of trying to prod companies to stay out of its way.
+So last week, for example, Warden produced e-mail from Stephen Case, the chairman of America Online, suggesting a partnership with Netscape Communications Corp. in which both companies would focus on their respective strengths.
+That division of labor, Case wrote, would be the best way to achieve the goal that Marc Andreessen, Netscape's cofounder, described in an earlier e-mail as beating the Beast From Redmond that wants to see us both dead a reference to Microsoft's headquarters in Redmond, Wash. Printouts of e-mail are just another form of written communication.
+By the 1920s, as typewriters became common, typed memoranda started to be used in court cases.
+From the 1950s through the 1980s, legal experts say, there was an explosion of documentation fueled by the new technologies of electric typewriters, photocopying and fax machines, and then personal computers.
+And e-mail, they add, has played an important role in legal inquiries for years, like the Iran-contra case in the 1980s when e-mail found in Oliver North's computer proved crucial.
+But the Microsoft case is the result of a sweeping government antitrust investigation of a high-technology company where e-mail has supplanted the telephone as the most common instrument of communication.
+E-mail has just revolutionized investigations of this kind, one senior Justice Department official said.
+While under investigation, Microsoft has handed over to the government an estimated 30 million documents, mostly e-mail.
+In the trial, the two sides have submitted about 3,000 exhibits, mainly e-mail.
+And in their e-mail, people often communicate more frankly and informally than when writing a letter or a report tap it out, punch a button and it's gone into cyberspace.
+But e-mail communication is documentary evidence, which in legal cases provides a rich, contemporaneous record of what people were thinking and planning at the time.
+It can be a sharp contrast to formal oral testimony, so often coached by lawyers and crafted by selective memory.
+The e-mail record certainly makes the I-don't-recall line of response harder to sustain, said Robert Litan, a former senior official in the Justice Department's antitrust division who is now at the Brookings Institution.
+It can also be powerful ammunition for pointing to contradictions in testimony.
+And that is what the government will do in attacking Gates credibility with his videotaped deposition, taken over three days in August.
+The government offered a glimpse of that strategy on the first day of the trial.
+It showed a few brief clips of a point in the deposition when Gates was asked about a meeting on June 21, 1995, at which, the government alleges, Microsoft offered to divide the browser market with Netscape and to make an investment in the company, which is its chief rival in that market.
+In the taped deposition, Gates says he recalled being asked by one of his subordinates whether he thought it made sense to invest in Netscape.
+He said that he was asked about it after the June 1995 meeting and replied, I didn't see that as something that made sense.
+But in an e-mail on May 31, 1995, Gates urged an alliance with Netscape.
+We could even pay them money as part of the deal, he wrote, buying a piece of them or something.
+The contradiction between Gates deposition and his e-mail, though, does not of itself speak to the issue of whether Microsoft made an illegal offer to Netscape.
+To be sure, it is what Microsoft did not what it said in e-mail communications that counts most.
+But once the e-mail that looks bad gets in the record, you end up doing what Microsoft's lawyers are going to spend much of this trial doing trying to explain it away, said Stephen Axinn, a leading antitrust litigator with the firm Axinn, Veltrop& AMP; Harkrider in New York.
+America Online is on the verge of agreeing to purchase Netscape Communications Corp., the Internet pioneer at the center of the government's antitrust suit against Microsoft Corp., executives involved in the talks said Sunday.
+The proposed deal is a complex, three-way transaction involving AOL, Netscape and Sun Microsystems Inc. AOL, the leading on-line service with more than 14 million subscribers, would acquire Netscape's popular site on the World Wide Web and its software business.
+But as part of the deal, AOL would also enter into a joint marketing and development partnership with Sun Microsystems to strengthen Netscape's other business of selling to large corporations the heavy-duty software needed to serve up Web pages and other Internet technologies to many thousands of users at the same time.
+The purchase, an exchange of AOL shares for Netscape stock, is valued at roughly$ 4 billion.
+A completed deal could be announced as soon as Monday morning.
+But executives involved in the talks cautioned Sunday night that some details remained to be negotiated.
+The Netscape deal, if consummated, would realign three businesses at the forefront of the modern economy on-line services, Internet software and electronic commerce.
+It would strengthen two of Microsoft's leading rivals, AOL and Sun Microsystems.
+At the same time, however, it would subsume Netscape, an Internet software maker once regarded as the most serious challenger to Microsoft's dominance of the personal computer software market.
+Netscape, founded in 1994, has struggled over the last 18 months under an assault from Microsoft.
+Its Navigator was the runaway leader in the market for the browser software used to navigate the World Wide Web.
+But Microsoft, responding to the Internet revolution, entered the market aggressively, quickly matching the quality of Netscape's technology and then bundling the Microsoft browser, Internet Explorer, into its industry-standard Windows operating system and giving it away free.
+Earlier this year, Netscape announced layoffs and started distributing Navigator for free as well, as Microsoft steadily gained in the browser market.
+Since then, Netscape has focused mainly on two businesses advertising and transaction fees from its Netcenter Web site and selling industrial-strength software to corporations that are building their own Internet sites on which to conduct electronic commerce.
+AOL believes it has the expertise to increase revenues from Netscape's Web site and, helped by Sun's programmers and vast corporate sales force, to accelerate Netscape's software sales as well, executives involved in the negotiations said.
+Sun's version of Unix, Solaris, is among the most popular operating systems for the large, powerful computers that run Netscape's server software.
+This deal would insure that the fundamental elements of Netscape survive within bigger companies that can drive its technologies forward, said David B. Yoffie, a professor at the Harvard business school and co-author with Michael A. Cusumano of the Massachusetts Institute of Technology of a recent book, Competing on Internet Time : Lessons from Netscape and Its Battle with Microsoft.
+The impact of the deal, if any, on the government's antitrust suit against Microsoft is uncertain.
+It does appear to support a key theme of Microsoft's defense namely, that it operates in a fast-moving industry where corporate alliances shift all the time.
+Thus, Microsoft argues, antitrust policy should tread gently.
+But the deal, government officials insist, should have no direct effect on the current case.
+No matter how much the alliances shift, it doesn't affect the central fact of Microsoft's monopoly and how it has used and abused its market power to protect its monopoly, said David Boies, the Justice Department's lead trial lawyer in the Microsoft case.
+Executives representing Netscape, AOL and Sun Microsystems are government witnesses at the Microsoft trial.
+And the serious merger talks between Netscape Chief Executive Officer James Barksdale and AOL Chairman Steve Case began about a month ago, or just after the start of the Microsoft trial, according to people close to the talks.
+Industry analysts suggest that the companies may have been emboldened to take stronger anti-Microsoft steps based partly on the perception that the antitrust case would weaken Microsoft.
+And representatives of Kleiner Perkins Caufield& AMP; Byers, a Silicon Valley venture capital firm regarded as a power broker among Microsoft's rivals, sit on the boards of Netscape, Sun and AOL.
+America Online is on the verge of agreeing to purchase Netscape Communications Corp., the Internet pioneer at the center of the government's antitrust suit against Microsoft Corp., executives involved in the talks said Sunday.
+The proposed deal is a complex, three-way transaction involving AOL, Netscape and Sun Microsystems Inc. AOL, the leading on-line service with more than 14 million subscribers, would acquire Netscape's popular site on the World Wide Web and its software business.
+AOL would also enter into a joint marketing and development partnership with Sun Microsystems to strengthen Netscape's other business of selling to large corporations the heavy-duty software needed to serve up Web pages and other Internet technologies to many thousands of users at the same time.
+The purchase, an exchange of AOL shares for Netscape stock, is valued at roughly$ 4 billion.
+A completed deal could be announced as soon as Monday morning.
+But executives involved in the talks cautioned Sunday night that some details remained to be negotiated.
+The Netscape deal, if consummated, would realign three businesses at the forefront of the modern economy on-line services, Internet software and electronic commerce.
+It would strengthen two of Microsoft's leading rivals, AOL and Sun Microsystems.
+At the same time, however, it would end the independent existence of Netscape, an Internet software maker once regarded as the most serious challenger to Microsoft's dominance of the personal computer software market.
+Netscape, founded in 1994, has struggled over the last 18 months under an assault from Microsoft.
+Its Navigator was the runaway leader in the market for the browser software used to navigate the World Wide Web.
+But Microsoft, responding to the Internet revolution, entered the market aggressively, quickly matching the quality of Netscape's technology and then bundling the Microsoft browser, Internet Explorer, into its industry-standard Windows operating system and giving it away free.
+Eventually, Microsoft's browser technology caught up to Netscape's.
+Earlier this year, Netscape announced layoffs and started distributing Navigator for free as well, as Microsoft steadily gained in the browser market.
+Since then, Netscape has focused mainly on two businesses advertising and transaction fees from its Netcenter Web site and selling industrial-strength software to corporations that are building their own Internet sites on which to conduct electronic commerce.
+AOL believes it has the expertise to increase revenues from Netscape's Web site and, helped by Sun's programmers and vast corporate sales force, to accelerate Netscape's software sales as well, executives involved in the negotiations said.
+Among large corporations, Sun's version of Unix, Solaris, is among the most popular operating systems for the powerful computers that run Netscape's server software.
+The much smaller Netscape would be placed under the wing of AOL and Sun Microsystems.
+The three companies had combined revenues of more than$ 12.4 billion last year.
+Microsoft, by comparison, had revenues of more than$ 14 billion.
+This deal would insure that the fundamental elements of Netscape survive within bigger companies that can drive its technologies forward, said David B. Yoffie, a professor at the Harvard business school and co-author with Michael A. Cusumano of the Massachusetts Institute of Technology of a recent book, Competing on Internet Time : Lessons from Netscape and Its Battle with Microsoft.
+The impact of the deal, if any, on the government's antitrust suit against Microsoft is uncertain.
+It does appear to support a key theme of Microsoft's defense namely, that it operates in a fast-moving industry where corporate alliances shift all the time.
+Thus, Microsoft argues, antitrust policy should tread gently.
+But the deal, government officials insist, should have no direct effect on the current case.
+No matter how much the alliances shift, it doesn't affect the central fact of Microsoft's monopoly and how it has used and abused its market power to protect its monopoly, said David Boies, the Justice Department's lead trial lawyer in the Microsoft case.
+Executives representing Netscape, AOL and Sun Microsystems are government witnesses at the Microsoft trial.
+And the serious merger talks between Netscape Chief Executive Officer James Barksdale and AOL Chairman Steve Case began about a month ago, or just after the start of the Microsoft trial, according to people close to the talks.
+Industry analysts suggest that the companies may have been emboldened to take stronger anti-Microsoft steps based partly on the perception that the antitrust case would weaken Microsoft.
+And representatives of Kleiner Perkins Caufield& AMP; Byers, a Silicon Valley venture capital firm regarded as a power broker among Microsoft's rivals, sit on the boards of Netscape, Sun and AOL.
+Still, executives involved in the talks said that the timing of the proposed deal was unrelated to the antitrust trial.
+Nor should it, one person noted, be regarded as a single-minded attempt to circle the wagons against Microsoft.
+Indeed, AOL, according to one person close to the talks, plans to keep Microsoft's Internet Explorer browser as the default choice on its on-line service.
+One of the government's allegations in the antitrust suit is that Microsoft won out over Netscape as the main browser for AOL because Microsoft used its Windows monopoly as a bargaining chip.
+To win the browser deal, Microsoft offered AOL prime real estate on the Windows desktop, the main screen on more than 90 percent of personal computers sold today.
+Staying with Microsoft's browser can be seen as proof that AOL still regards placement on the Windows desktop as crucial, as well as a careful step to avoid undermining one of the allegations in the government's case.
+For AOL, the Netscape purchase would accelerate its evolution toward the Internet.
+At present, its flagship on-line service is a hybrid to its own proprietary service, it has added a gateway to the World Wide Web.
+In addition, for consumers who do not subscribe to AOL's dial-up service, it also has its own Web site, aol.com, which attracts about 24 million visitors a month, according to Media Metrix/Relevant Knowledge, a market research firm.
+Its big Web site offers a wide range of information, entertainment, Internet chat and e-mail, a leading example of the all-in-one sites that have become known as portals.
+Netscape's Netcenter traffic has slipped a bit in recent months, to under 16 million visitors a month, but it, too, is a major portal.
+Together, they should be a huge player in the intensifying portal battle for viewers and resulting advertising revenues.
+Yahoo is the current leader among portal sites with more than 25 million monthly visitors, while Microsoft's site attracts more than 20 million a month.
+Though known as a new-media company for consumers, AOL is also interested in boosting its electronic commerce business with the Netscape purchase.
+AOL has recently done work with Eastman Kodak, American Greetings and other companies, not only promoting their products to on-line subscribers but also building the Internet infrastructure of software to conduct electronic commerce.
+AOL notes projections like a recent one from Forrester Research Inc., which predicted that worldwide Internet commerce could reach as high as$ 3.2 trillion by 2003, or 5 percent of global sales.
+Sun Microsystems, analysts say, could be a strong partner for AOL in the market for Internet commerce software.
+Sun is a corporate software company with a sales force of several thousand.
+As it moves increasingly to Internet technology, AOL should prove an excellent partner for Sun in terms of developing and using Sun's Java, an Internet programming language.
+And while Netscape's browser no longer generates revenue on its own, it is a distribution channel for Java technology.
+Having Netscape's browser safely in the hands of a friendly company is of strategic importance for Sun, since Microsoft owns the alternative in the browser market.
+AOL is expected pay little, if any, premium over Netscape's stock price on Friday, executives close to the deal said, since Netscape shares have more than doubled in the last month.
+In the last week alone, Netscape's stock has jumped about$ 12, or nearly 45 percent, following reports that it was discussing a possible partnership with AOL.
+The stock closed Friday at$ 39.1875, up$ 2.625.
+AOL's shares gained$ 1.50 Friday, closing at$ 84.875.
+America Online Inc. wants to become the next Microsoft in two promising information-age fields where Microsoft Corp. is just another company the Internet media business and electronic commerce.
+With its proposed purchase of Netscape Communications Corp., AOL, the nation's largest dial-up online service with more than 14 million subscribers, hopes to take a significant step toward that ambitious goal.
+If the$ 4 billion deal is completed the companies had not reached a final agreement as of Monday night AOL would acquire a leading Internet brand and enlarge its wired audience by absorbing the millions who regularly visit Netscape's popular NetCenter site on the World Wide Web.
+Acquiring Netscape would really enhance America Online's role as the premier Internet media company, said James F. Moore, president of Geopartners Inc., a consulting firm.
+America Online is assembling the kind of audience numbers that will convince people the Internet is becoming a mainstream media.
+In the new media business, as in traditional media like television or newspapers, eyeballs translate into advertising revenue.
+But what really intrigues media executives and consumer marketers about the new media news, entertainment and services rendered in computer code is that it is inherently a two-way medium with which people can interact with the tap of a key or the click of a mouse button The interaction that advertisers and marketers want to see, of course, is buying.
+And it is the potential for exploiting an instant, direct connection to consumers that has fueled all the recent optimism about electronic commerce.
+Today, companies are selling everything from books to baby clothes over the Internet.
+Most companies have not progressed beyond the experimentation stage, but there are a handful of encouraging success stories like Amazon.com, the on-line bookstore.
+By 2003, Forrester Research Inc., whose business is analyzing trends in cyberspace, projects that Internet commerce could reach$ 3.2 trillion, or 5 percent of all sales worldwide.
+AOL is at the forefront of this convergence of media and commerce converge, and integration reflected in the lineage of its leaders.
+Steve Case, the chairman, was once a new-product manager for Pepsico's Pizza Hut chain, while Robert Pittman, the president, is a former MTV executive.
+Microsoft is also investing heavily in new media and electronic commerce.
+It has an online service, MSN, which competes with AOL, as well as information-and commerce Web sites that focus on travel, cars and real estate.
+It also owns Sidewalk, a network of local sites that list movies, restaurants and stores in cities around the country including Seattle and New York.
+Its MSNBC Internet news service is half of a joint venture with NBC.
+Microsoft is expected to be a formidable competitor in the media-and-commerce business.
+It has no shortage of bright people and it has more money than any rival.
+Besides deep pockets, Microsoft has the built-in advantage in any computer-based medium because its Windows operating system runs more than 90 percent of personal computers sold today.
+Its control of the Windows desktop gives it the most valuable piece of commercial real estate in the information age.
+In theory, at least, owning that desktop screen should help Microsoft steer consumers to its online offerings an issue that is key to the government's antitrust suit against Microsoft.
+But so far, Microsoft has started slowly in the fields of Internet media and electronic commerce.
+Microsoft may want to, but it does not dominate these new markets, said Richard Shaffer, a principal of Technologic Partners, a research firm.
+America Online recognizes that the big opportunity is in these emerging growth businesses like electronic commerce instead of trying to take Microsoft on head-on.
+Still, if the Netscape deal is completed, AOL will also find itself in the software business in a way it has never been in the past.
+Netscape is known as the pioneer in the commercial development of software used to navigate the World Wide Web.
+Microsoft saw the browser software as a direct threat to its industry dominance and pursued that market aggressively, bundling its own browser with its Windows and giving it away free tactics that have been challenged by the government.
+But Netscape no longer generates revenues from its browser, which it now also distributes for free, but from the sale of heavy-duty software sold to corporations.
+Much of this software is used as the technological back office for electronic commerce used in building Web sites and processing transactions.
+A surprising element in the proposed deal is that AOL intends to hold onto Netscape's corporate software business instead of selling it off to an established software company.
+America Online just doesn't have credibility in that market, observed Michael A. Cusumano, a professor at the Massachusetts Institute of Technology's Sloan School of Management.
+Executives close to AOL explain the decision as the need to provide full-line offerings for electronic commerce, from corporate Web site to the computer screens of consumers.
+But AOL has decided it needs help to preserve and strengthen Netscape's corporate software business.
+To do that, it has brought in Sun Microsystems Inc. in a side deal, which has complicated the transaction considerably.
+AOL, according to executives close to the proposed deal, will own Netscape, but it will have a joint marketing and development partnership with Sun.
+As part of the deal, AOL will agree to purchase about$ 300 million worth of Sun's computers for its service, while Sun will apparently agree to purchase sizeable amounts of Netscape software, which Sun's sales force must sell.
+Still, AOL and Sun have a longer-term objective as well one that promises to place them in more direct conflict with Microsoft.
+For nearly a year, William J. Raduchel, Sun's chief strategist, has been working closely with AOL, according to Sun executives.
+A former Harvard economics professor who taught Scott McNealy, the Sun chairman, Raduchel has focused on Sun's Internet programming technologies, called Java and Jini, both of which are seen as potential threats to Microsoft's dominance.
+By combining Sun's technology prowess with AOL's powerful consumer brand, the Sun executives say, there is the potential for a kind end-run around Microsoft's grip on desktop computing.
+In its research laboratories, Sun has been working on a stripped-down network computer a simple-to-use information appliance, which could cost as little as$ 200 or be given away as part of a subscription service.
+The concept is that AOL's Internet media and electronic commerce services could be delivered to many more homes than today because many people still shun the expense and difficulty of using a personal computer.
+The appliance would be mainly a receiver and screen, with most of the computing power residing on vast central computers serving up information as users request by tapping a few buttons.
+Sun's technological specialty is this kind of centralized network computing.
+If the long-term AOL-Sun vision ever materialized certainly a three-to-five year bet, at the least it could give both companies a boost and technological independence from Microsoft.
+Stock prices vaulted to record levels Monday, furthering a recovery that as recently as two months ago seemed nearly unthinkable.
+I thought we were in the most serious correction since 1990, but I never thought or wrote that the bull market was over, said Byron Wien, U.S. equity strategist at Morgan Stanley Dean Witter& AMP; Co. Now it seems all of that is behind us.
+The Dow Jones industrial average rose 214.72 points, or 2.34 percent, to 9,374.27.
+The record is the first since July 17, when the Dow closed at 9,337.97.
+Since Aug. 31, when the Dow stood at 7,539.07 after a steep slide, the blue-chip gauge has risen more than 24 percent.
+For the year, the Dow is up 18.54 percent and has a chance of rising more than 20 percent for a fourth consecutive year, something never accomplished before.
+Broader averages also climbed.
+The Standard& AMP; Poor's 500-stock index set a record, rising 24.66 points, or 2.12 percent, to 1,188.21.
+The Nasdaq composite index did not reach a new high but posted the biggest percentage gain Monday, rising 49.21 points, or 2.55 percent, to 1,977.42.
+And the Russell 2000 index of smaller-company issues gained 3.86 points, or nearly 1 percent, to 398.15.
+Monday's action was energized by a daily record for the number of mergers and acquisitions valued at$ 1 billion or more.
+The merger announcements not only prompted investors to change estimates of how much companies were worth but also indicated coming declines in the outstanding shares of stock.
+This may be a supply-demand story, where demand for stocks is rising and the supply of stock is reduced as one company after another merges, said Hugh Johnson, chief investment officer at First Albany Corp. The flow of money into mutual funds is fairly strong, and there is pressure on managers to put that money to work.
+Two deals seemed to be catalysts for broad swaths of stocks.
+News that Bankers Trust may be close to accepting an$ 8.9 billion offer from Deutsche Bank of Germany heightened interest in financial-services and bank stocks.
+And word that America Online may acquire Netscape Communications for$ 4 billion in stock powered Internet and other technology stocks to even loftier valuations.
+Among financial companies, J.P. Morgan gained 6 1/16, to 115 11/16.
+American Express was up 4 3/8, to 108 15/16.
+Merrill Lynch jumped 4 3/8, to 76.
+And Donaldson, Lufkin& AMP; Jenrette rose 3 9/16, to 42 }.
+Netscape was the most active stock Monday, gaining 2 }, to 41 15/16.
+America Online gained 4 3/8, to 89 \.
+Other Internet stocks also surged, and analysts said the group, which has seen meteoric gains in recent weeks, was ripe for a steep correction.
+Yahoo and Amazon.com both became$ 200 stocks on Monday.
+Yahoo rose 30 7/16, to 221 7/16.
+And Amazon.com gained 37 3/8, to 218.
+The performance of the Internet stocks is an unsettling sign, Wien said.
+Still, more-established technology shares also had a very good day.
+IBM rose 7, to 166 5/8.
+Microsoft jumped 5 9/16, to 119 3/16.
+And Intel closed at 113 9/16, up 1 {.
+After Monday's big price moves, Wien said that according to his calculations, stocks were about 10 percent overvalued.
+By contrast, in the middle of July the market was 20 percent overvalued, he said.
+Nonetheless, the market's recovery, which has been buttressed by three cuts in interest rates by the Federal Reserve Board, has left many longtime Wall Street hands grasping for historical parallels.
+At this point we are in new ground, said Laszlo Birinyi, who heads his own market research firm.
+At the beginning of the year, I said my target for the Dow was 10,000 by the end of 1998.
+If anyone had asked when the market went through what now looks like a corrective blip, I would have said my new target would have been about 9,000.
+I am surprised the 10,000 figure came back on the table for this year.
+Microsoft Corp. argued in federal court Monday that the proposed acquisition of Netscape Communications Corp. by America Online seriously undermined the government's antitrust suit against the software giant.
+From a legal standpoint, this proposed deal pulls the rug out from under the government, William Neukom, Microsoft's senior vice president for legal affairs, said Monday morning on the courthouse steps.
+The reasoning behind this assertion, Microsoft says, is that the proposed deal demonstrates that Netscape and the larger software industry are healthy and vibrant even with all of the illegal and anti-competitive practices alleged in the government's suit.
+But David Boies, the government's lead attorney, said all of that was irrelevant.
+Whatever the deal ends up being if there ends up being a deal is not going to remove any of the obstacles that Microsoft has placed in the path of competition in this industry, he said.
+Michael Lacovara, a Microsoft lawyer who was questioning a government witness, economist Frederick Warren-Boulton, suggested to him during the trial Monday that the proposed acquisition undermined Warren-Boulton's argument, that Microsoft seems headed toward obtaining a monopoly in Internet browser software to match the one it apparently holds in operating systems.
+After all, about 22 percent of Americans who use the Internet reach it through America Online.
+And at present AOL uses Microsoft's Web browser, Internet Explorer, as the service's default choice.
+In exchange for that, Microsoft places an AOL advertisement and Internet link in Windows 98.
+Lacovara asked the witness whether, once AOL's service contract expires in January, he would expect AOL to continue to distribute Microsoft software.
+Yes, Warren-Boulton responded.
+It is not at all clear to me that AOL's incentive to do this is changed by this proposed merger with Netscape.
+He noted that America Online officials had said their need to be among the online services featured in Windows forced them to accept Microsoft terms establishing Internet Explorer as the default choice.
+Lacovara then asked Warren-Boulton the question that lay under his entire cross-examination of the witness and Microsoft's larger assertion Monday about the proposed Netscape-AOL deal.
+Surely this combination, he asked, tells you something about the nature of competition in the software industry?
+Warren-Boulton's answer was probably not the one Lacovara had been after.
+To the extent that this potential merger is the result of Microsoft's actions with these exclusive contracts and other actions, he said, it is unfortunate to see the disappearance of a firm like Netscape, the brightest, newest star.
+Warren-Boulton's purpose on the stand for the government is to establish that Microsoft does have a monopoly in operating-system software; more than 90 percent of the world's computers use a Microsoft operating system.
+That is the foundation under most of the government's case since federal antitrust law forbids certain behavior by a monopolist that would be legal for a firm that faces healthy competition.
+Through repeated, often circumlocutious questioning, Lacovara tried to make the case that Microsoft's overwhelming market share was ephemeral.
+The software industry is so vibrant and fast moving, he suggested, that Microsoft could be toppled from its position at any moment a point of view the company encourages among its employees.
+On Friday and Monday, Lacovara repeatedly pointed out that other companies are placing other operating systems on the market, and some software companies principally Microsoft's greatest rivals are writing software for these new systems.
+But Warren-Boulton argued that the existence of these fringe competitors in the operating system market does not mean in any way that Microsoft does not have monopoly power.
+On Monday afternoon, Lacovara made an issue of the success Apple Computer Co. is having selling its new iMac computer.
+He entered into evidence an Apple news release issued last month showing, among other things, that 12.5 percent of the people buying Apple's new iMac computer had previously owned a Windows machine.
+Apple computers use a different operating system, Mac-OS.
+Envisioning a thoroughly networked world in which the World Wide Web is a limitless marketplace of information, entertainment, products and services, America Online Inc. Tuesday laid out the details of its agreement to buy the Netscape Communications Corporation for$ 4.2 billion.
+By moving quickly toward what both companies have recently come to see as the inevitable convergence of technology and media, America Online hopes that it will secure a solid lead in a battle already joined by giants like the Microsoft Corp. and the International Business Machines Corp. to transform the greater part of cyberspace into a vast virtual mall.
+Part of that vision rests on an alliance with Sun Microsystems that America Online negotiated as part of the deal.
+Sun not only brings a cyber-savvy sales force to the effort but, even more importantly, a strong technology partner in developing Netscape's industrial-strength software for running Internet sites.
+Sun is indeed a technology heavyweight.
+It owns the Java programming language specially designed for Internet applications, and Solaris, among the most popular commercial operating systems for the powerful computers that big corporations use to serve up Internet services like the World Wide Web, e-mail and retail transactions.
+It also manufactures a highly respected line of powerful computers based on its own microprocessor chips.
+But for America Online and for the big Internet players against which it will compete the real potential gold mine lies further down the road, perhaps five years away, when people will venture on line for information or shopping not only from personal computers but from inexpensive Internet appliances costing$ 200 each, or maybe included free as part of a subscription service, just as some cellular phones are now.
+Today, being wired remains a comparatively elitist activity an estimated 25 percent of American households had access to the Internet last year, and 5 percent of households bought merchandise on line.
+But the executives at America Online and Netscape hope that their deal will accelerate the timetable for the day when the Net is ubiquitous, when people will tap into the World Wide Web from appliance-like devices, pagers, cell phones, television set-top boxes or computers as routinely as they use the telephone today.
+A new generation of Internet devices to be able to deliver our service anywhere is a key part of what this deal is about in the long run, said Stephen M. Case, 40, the chairman of America Online.
+For the present, however, the idea is to make America Online, the nation's leading online service, the standard way to get onto the Internet, the executives explained.
+Netscape, the Internet pioneer, is a crucial part of that effort, they said.
+There is no assurance that this vision of the technological future will prove accurate or, even if it does, that the America Online-Netscape combination will lead the way.
+Still, the long-range game plan helps explain what brought America Online and Netscape together.
+And the ability of the companies executives to sell that vision to Netscape's whiz-kid programmers in particular will determine whether the merger succeeds.
+Netscape's headquarters in Mountain View, Calif., is likely become a prime target for Silicon Valley headhunters.
+As is the case with any software company, Netscape's key asset is its talented programmers, and many of these code hackers may be reluctant to work for America Online, which still has a reputation as a middle-brow service catering to online newcomers, known derisively as newbies.
+Stock options and other financial incentives will be tailored to try to keep Netscape employees on board.
+But these people want to change the world, and we've got to be clear that joining with America Online, along with the Sun component, really is a bigger opportunity for us, said Marc Andreessen, the 26-year-old cofounder of Netscape who led a team of young programmers from the supercomputing center at the University of Illinois to Silicon Valley to start the Internet software company in 1994.
+This ought to be the preeminent Internet company over the next decade, Andreessen declared, speaking from a cell phone on a streetcorner in Palo Alto, Calif. For his part, Andreessen, a Netscape executive vice president, will become Netscape's chief technology officer for the next three or four months, until the merger is completed.
+His new job at America Online has not yet been determined, but it is likely to be chief technology officer of the combined company as well, an America Online executive said.
+Already, according to one Netscape board member, Andreessen has delivered a 12-page single-spaced memorandum to Case, setting out his view of the technological road map the new company should follow into the future, emphasizing the opportunities for electronic commerce in an environment in which most people are linked to the Internet.
+Netscape, populated with computing sophisticates, and America Online, known as an on-ramp to the Internet for the technologically challenged, seem a corporate odd couple.
+But the two companies, its executives explained, had been evolving toward each other for more than a year.
+In a telephone interview from America Online's headquarters in Dulles, Va., Case described Netscape as an enterprise that had morphed itself from a company dependent on sales of its software used to browse the World Wide Web and in Microsoft's cross-hairs into a business that relied on advertising and other revenues from its popular Netcenter Web site and from selling software to corporations to handle electronic commerce.
+The Netscape transformation was largely a reaction to Microsoft's competitive assault on its browser business a central element in the government's antitrust suit against Microsoft.
+Microsoft bundled its browser into its industry-standard Windows operating system, and gave away the browser for free.
+The government alleges these steps were part of a pattern of anticompetitive practices, while Microsoft maintains the moves were intended mainly to benefit consumers.
+Early this year, after laying off workers and suffering a large loss last year, Netscape announced that it would also distribute its browser for free.
+It seems to have stabilized its business around its new model.
+Netscape announced Tuesday that it earned$ 2.7 million on revenues of$ 162 million in its fourth fiscal quarter, which ended in September.
+Yet America Online has also changed in the last couple of years, moving well beyond its reputation as an online service for beginners.
+It now has an Internet chat service and runs its own all-in-one site on the Web, known as a portal, which includes e-mail, Internet searching, news, entertainment and online shopping.
+America Online has really changed from a closed online service for novice users to an Internet media and technology company with a diverse set of brands, Andreessen said.
+These two companies have been moving in the same direction, and the fit is a good one.
+The New York Times said in an editorial for Wednesday, Nov. 25 : America Online's effort to acquire Netscape and set up a partnership with Sun Microsystems is a reminder of how rapidly the corporate landscape can change in fast-moving technical fields.
+But it does not lessen the need for the Justice Department to vigorously pursue its antitrust suit against Microsoft, the dominant player in software.
+The department has presented solid evidence that Microsoft has used its monopoly in operating systems to muscle rivals and partners so as to head off competition in other software realms.
+The Internet has risen so quickly as an information medium that only four years ago, in his book The Road Ahead, Bill Gates scarcely mentions it.
+In addition, only a couple of years ago America Online, the world's biggest online service, was having so much trouble getting rid of the bugs in the system it was widely derided as America On Hold.
+Now Microsoft has moved so aggressively into the Internet that the Justice Department is accusing it of predatory behavior, and America Online has rocketed forward to make deals with other Internet players.
+In its antitrust suit against Microsoft, the federal government charges that the company has illegally bundled its own browser with its Windows operating system to smother Netscape's chances of marketing its browser.
+Now in the corridors outside the antitrust trial Microsoft's lawyers maintain that Netscape has found a new partner in America Online and has no need of protection from the government.
+But it could be as easily argued that Microsoft has bludgeoned Netscape into dissolution, forcing a distress sale to America Online.
+Nor is it clear that customers of America Online will choose Netscape's browser as a vehicle for buying and selling on the Internet.
+Even in its newly musclebound form, America Online remains dependent on Microsoft's good will for favorable placement of an AOL icon on the main desktop screen.
+It may be that, years hence, America Online, Netscape and Sun will put together an alternative means to the Internet through telephone lines, cables or the like.
+But until that day, fairness requires Justice Department action to insure that Microsoft not use its current position to thwart consumer choice.
+Only when companies know they can get their products to the consumer will they have the incentive to innovate and turn the Internet into the revolutionary medium it promises to be.
+America Online built itself into the most potent force in cyberspace largely by appealing to families with chatty teen-agers who want to flirt online and adults looking for an easy way to send electronic mail while checking the weather and sports scores.
+Now, the company has to get serious if it is to win the hearts and minds of corporate executives in pin-stripe suits.
+Nearly lost in the complexity of America Online's deal to buy Netscape Communication Corp. is America Online's announcement that it will enter an entirely new market : working behind the computer screen to help companies open and operate online stores.
+Netscape already has created software that made it a player in providing support for what is already known as electronic commerce.
+But America Online now says it has ambitions to offer a much wider array of software, consulting and services for online merchants.
+Most companies that sell to consumers realize that they need to get into the e-commerce space, said America Online president Robert Pittman in a news conference Tuesday.
+We see a major business in offering them an end-to-end solution.
+The market is big and growing bigger by the day.
+Forrester Research estimates that$ 325 million will be spent this year on electronic commerce software and another$ 5.3 billion on services that range from graphic design to the turn-key operation of entire online stores.
+By 2002, Forrester estimates, the combined market for electronic commerce services and software should top$ 35 billion.
+E-commerce services are the silver bullet that will enable companies to be able to take advantage of the true business opportunities on the Web, said Traci Gere, an analyst at International Data Corp. The market is growing very rapidly, but it is very fragmented.
+Analysts say the leader today in e-commerce services is IBM, which has a full line of offerings from sophisticated software products to hand-holding consulting.
+Other competitors include well-known information technology consulting companies such as Andersen Consulting, the spin-off from the Arthur Andersen accounting firm; Electronic Data Systems, which runs computer systems for big companies, and PricewaterhouseCoopers, which offers accounting and consulting separately but under one umbrella.
+Software companies like Microsoft and Netscape sell packaged programs, typically with little or no consulting to help customers use them.
+There are also plenty of new companies that have sprouted up to provide electronic commerce services.
+Some, like Agency.Com and Organic Online, started basically as advertising and design firms.
+Others, including U S Web and Viant, have emphasized programming and consulting.
+In fact, those two strains are blurring together, as exemplified by U S Web's pending merger with CKS Group.
+America Online argues that its advantage in this increasingly crowded bazaar is its ability to combine a broad subscriber base of about 15 million customers with Netscape software, plus hardware from Sun Microsystems, which has joined in America Online's venture into electronic commerce engineering.
+This is the first time anyone has put a true end-to-end solution that starts with the silicon and ends with the audience, said Barry Schuler, America Online's president for interactive services.
+We start with Sun's line of servers, then the commerce tools to build a store, the support services to process orders and then a deal for online real estate that can drive the traffic.
+Despite the advantages Netscape and Sun bring, analysts say that America Online faces a variety of problems in its new quest.
+Chief among them is whether it can appear to have the consistency, focus and follow-through that corporate customers demand.
+AOL is not the first company that comes to my mind when it comes to business-quality software, said Robert Chatham, a senior analyst with Forrester Research.
+Its decision to keep Netscape as a separate unit and offer electronic commerce services in partnership with Sun will not enhance its credibility, Chatham said.
+America Online doesn't look like a homogenous vendor, he added.
+It looks like customers will have to tangle with a menage a trois of AOL, Netscape and Sun.
+Nor have Internet service providers and other telecommunications-oriented companies shown much evidence, Ms. Gere of International Data said, that they are capable of offering the highly specific customized services that big corporate clients demand.
+Telecommunications companies that try to do things efficiently for a large number of customers have not been able to offer customized one-to-one relationships, she said.
+Pittman said that America Online had been driven to the e-commerce business because companies that approached it wanting to sell their goods needed more help than simply advertising online.
+We are finding people who are expert in running bricks-and-mortar stores are limited by their infrastructure, he said.
+They have an online store, but their square footage is too small.
+Even before the Netscape deal, America Online was moving to provide some electronic commerce software and services.
+It has been rewriting the software that lets companies open online stores to be based on universally accepted Internet standards rather than the specific computer language used only on America Online.
+This new software, which now will be combined with Netscape's online store services, will be available for companies to use both on America Online and on the Internet.
+Similarly, it has developed a service that lets users create a file with their credit card numbers and shipping address so they can make online purchases without retyping all that information each time.
+America Online is working to offer it for a fee to stores on the broader Internet.
+There is a wide range of services that are incorporated in electronic commerce.
+These include high-end strategy consulting to help companies decide whether and how to sell online without hurting their traditional sale in stores.
+There are all sorts of computer systems to be developed, ranging from the online stores themselves to connecting those sites to a company's existing inventory and accounting systems.
+There are creative services that include graphic design, media buying, customer list analysis and other marketing and promotional efforts.
+And there are operational services that involve actually maintaining the big servers that users connect to when they use the online stores that display catalogs, take orders and process payments.
+America Online, Schuler said, will emphasize services that relate to marketing rather than back-office functions.
+We will consult on how to merchandise and sell online, he said.
+We understand the consumer piece of the puzzle.
+Some competitors worry that America Online's electronic commerce services may simply be a device to sell its software and hardware.
+The challenge is to prove that clients are getting the best possible solution for their business, said Robert Gett, the chief executive of Viant.
+If they offer AOL and Netscape and Sun, their answer is a bit tainted.
+Netscape does have an expanding force of about 700 people who provide consulting and custom programming.
+But they have been most competitive, Gett said, in competing for nuts-and-bolts projects rather than the more lucrative assignments to develop and carry out a full-fledged strategy on the Web.
+They say, Who knows our software better than Netscape?
+'' Gett said.
+We help customers decide which platform is best for them.
+But America Online argues that the combined might of it, Netscape and Sun is just what the business needs.
+We always believed that commerce, that is buying goods and services, is the huge revenue stream of the future, Schuler said.
+We have only seen the tiniest tip of the iceberg.
+America Online built itself into the most potent force in cyberspace largely by appealing to families with chatty teen-agers who want to flirt online and adults looking for an easy way to send electronic mail while checking the weather and sports scores.
+Now, the company has to get serious if it is to win the hearts and minds of corporate executives in pin-stripe suits.
+Nearly lost in the complexity of America Online's deal to buy Netscape Communication Corp. is America Online's announcement that it will enter an entirely new market : working behind the computer screen to help companies open and operate online stores.
+Netscape already has created software that made it a player in providing support for what is already known as electronic commerce.
+But America Online now says it has ambitions to offer a much wider array of software, consulting and services for online merchants.
+Most companies that sell to consumers realize that they need to get into the e-commerce space, said America Online president Robert Pittman in a news conference Tuesday.
+We see a major business in offering them an end-to-end solution.
+The market is big and growing bigger by the day.
+Forrester Research estimates that$ 325 million will be spent this year on electronic commerce software and another$ 5.3 billion on services that range from graphic design to the turn-key operation of entire online stores.
+By 2002, Forrester estimates, the combined market for electronic commerce services and software should top$ 35 billion.
+E-commerce services are the silver bullet that will enable companies to be able to take advantage of the true business opportunities on the Web, said Traci Gere, an analyst at International Data Corp. The market is growing very rapidly, but it is very fragmented.
+Analysts say the leader today in e-commerce services is IBM, which has a full line of offerings from sophisticated software products to hand-holding consulting.
+Other competitors include well-known information technology consulting companies such as Andersen Consulting, the spin-off from the Arthur Andersen accounting firm; Electronic Data Systems, which runs computer systems for big companies, and PricewaterhouseCoopers, which offers accounting and consulting separately but under one umbrella.
+Software companies like Microsoft and Netscape sell packaged programs, typically with little or no consulting to help customers use them.
+There are also plenty of new companies that have sprouted up to provide electronic commerce services.
+Some, like Agency.Com and Organic Online, started basically as advertising and design firms.
+Others, including U S Web and Viant, have emphasized programming and consulting.
+In fact, those two strains are blurring together, as exemplified by U S Web's pending merger with CKS Group.
+America Online argues that its advantage in this increasingly crowded bazaar is its ability to combine a broad subscriber base of about 15 million customers with Netscape software, plus hardware from Sun Microsystems, which has joined in America Online's venture into electronic commerce engineering.
+This is the first time anyone has put a true end-to-end solution that starts with the silicon and ends with the audience, said Barry Schuler, America Online's president for interactive services.
+We start with Sun's line of servers, then the commerce tools to build a store, the support services to process orders and then a deal for online real estate that can drive the traffic.
+Despite the advantages Netscape and Sun bring, analysts say that America Online faces a variety of problems in its new quest.
+Chief among them is whether it can appear to have the consistency, focus and follow-through that corporate customers demand.
+AOL is not the first company that comes to my mind when it comes to business-quality software, said Robert Chatham, a senior analyst with Forrester Research.
+Its decision to keep Netscape as a separate unit and offer electronic commerce services in partnership with Sun will not enhance its credibility, Chatham said.
+America Online doesn't look like a homogenous vendor, he added.
+It looks like customers will have to tangle with a menage a trois of AOL, Netscape and Sun.
+Nor have Internet service providers and other telecommunications-oriented companies shown much evidence, Ms. Gere of International Data said, that they are capable of offering the highly specific customized services that big corporate clients demand.
+Telecommunications companies that try to do things efficiently for a large number of customers have not been able to offer customized one-to-one relationships, she said.
+Pittman said that America Online had been driven to the e-commerce business because companies that approached it wanting to sell their goods needed more help than simply advertising online.
+We are finding people who are expert in running bricks-and-mortar stores are limited by their infrastructure, he said.
+They have an online store, but their square footage is too small.
+Even before the Netscape deal, America Online was moving to provide some electronic commerce software and services.
+It has been rewriting the software that lets companies open online stores to be based on universally accepted Internet standards rather than the specific computer language used only on America Online.
+This new software, which now will be combined with Netscape's online store services, will be available for companies to use both on America Online and on the Internet.
+Similarly, it has developed a service that lets users create a file with their credit card numbers and shipping address so they can make online purchases without retyping all that information each time.
+America Online is working to offer it for a fee to stores on the broader Internet.
+There is a wide range of services that are incorporated in electronic commerce.
+These include high-end strategy consulting to help companies decide whether and how to sell online without hurting their traditional sale in stores.
+There are all sorts of computer systems to be developed, ranging from the online stores themselves to connecting those sites to a company's existing inventory and accounting systems.

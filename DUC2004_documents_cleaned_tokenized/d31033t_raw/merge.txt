@@ -1,0 +1,605 @@
+In the summer of 1995, a whiff of revolution was in the air in Silicon Valley.
+The Internet offered a new deal in computing, a fresh opportunity for entrepreneurs to try to break Microsoft Corp.'s firm grip on the personal computer software business.
+Leading the challenge was Netscape Communications Corp., whose software for browsing the World Wide Web had ignited the Internet boom.
+Netscape chairman James Clark spoke boldly of attacking Microsoft head-on.
+He borrowed imagery from the movie Star Wars, referring to Microsoft as the Death Star and Netscape as the leader of a rebel alliance.
+Microsoft answered with a vengeance.
+It dispatched hundreds of programmers to work on a competing browser and poured many millions of dollars into marketing it.
+It prodded computer makers and others to distribute its browser, folded the browser into its industry-dominant Windows operating system and gave the browser away free a campaign intended to cut off their air supply, as a senior Microsoft executive described it.
+But not only competitors like Netscape have encountered Microsoft's force.
+Microsoft's partners, its corporate customers and professional investors who finance new ventures have all collided with it.
+A close look at Microsoft's no-holds-barred push into the Internet software business offers a window into the ways the company uses its market muscle to influence the behavior of virtually every player in the industry.
+Some of the cases recounted here figure prominently in the suit brought by the Justice Department and 20 states, scheduled to go to trial this month, charging that Microsoft at times went too far and violated antitrust laws.
+Regardless of the legal outcome, previously unreported details about incidents in the suit and the other examples provide a more complete picture of Microsoft in action.
+When Compaq Computer Corp. considered loading Netscape's browser instead of Microsoft's on its personal computers, Microsoft threatened to stop selling its Windows operating system to Compaq.
+The company quickly changed its mind.
+After Spyglass Inc. began supplying Microsoft with its early browser technology, Microsoft announced that it would give away its browser free.
+The timing came as a rude surprise to its partner Spyglass.
+The company lost most of its revenues almost overnight, as the technology, which it had also been licensing to companies besides Microsoft, suddenly became available free.
+When America Online Inc., which competes fiercely with Microsoft's online service and electronic commerce divisions, went shopping for browser technology, Microsoft made an offer that was too good to pass up : If America Online used Microsoft's browser as the main one for its millions of subscribers, Microsoft would give America Online prime placement on the desktop screen of all personal computers using Windows.
+When Intel Corp. began developing its own Internet software, Microsoft complained.
+Intel, the leading maker of the microprocessors that serve as the electronic brains on most personal computers running Windows, pulled back.
+The chip maker decided that its lucrative hand-in-glove partnership with Microsoft took priority.
+Microsoft's reach in computing has become so pervasive that nearly every year now, Silicon Valley's top venture capitalists meet privately with a team of top Microsoft executives to learn about the company's plans.
+The goal, one venture investor observed, was to stay out of the way of the steamroller.
+Microsoft adamantly denies that it has broken any laws in these or similar situations.
+The company plays the game of business hard, and its executives acknowledge that without apology.
+Yes, Microsoft says, rivals may suffer and partners may be irritated occasionally.
+But the company insists its actions are guided by its main corporate goal of bringing new technology inexpensively and conveniently to the millions of people who use its software.
+Most people in the computer industry say that living in Microsoft's world means routinely making accommodations to it.
+Microsoft's power emanates from its near-monopoly on the market for personal computer operating systems, the master control programs that run computers.
+Because it owns the operating system, Microsoft is the essential utility of the information age, said James Moore, president of Geopartners Research Inc., a technology consulting firm.
+It acts as a kind of gatekeeper to the pipeline of computing innovation, sitting there and deciding whether to help some innovation or slow it down.
+For months, Microsoft and Netscape had talked on and off, circling each other warily.
+But the event that would define them as unflinching rivals was a meeting on June 21, 1995, in a second-floor conference room at Netscape's headquarters in Mountain View, Calif. That meeting, according to the Justice Department and 20 states suing Microsoft, was the high-tech equivalent of the storied gatherings in smoke-filled railroad cars that inspired passage of the nation's antitrust laws a century ago.
+On that day, they say, Microsoft made Netscape an illegal offer to divvy up the market for Internet browsing software, a collusion pact that Netscape rejected.
+Microsoft replies that the prosecutors are misinterpreting a routine meeting in the software business and that the company has never tried to divide the browser market.
+Bill Gates, Microsoft's chairman and principal strategist, did not attend the Mountain View gathering, but he consulted by telephone with the Microsoft team.
+Two people who did attend that June meeting have been named as witnesses in the trial scheduled to begin next week : Netscape president James Barksdale and Daniel Rosen, Microsoft's general manager of new technology.
+In the trial, the government will contend that Microsoft presented Netscape with an all-or-nothing offer, according to people who have been questioned in the federal investigation.
+Relying heavily on notes taken in the meeting by Netscape executive vice president Marc Andreessen and on the testimony of Barksdale, prosecutors are expected to assert that the Microsoft proposal had several elements, both incentives and requirements.
+Microsoft, according to the people questioned by the government, would invest in Netscape, taking a 15 to 20 percent stake, give Netscape technical information and fine-tune Microsoft's operating systems so that Netscape's software would run better on Windows.
+In return, the people say, Netscape would give Microsoft a seat on its board, license its technology to Microsoft, give Microsoft advance knowledge of its product-development efforts and not make a browser for the next generation of the Microsoft operating system, Windows 95, which was shipped two months after the June 1995 meeting.
+And Microsoft, the people added, did what it has always denied it does used access to its technology as a powerful lever in business negotiations, by offering Netscape preferential access to the Windows application program interfaces, or APIs, the links that enable other companies programs to run smoothly on the Windows operating system.
+By turning down the deal, Netscape, they say, would not have that preferred access to Microsoft technology a threat that Microsoft fiercely denies making.
+Barksdale, Netscape's 55-year-old chief executive, told a colleague that the encounter with Microsoft in June 1995 was the damnedest meeting I've ever attended in 35 years in business.
+Had Netscape accepted Microsoft's offer, it would have had Microsoft's money and its endorsement.
+Netscape would have also been free to sell its browser for use in earlier versions of Windows and for use on other operating systems like Apple's Macintosh and Unix, a powerful system used mainly in corporations and research labs.
+But if we had licensed our technology to Microsoft and stepped aside, the best we could have hoped for was becoming a company with sales of$ 100 million or so and hoping to be bought out by Microsoft, said Clark, a former computer scientist at Stanford University who founded Silicon Graphics Inc., a computer graphics pioneer, before starting Netscape.
+We didn't start Netscape for that.
+For any company, a meeting with Microsoft is often a charged affair.
+Every computing device from keyboards to disk drives, and every software program from games to browsers, must mesh smoothly with Microsoft's Windows operating system.
+This is necessary to make computers reliable and easier to use, but it also gives Microsoft its role as the industry's gatekeeper.
+And since Microsoft itself makes all manner of software products beyond the operating system, other companies are put in the uneasy position of requiring Microsoft's cooperation to be able to compete against it.
+And in the software industry, where every program is rendered in the digital code of 1's and 0's, the lines that divide competition and cooperation are often blurred.
+The talk about that line at the Microsoft-Netscape meeting focused on the division between the operating system the platform, in computer terms and the application programs, sometimes called solutions, that run on top of the operating system.
+The government suit states that in sworn testimony, Chris Jones, a Microsoft manager who attended the meeting, admitted that Microsoft absolutely intended to persuade Netscape not to compete.
+Microsoft reads Jones testimony very differently, as evidence mainly of the company's clarifying its position.
+If Netscape stayed on the applications or solutions side of the operating system, the two companies could be partners, Microsoft said.
+But if Netscape tried to become a player in the platform space, they would compete.
+Microsoft released portions of the Jones deposition in September as evidence that the government had quoted the Microsoft manager out of context.
+Q.
+Do you recall any discussion about a desire of anybody on the part of Microsoft who was participating to be able to persuade or influence Netscape not to compete?
+A.
+Absolutely.
+But again, persuade in the sense of force or persuade in the sense of, hey, we think we can have a great business relationship together.
+Later in the deposition, a Justice Department lawyer asked Jones whether any of the Microsoft executives intended to suggest that there would be any consequences to Netscape or its business if Netscape chose to go in the platform direction you've described earlier as opposed to the solutions direction.
+Jones replied : The conversation was something like the following : We're in the platform business.
+We're going to invest heavily in this part of the platform because we feel it's critical to our technologies.
+That's a done deal.
+And we're asking them : What is your business?
+Is your business platforms or solutions?
+If it's platforms, we're in the platforms business.
+We're competing.
+'' Microsoft portrays such comments as innocuous statements of fact.
+But to Netscape, the same remarks could be taken as a warning, if not a threat.
+This is because Internet browsing software had the potential to become an alternative platform to the Windows operating system.
+The browser, sitting on top of the operating system, could supplant Windows as the main desktop screen on users machines and the main layer of programming for starting other software applications.
+In addition, Netscape's browser could serve as a powerful platform for distributing and running Java, an Internet programming language developed by Sun Microsystems Inc., a Microsoft rival.
+In technical terms, Netscape's upstart platform could replace Microsoft's APIs as the essential utility of computing.
+Indeed, Andreessen had boasted in public of Netscape's ambition to relegate Microsoft's Windows to so much software plumbing underneath the browser.
+By the June meeting, Microsoft certainly viewed Netscape as a serious potential challenger to Windows, the corporate crown jewel.
+On May 26, 1995, in an internal memo, The Internet Tidal Wave, Gates wrote : A new competitor born on the Internet is Netscape.
+Their browser is dominant with 70 percent usage share, allowing them to determine which network extensions will catch on.
+Netscape's strategy, Gates wrote, was to move the key API into the browser to commoditize the underlying operating system.
+THE BROADER INQUIRY : GOVERNMENT SEES ARM-TWISTING The federal government and the states have recently broadened their allegations against Microsoft by adding evidence that it tried to bully Intel, Apple Computer Inc. and other companies to squelch competition.
+They say that like the Netscape meeting the new evidence fits a pattern of behavior by Microsoft, which has repeatedly tried to limit competition by strong-arming competitors and partners.
+One episode that fits the pattern, the prosecutors contend, was an effort by Microsoft to pressure Intel to shelve the development of multimedia and Internet software and to limit its cooperation with Netscape.
+Intel's main business is making the microprocessor chips that act as the electronic brains of most of the computers that run the Windows operating system.
+Indeed, the fortunes of Intel and Microsoft are so closely aligned that the two companies are sometimes referred to as a single, powerful entity, Wintel.
+But Intel also employs hundreds of software engineers, mainly at its Intel Architecture Labs in Hillsboro, Ore. And while Intel and Microsoft are partners, they have also had their conflicts, typically over the direction and pace at which certain innovations should be introduced into the personal computer industry, which they dominate together.
+Federal and state investigators have focused on Microsoft's strong reaction to work being done by Intel's software engineers a sentiment expressed in no uncertain terms during a meeting at Intel's Santa Clara, Calif., headquarters on Aug. 2, 1995.
+The contentious session was attended by several executives from Intel and Microsoft, including Gates and Intel chairman Andrew Grove.
+An internal Intel memo stated that Gates made vague threats about supporting Intel's competitors and that he was livid about Intel's investments in the Internet and wanted them stopped.
+Later, Intel did pull back from its multimedia and Internet software development.
+Steven McGeady, an Intel vice president who attended the August 1995 meeting, is scheduled to appear as a witness for the government.
+Microsoft replies that the government's accounts of meetings like those with Netscape and Intel are fanciful distortions, created by using a biased selection of documents and witnesses.
+The government's case, Microsoft asserts, betrays an utter failure to accept the computer-industry reality that Microsoft routinely meets with companies to make sure their software and equipment will work well with Windows.
+Sometimes the talks, Microsoft says, go on to include further levels of cooperation like licensing technology or a Microsoft investment, as the company discussed with Netscape.
+In the trial, Microsoft is expected to argue its advance in the browser market was the result of its own business acumen and Netscape's missteps.
+To document Netscape's errors, Microsoft issued a subpoena last month and obtained the unpublished manuscript of a new book, Competing on Internet Time : Lessons From Netscape and Its Battle With Microsoft, which is based on hundreds of interviews with current and former Netscape executives.
+The book does chronicle the mistakes made by Netscape.
+But its authors, Michael Cusumano of the Massachusetts Institute of Technology's Sloan School of Management and David Yoffie of the Harvard Business School, think Microsoft is hardly blameless.
+Microsoft's take-no-prisoners strategy backfired, all but inviting retaliation from competitors, the government and even customers, Yoffie said.
+Emphasizing that he was offering no legal judgment, Yoffie added, I think Microsoft could have achieved 90 percent of what it did without crossing the line as much as it did.
+THE SPYGLASS LINK : REWARDS AND PERILS OF A PARTNERSHIP On April 6, 1994, Gates and 20 Microsoft executives gathered for a daylong retreat not far from the company's headquarters in Redmond, Wash.
+The subject was the Internet and how it might revolutionize the computer software business.
+Few concrete plans were made that day, but Microsoft executives insist that a direction was set.
+Our vision from the outset was to unite the two worlds of the Windows desktop and the Internet, said Steven Sinofsky, a Microsoft executive who attended the meeting.
+Yet Microsoft badly trailed Netscape in the browser field.
+To hasten its entry, Microsoft licensed its early browsing software from Spyglass Inc. of Naperville, Ill.
+The first meeting between the two companies was initiated by Spyglass in April 1994.
+At the time, it was a tiny company and eager to do a deal with Microsoft.
+Spyglass was selected as the commercial licensee for browser technology developed by the National Center for Supercomputing at the University of Illinois.
+In the summer of 1994, Douglas Colbeth, president of Spyglass, met with Clark of Netscape at O'Hare International Airport in Chicago.
+The two men talked in the United Airlines Red Carpet Room, reserved for business-class passengers, and Colbeth recalled Clark telling him, We're going to take Microsoft head-on.
+At the time, Colbeth recalled thinking to himself, Great, now Microsoft will really want to license from me.
+Today, he noted : Remember, we were a company with a couple dozen people and almost no money in the bank.
+Netscape had Jim Clark, with his money and reputation, and big-time venture capital backing from Silicon Valley.
+Netscape had a very different agenda.
+By July 1994, Microsoft had become quite interested in the Spyglass technology, Colbeth says, and the two companies signed their first licensing agreement the following December.
+Microsoft, Colbeth recalls, always told him that it would eventually fold browser technology into its operating system, but its timing was accelerated by Netscape's rapid rise.
+Microsoft was initially hoping to charge for the browser, Colbeth said.
+But on Dec. 7, 1995, Gates declared that Microsoft would not only deeply integrate its browser into Windows but would give it away.
+The announcement caught the industry, even Colbeth, by surprise.
+At the time, Spyglass had licensed its technology to 82 other companies, including IBM and Digital Equipment, for use in their software products a licensing revenue stream of about$ 20 million a year.
+As a result of Microsoft's move, Spyglass saw those revenues vanish within a year, as smaller Internet software companies went out of business and big customers shifted to Microsoft's free browser.
+Spyglass slashed its payroll and scrambled into new niches of the software industry to replace its lost sales, which it succeeded in doing eventually.
+Whenever you license technology to Microsoft, you have to understand it can someday build it itself, drop it into the operating system and put you out of that business, Colbeth said.
+THE NONOPTION COMPAQ : SUDDENLY SEES THE LIGHT Well into 1996, Netscape's share of the browser market continued to rise, while Microsoft made little headway, even though its browser was free.
+Industry analysts and trade magazines agreed that Netscape's browser was the clear technical leader.
+In April 1996, Netscape's Navigator was used by 87 percent of people browsing the Web, compared with 4 percent using Microsoft's Internet Explorer, according to Zona Research.
+So the biggest personal computer maker, Compaq, thought it made sense to give customers Netscape's browser instead of Microsoft's.
+But Microsoft would not stand for that and Compaq had no choice but to give in.
+In June 1996, Compaq wanted not only to load the more popular Netscape browser on its machines but also to remove the icon for Microsoft's Internet Explorer, which was delivered to the computer maker with Windows 95.
+Microsoft informed Compaq that if it removed Internet Explorer, the computer maker would lose its license for Windows, said Stephen Decker, Compaq's director of software procurement, in testimony to federal investigators.
+The ultimatum from Microsoft was delivered bluntly in a letter headed, Notice of Intent to Terminate License Agreement.
+Faced with being denied the essential operating system, Compaq quickly reversed course and kept the Internet Explorer icon.
+Microsoft asserts that Windows and Internet Explorer are a single product and that Microsoft alone defines what is in the product.
+Nothing in its contracts, Microsoft adds, prohibits computer makers from including competing technologies.
+While the cutoff letter Microsoft sent to Compaq seems an unnecessarily hardball tactic when dealing with its largest corporate customer, Microsoft chief operating officer Bob Herbold insists that to take one letter here or one snippet of e-mail there to try to portray Microsoft as an arrogant company is unfair.
+Noting that a Compaq executive is a witness for Microsoft, Herbold said, We are totally dependent on tremendous relationships with key companies like Compaq.
+At Netscape, however, the Compaq episode was a watershed.
+That was the singular act that got me going to the Justice Department, Barksdale recalled.
+Barksdale said he regarded Microsoft's tactic of forcing Compaq to buy its browser as a condition of obtaining an essential product, the Windows operating system, as an illegal act and absolute proof that Microsoft was a monopolist.
+After investigating the incident, the Justice Department and the states agreed with Barksdale that Microsoft was illegally tying the sale of one product to another.
+Microsoft replies that it has a long history of adding new features to its operating system.
+And from the outset, Microsoft says, it intended that Windows and its Internet Explorer browser would be seamlessly integrated, as they are now in Windows 98.
+Thus, Microsoft insists, there is no product-tying violation of antitrust laws.
+In a separate case, a federal appeals court sided with Microsoft, upholding the principle that the company could put whatever it wanted to in its operating system and declare it a single product.
+But in June 1996, when Compaq wanted to offer the Netscape product instead of Microsoft's browser, most industry experts viewed the browser and operating system as two different software programs.
+It took a long time for the integration strategy to play out, said a former senior Microsoft researcher.
+Back then, integration was basically bolting a browser onto Windows.
+THE BALANCING ACT : AMERICA ONLINE TOSSES IN TOWEL America Online chairman Stephen Case refers to dealing with Microsoft as a delicate balancing act.
+That balance swung sharply from the fall of 1995 to the spring of 1996, when Microsoft used the lure of giving America Online a featured place on the Windows desktop as the ultimate bargaining chip.
+To gain access to computing's most coveted real estate, America Online agreed to make Microsoft's Internet Explorer the main browser for its online subscribers, who now number more than 13 million.
+Yet throughout 1995, as Microsoft prepared to introduce Windows 95, the most significant improvement ever in its operating system, Case was knocking on the door of the Justice Department.
+His complaint was that Microsoft was going to place its new online service, Microsoft Network, a direct competitor to America Online, prominently on the desktop screen of Windows 95, which was introduced in August.
+This bundling tactic of using the industry-dominant operating system to market Microsoft Network, or MSN, Case argued, gave Microsoft an unfair advantage in the young but fast-growing online business.
+The Justice Department listened and investigated.
+But ultimately, the government decided against taking any action.
+At America Online's headquarters in Vienna, Va., Microsoft was both feared and loathed at the time.
+America Online had a designated Microsoft watcher, a young M.B.A. who tracked its adversary's every move.
+Above the desk in his small, windowless office was a picture of Gates.
+Beneath the picture, in large block letters, were the words THE ENEMY.
+Though America Online was the clear leader in the online services business, it had ample reason to worry about an all-out assault by a rival as rich and aggressive as Microsoft.
+When he had visited the Microsoft headquarters a couple of years earlier, Case recalled, Gates had bluntly assessed Microsoft's options by saying he could buy 20 percent of America Online, all of it or enter the online business on his own and bury you.
+A threat or merely a statement of the facts?
+A bit of both, Case said recently.
+But he was mainly articulating what everybody at that meeting kind of intuitively understood.
+Yet by 1996, Microsoft and America Online found they had reason to cooperate.
+With the exploding popularity of the Internet's World Wide Web, the conventional online companies, like America Online and Compuserve, had to provide their customers Internet access as well as their own services.
+America Online had its own browser, but to keep pace with the rapidly advancing technology it made sense to do a deal with Netscape or Microsoft.
+For both software companies, a deal with America Online, which had 5 million subscribers at the time, could mean a big surge in browser use and market share.
+Netscape seemed the natural partner for America Online, since both companies were Microsoft rivals.
+On March 11, America Online did announce that it would buy Netscape technology, but it was a standard licensing deal based on a payment-for-use formula.
+The next day, America Online announced a more significant deal with Microsoft making its browser the default technology the browser America Online subscribers would use unless they specifically asked for Netscape's Navigator.
+To win the deal, Microsoft offered to give America Online a start-up icon on the Windows desktop precisely the kind of equal treatment on the main Windows screen that Case had asked the Justice Department to require of Microsoft.
+After we agreed to its Internet Explorer browser, Microsoft allowed us to be bundled on the Windows desktop, Case said.
+It was an example of Microsoft's pragmatic side.
+The pragmatic decision was that the paramount corporate goal was to increase browser market share to protect the mainstay software business.
+As a result, its new online service, MSN, would have to sacrifice an important marketing advantage over its main rival, America Online.
+It was Bill's decision, said former MSN general manager Russell Siegelman, referring to Gates.
+He sent me e-mail on it.
+He said he didn't think it would hurt MSN that much.
+I disagreed with him.
+To other Microsoft executives, Gates expressed a different view of the likely impact on MSN.
+He told senior vice president Brad Silverberg that putting America Online on the Windows desktop would amount to putting a bullet through MSN's head, according to a deposition taken by the Justice Department.
+In the antitrust suit, the government asserts that the America Online deal shows how Microsoft used the power of its Windows monopoly to give it an edge in the browser war against Netscape.
+David Colburn, a senior vice president of America Online who took part in the browser negotiations with Microsoft, is a witness for the government.
+Today, Microsoft has overhauled its Internet strategy to focus mainly on building popular special-interest Web sites in fields like travel, personal finance, automobile retailing and news.
+And it is putting these sites, along with e-mail and search features, in an all-in-one site that uses the name MSN.com.
+I still regard Microsoft as a primary threat, Case observed.
+Microsoft has a history of getting it right in the long run, and there's no reason to think it won't in this business as well.
+We will always be in Microsoft's cross hairs.
+THE LESSON : DO N'T CONFRONT A STEAMROLLER At Netscape's headquarters in Silicon Valley, the strategy today is one of avoiding head-to-head competition with Microsoft whenever possible.
+Don't do something that is in Microsoft's path that's the lesson learned, observed Clark, the Netscape chairman.
+Silicon Valley's venture capitalists, the investors who finance so many of the nation's high-tech startups, generally follow the Netscape formula these days.
+Yet that still leaves ample room to prosper.
+For while competing directly with Microsoft is dangerous, the software industry as a whole is an engine of wealth creation, job generation and technical innovation.
+And there is an ambivalent side to the venture community's relationship with Microsoft.
+For if a start-up can not steer clear of Microsoft entirely, the favored option is to be bought out by Microsoft, which has scooped up many fledgling companies as a way of acquiring promising technology and people.
+Microsoft understands start-up innovation and how to co-opt start-up innovation better than any other high-tech company, said James Breyer, managing partner of Accel Partners, a venture capital firm.
+As Microsoft has grown, it has come to be seen not merely as a competitor but as a force of nature that shapes the business environment, like a weather front.
+Microsoft is incredibly pervasive, said Stewart Alsop, a partner with New Enterprise Associates, a venture capital firm in Menlo Park, Calif. At the board meetings of the companies in which his firm has invested, two issues always come up, he said : One is the price of the company's stock, and the other is what Microsoft is going to do.
+In the last few years, Microsoft has offered its guidance during almost yearly meetings between senior Microsoft executives and leading venture capitalists.
+The meetings are part of Microsoft's effort to improve its sometimes prickly relations with Silicon Valley.
+We work hard to provide clarity about where we're going and where we're not going, said Greg Maffei, Microsoft's chief financial officer.
+Last year's conference took place in October at the Quadrus office building on Sand Hill Road in Menlo Park, the Wall Street of high-tech venture investing.
+Maffei led a team of five Microsoft executives who appeared before a group of 40 venture capitalists, one of whom stood and asked the question that seemed to be on the minds of many of his peers : How do I invest in a company that stays out of the way of the steamroller?
+Maffei, recalled one person who attended the meeting, stood up and delivered a brief lecture on businesses that Microsoft was likely to avoid.
+His list included specialized software for manufacturing, human resources management, computer-aided design and others.
+But, this person noted, broad swaths of the industry appeared to be designated as off limits including new software platforms that might compete with Microsoft's personal computer operating system.
+At one point, Ruthann Quindlen, a partner with Institutional Venture Partners, leaned over to Vinod Khosla, a co-founder of Sun Microsystems and a partner at the venture capital firm Kleiner Perkins Caufield& AMP; Byers, and said quietly, I guess that leaves us washing machines and toasters.
+A federal judge Friday pushed back the starting date of the antitrust trial against Microsoft Corp. by four days, to Oct. 19, while also ordering the company to comply with the Justice Department's request to examine Microsoft's financial records.
+Microsoft argued that allowing an army of government attorneys to come in and make demands will make it very difficult for us to remain in business.
+But after winning assurances from government lawyers that they would make only narrow, targeted searches of the records, Judge Thomas Penfield Jackson of the U.S. District Court for the District of Columbia ordered Microsoft to open the database for perusal.
+Microsoft had asked that the trial be delayed several more months to prepare a defense against what it said was a last minute broadening of the case by the Justice Department, which had added new evidence.
+Last month, the government said that in the process of preparing for the trial it had discovered that Microsoft tried to persuade Apple Computer not to market its Quicktime multimedia software to Windows customers.
+On Thursday, the Justice Department and 20 states added two new people to their witness list to testify about Microsoft dealings with Apple and with Sun Microsystems.
+Avi Tevanian, a former Apple executive, was added to the witness list in part to describe Microsoft's proposal, which Microsoft denies ever having made.
+The other new witness was James Gosling, a Sun executive who led the development of Java, an Internet programming language that Microsoft sees as a potential threat to the company's dominance of the software market.
+The government is charging that Microsoft took illegal steps to prevent Java from gaining wide acceptance.
+To counter that, Microsoft named two new witnesses Friday, Robert Muglia, a senior Microsoft executive who has worked with Sun, and Chris Engstrom, an executive who handled some of Microsoft's dealings with Apple.
+At the same time, John Warden, Microsoft's lawyer, argued that the new allegations had no place in the case.
+The Justice Department, Warden told the judge, was trying to turn this into something approximating a plenary monopoly case like the IBM case.
+It becomes clearer and clearer and clearer with each new filing that they are trying to turn this into a broader case, he said.
+You can't have this bait-and-switch in which they file a complaint alleging A, B, C, and then talk about the whole alphabet three times over.
+As a result, Warden said, Microsoft wanted, at a minimum, another two-week delay, even though a more normal schedule would have the trial start next year.
+The judge did not respond.
+Instead he entered an order setting the Oct. 19 trial date.
+Late Friday, Microsoft entered a formal motion asking for another two-week delay.
+A response is expected next week.
+Microsoft Corp. has said that material in an unpublished book by two business school professors will be a crucial part of its defense in the antitrust trial scheduled to begin next week.
+But judging from an advance copy of the manuscript, the Justice Department and 20 states that are suing the software giant will find support for their arguments in the book as well.
+To cite one example, Microsoft contends that its industry-standard Windows operating system and its Internet Explorer browser are a single integrated product.
+In its suit, the government asserts that they are two separate products that Microsoft bundled together to get an unfair edge over its rival, Netscape Communications Corp., in the market for software used to browse the Internet's World Wide Web.
+In Competing on Internet Time : Lessons from Netscape and Its Battle with Microsoft, the authors, Michael A. Cusumano of the Massachusetts Institute of Technology's Sloan School of Management and David B. Yoffie of the Harvard business school, quote a Microsoft executive as saying that only with the third version of Microsoft's browser was it integrated with Windows.
+Microsoft hurried its first browser offerings into the market, the book says, in its race to catch up with Netscape, then took a more ambitious approach with Internet Explorer 3.0, which was introduced in August 1996.
+In that version it changed its software design to use programming modules, or components, that could be put together and rearragned like building blocks.
+In the book, Ben Slivka, a Microsoft general manager, is quoted as saying, IE 3.0 was the key thing because we did the componentized browser, He added, We really made Internet Explorer part of the Windows platform.
+The timing could be legally significant because in its suit the government cites as evidence requests before August 1996 by personal computer makers that wanted to load Netscape's browser on their machines instead of Microsoft's browser.
+Microsoft denied the requests, insisting its browers and Windows were a single, integrated product.
+Microsoft's legal team obtained an early manuscript of the new book last month, by issuing a subpoena to a Netscape executive who was given a confidential copy by the authors to review.
+Microsoft has also sought the transcripts of 44 current and former Netscape employees interviewed by the authors.
+A federal judge in Boston last week denied Microsoft access to that research materials, but the company may appeal the ruling.
+The new book, published by the Free Press imprint of Simon& AMP; Schuster, is being hurried into print so it can be shipped within days of the start of the Microsoft trial on Oct. 19.
+But already, a few quotes from Netscape executives have leaked out.
+The authors decided to send the complete manuscript to The New York Times and three other news organizations Monday, so that the material could be read in context.
+Microsoft intends to use material from the book as evidence that Netscape's troubles resulted largely from its own missteps rather than from any alleged predatory practices by Microsoft.
+The book does detail where Netscape stumbled, shifting its strategy too often and running into obstacles in its software development efforts.
+In private antitrust suits, the argument that the competitor was his own worst enemy is an established defense.
+But legal experts say that defense may well be far less effective in a federal case in which the government is seeking court-mandated changes in Microsoft's business practices rather than the monetary damages that are the goal of plaintiffs in private cases.
+It seems to me that this debate over Netscape's mistakes is a total sideshow, said Robert Litan, a former senior official in the Justice Department's antitrust division, who is now at the Brookings Institution.
+But Microsoft has a big legal team, and it seems they are working on every defense they can find.
+The book quotes a former Netscape executive, Ram Shriram, as saying the company bungled a chance to win a sizable share of the browser business from America Online Inc.
+But that was a second-chance to do a deal with America Online, the leading online service.
+The government's case focuses on an earlier deal in March 1996, when America Online chose Internet Explorer as its preferred browser; in that bargain Microsoft agreed to place a startup icon for the online service on the main Windows desktop screen the prime real estate in computing.
+For a book entitled Competing on Internet Time, it is intriguing that one of its central themes is that Netcape got too wedded to the notion that the Internet revolution would change everything quickly.
+Microsoft, by contrast, stuck to its three-year planning horizon that enabled the company, the authors write, to mesh its short-run tactical plans with a broader strategic view of how to win the war.
+The book quotes Steve Ballmer, Microsoft's president, as saying, The fact of the matter is that customers can't take cataclysmic change every three months.
+The organization also can't.
+You can ship products quickly.
+But you can't say, Oh, we have a radically new strategy every three months.
+The case of United States vs. Microsoft Corp., the government's most aggressive move against a monopolist in almost 25 years, is playing out against a century of antitrust laws so broadly worded and court rulings so ambiguous that both sides are citing the same rulings to support their opposing arguments.
+Whatever the outcome of the trial, scheduled to begin Monday in U.S. District Court in Washington, an almost certain appeal will leave to the Supreme Court the task of bringing legal order to 100 years of clashing antitrust doctrines.
+The case focuses on Microsoft's Windows, the operating system that controls about 90 percent of all personal computers sold today.
+The government says its objective is to curb illegal monopolistic business practices that threaten to render large parts of the economy vulnerable to the vicissitudes of a single company.
+Microsoft asserts that the case is intended to give the government control over which features can be added to Windows.
+However grand the economic stakes, the legal dispute is narrow.
+The government says that Microsoft's contracts with computer manufacturers and with companies that provide access to the Internet illegally stifle competition.
+The contracts prohibit manufacturers from substituting Netscape Communications Corp.'s Navigator browser for Microsoft's Internet Explorer.
+They also prohibit them from removing from the Windows main screen, or desktop, links to sites on the World Wide Web run by Microsoft or its partners.
+Microsoft's contracts with companies that connect people to the Internet and with businesses that sell goods and services on the Web require favored treatment for Internet Explorer over Navigator in exchange for links on the Windows desktop.
+In the wake of the lawsuit, Microsoft has voluntarily dropped some of these requirements, though it could reinstate them at will.
+Microsoft says that its contracts are legal because they produce tangible benefits for customers, including easier Internet access.
+The Justice Department says that the bundling of Explorer with Windows 95 and the inclusion of the browser as part of Windows 98 amount to tying, an illegal practice that forces customers of one product to purchase another.
+The contracts with manufacturers and Internet services are illegal, the government says, because they are intended not only to create a monopoly in the browser market but to protect Microsoft's existing monopoly in operating systems.
+The latter threat is key, according to the Justice Department.
+Browsers have the potential, like an operating system, to act as a software platform on which other programs run.
+So contracts intended to drive browsers out of the market would also insulate the Windows monopoly.
+Many antitrust experts say the problem facing the Justice Department is that the courts have provided no clear definition of tying and no clear guidelines for determining when contracts are illegally exclusionary.
+Professor Lawrence White of New York University, who was chief economist of the Justice Department's antitrust division in the early 1980s, says that the courts treat tying as an unusual practice when in fact it is ubiquitous.
+No one, he said, would challenge the right of manufacturers to tie erasers to the tip of pencils, tires to an automobile or buttons to shirts.
+His point, shared widely among economists, is that some tying benefits consumers if, for example, it results in products that are easier to use or enables a company to recover development costs.
+But tying can be bad if it locks in monopoly power.
+The courts, White says, have not offered enough guidance for distinguishing good tying from bad, which is the nub of the legal dispute.
+Microsoft says it needs only to show that bundling Windows and Explorer passes what might be called a gross consumer benefits test that it offers an immediate benefit, whether or not it causes long-term damage to competition and, therefore, ultimately to consumers.
+The Justice Department says that Microsoft's practices must clear a higher hurdle : yielding net consumer benefits that are immediate and large enough to balance possible long-term harm to competition.
+So which test of consumer benefits satisfies antitrust laws?
+The simple answer is that no one knows for sure, which is why both sides can reasonably cite the same cases without fear of embarrassment.
+Consider a 1985 case, Aspen Skiing Co. vs. Aspen Highlands Skiing Corp., and a 1951 case, Lorain Journal Co. vs. United States.
+In the first, Aspen Skiing, the owner of three major ski runs in Aspen, Colo. the monopolist had for years sold a ticket in cooperation with Aspen Highlands, a competitor, that gave skiers access to both companies runs.
+When Aspen Skiing unilaterally canceled the agreement, its rival's revenues shriveled and the rival sued.
+The Supreme Court ruled that Aspen Skiing had violated antitrust laws because there was no evidence its action helped consumers.
+In the Lorain Journal case, the only local newspaper in Lorain, Ohio, refused to sell advertising to companies that advertised on a new radio station.
+Here, too, the Supreme Court ruled that the exclusionary practice did nothing to benefit consumers.
+Indeed, in Aspen Skiing, the court even forced the monopolist to do business with its rival, a precedent that augurs well for the Justice Department, which seeks to force Microsoft to install Netscape's browser alongside its own.
+But Charles Rule, a legal consultant to Microsoft, says that in both cases the courts threw out exclusionary practices only because they offered no consumer benefit.
+The courts, he argues, never pounced on practices that resulted in lower prices or better products or service.
+Nor did the courts in either case call for balancing immediate benefits against hypothetical long-term harm.
+Rule argues that Microsoft's practices produce demonstrable consumer benefits.
+Besides, he says, unlike the actions taken by The Lorain Journal or Aspen Skiing, Microsoft's contracts do not prevent consumers from installing Netscape's browser or from using the Web sites of Microsoft's rivals.
+In truth, though, neither case answered what consumer benefit test should apply to product design.
+In Jefferson Parish Hospital District No.
+2 et al.
+vs. Hyde, another case cited by both sides, the Supreme Court in 1984 recognized that surgeons and anesthesiologists provide an integrated service.
+Yet, the court said, a hospital with monopoly power would still not be allowed to force surgical patients to use its panel of anesthesiologists if consumers wanted to purchase the two services separately.
+That principle could undercut Microsoft's defense that the functional interdependence of Windows and Explorer requires bundling.
+But Microsoft will point to a strong concurring opinion that called for a tougher standard for the government to meet when it alleges tying.
+Microsoft will also draw support from several court rulings that allowed IBM to change the design of its computers in ways that made it hard for vendors to attach peripheral equipment.
+But perhaps Microsoft's best argument is that nowhere has the government identified a single case in which the courts explicitly called for throwing out a tied product on the basis of a balancing test.
+The courts, Microsoft will emphasize, steer clear of redesigning technically sophisticated products.
+The Justice Department's rejoinder is to note that the sole purpose of antitrust law is to protect consumers, so it makes no sense to bless practices that provide a dollar's worth of benefits today but, by stamping out competition, drive prices up by$ 1,000 tomorrow.
+The Justice Department will ask the court to at least insist that monopolists use the least exclusionary means possible to achieve whatever services they provide customers.
+Experts agree that the courts will subject Microsoft's restrictive contracts with Internet companies to a balancing test.
+But exactly how the court will decide whether consumers are helped or hurt is up for grabs.
+A balancing test would have the courts weigh the immediate benefits to consumers of one-click access to Internet sites and of features of a bundled Windows-Explorer package versus the harm over time of diminished competition in the markets for browsers and operating systems.
+But a test that makes good sense in theory can prove fiendishly difficult to use in practice.
+Balancing tests are impossibly difficult and arbitrary, said Rep. Thomas Campbell, R-Calif., who is a former law professor at Stanford University.
+The practical effect of balancing is to hand defendants like Microsoft almost certain victory.
+Microsoft argues and many antitrust experts agree that the courts have in fact gravitated away from a balancing test toward a simpler predation test for exclusionary contracts.
+Under this standard, a contract is illegal only if it is intended to drive out competition and thus to pave the way for a monopolist to raise prices later.
+Microsoft will have an easier time defending itself against a charge of predation, which amounts to victimizing its customers, than it would defending itself against a charge that its bundled product does consumers slightly more harm than good.
+The antitrust record, says William Baxter, who headed the antitrust division under President Reagan, is littered with contradictory, ambiguous and sometimes nonsensical verdicts.
+He and other legal experts agree that if nothing else, that record leaves plenty of legal leeway for the Supreme Court, should it hear the Microsoft case, to stiffen the spine of the antitrust law.
+The case of United States vs. Microsoft Corp., the government's most aggressive move against a monopolist in almost 25 years, is playing out against a century of antitrust laws so broadly worded and court rulings so ambiguous that both sides are citing the same rulings to support their opposing arguments.
+Whatever the outcome of the trial, scheduled to begin Monday in U.S. District Court in Washington, an almost certain appeal will leave to the Supreme Court the task of bringing legal order to 100 years of clashing antitrust doctrines.
+The case focuses on Microsoft's Windows, the operating system that controls about 90 percent of all personal computers sold today.
+The government says its objective is to curb illegal monopolistic business practices that threaten to render large parts of the economy vulnerable to the vicissitudes of a single company.
+Microsoft asserts that the case is intended to give the government control over which features can be added to Windows.
+However grand the economic stakes, the legal dispute is narrow.
+The government says that Microsoft's contracts with computer manufacturers and with companies that provide access to the Internet illegally stifle competition.
+The contracts prohibit manufacturers from substituting Netscape Communications Corp.'s Navigator browser for Microsoft's Internet Explorer.
+They also prohibit them from removing from the Windows main screen, or desktop, links to sites on the World Wide Web run by Microsoft or its partners.
+Microsoft's contracts with companies that connect people to the Internet and with businesses that sell goods and services on the Web require favored treatment for Internet Explorer over Navigator in exchange for links on the Windows desktop.
+In the wake of the lawsuit, Microsoft has voluntarily dropped some of these requirements, though it could reinstate them at will.
+Microsoft says that its contracts are legal because they produce tangible benefits for customers, including easier Internet access.
+The Justice Department says that the bundling of Explorer with Windows 95 and the inclusion of the browser as part of Windows 98 amount to tying, an illegal practice that forces customers of one product to purchase another.
+The contracts with manufacturers and Internet services are illegal, the government says, because they are intended not only to create a monopoly in the browser market but to protect Microsoft's existing monopoly in operating systems.
+The latter threat is key, according to the Justice Department.
+Browsers have the potential, like an operating system, to act as a software platform on which other programs run.
+So contracts intended to drive browsers out of the market would also insulate the Windows monopoly.
+Many antitrust experts say the problem facing the Justice Department is that the courts have provided no clear definition of tying and no clear guidelines for determining when contracts are illegally exclusionary.
+Professor Lawrence White of New York University, who was chief economist of the Justice Department's antitrust division in the early 1980s, says that the courts treat tying as an unusual practice when in fact it is ubiquitous.
+No one, he said, would challenge the right of manufacturers to tie erasers to the tip of pencils, tires to an automobile or buttons to shirts.
+His point, shared widely among economists, is that some tying benefits consumers if, for example, it results in products that are easier to use or enables a company to recover development costs.
+But tying can be bad if it locks in monopoly power.
+The courts, White says, have not offered enough guidance for distinguishing good tying from bad, which is the nub of the legal dispute.
+Microsoft says it needs only to show that bundling Windows and Explorer passes what might be called a gross consumer benefits test that it offers an immediate benefit, whether or not it causes long-term damage to competition and, therefore, ultimately to consumers.
+The Justice Department says that Microsoft's practices must clear a higher hurdle : yielding net consumer benefits that are immediate and large enough to balance possible long-term harm to competition.
+So which test of consumer benefits satisfies antitrust laws?
+The simple answer is that no one knows for sure, which is why both sides can reasonably cite the same cases without fear of embarrassment.
+Consider a 1985 case, Aspen Skiing Co. vs. Aspen Highlands Skiing Corp., and a 1951 case, Lorain Journal Co. vs. United States.
+In the first, Aspen Skiing, the owner of three major ski runs in Aspen, Colo. the monopolist had for years sold a ticket in cooperation with Aspen Highlands, a competitor, that gave skiers access to both companies runs.
+When Aspen Skiing unilaterally canceled the agreement, its rival's revenues shriveled and the rival sued.
+The Supreme Court ruled that Aspen Skiing had violated antitrust laws because there was no evidence its action helped consumers.
+In the Lorain Journal case, the only local newspaper in Lorain, Ohio, refused to sell advertising to companies that advertised on a new radio station.
+Here, too, the Supreme Court ruled that the exclusionary practice did nothing to benefit consumers.
+Indeed, in Aspen Skiing, the court even forced the monopolist to do business with its rival, a precedent that augurs well for the Justice Department, which seeks to force Microsoft to install Netscape's browser alongside its own.
+But Charles Rule, a legal consultant to Microsoft, says that in both cases the courts threw out exclusionary practices only because they offered no consumer benefit.
+The courts, he argues, never pounced on practices that resulted in lower prices or better products or service.
+Nor did the courts in either case call for balancing immediate benefits against hypothetical long-term harm.
+Rule argues that Microsoft's practices produce demonstrable consumer benefits.
+Besides, he says, unlike the actions taken by The Lorain Journal or Aspen Skiing, Microsoft's contracts do not prevent consumers from installing Netscape's browser or from using the Web sites of Microsoft's rivals.
+In truth, though, neither case answered what consumer benefit test should apply to product design.
+In Jefferson Parish Hospital District No.
+2 et al.
+vs. Hyde, another case cited by both sides, the Supreme Court in 1984 recognized that surgeons and anesthesiologists provide an integrated service.
+Yet, the court said, a hospital with monopoly power would still not be allowed to force surgical patients to use its panel of anesthesiologists if consumers wanted to purchase the two services separately.
+That principle could undercut Microsoft's defense that the functional interdependence of Windows and Explorer requires bundling.
+But Microsoft will point to a strong concurring opinion that called for a tougher standard for the government to meet when it alleges tying.
+Microsoft will also draw support from several court rulings that allowed IBM to change the design of its computers in ways that made it hard for vendors to attach peripheral equipment.
+But perhaps Microsoft's best argument is that nowhere has the government identified a single case in which the courts explicitly called for throwing out a tied product on the basis of a balancing test.
+The courts, Microsoft will emphasize, steer clear of redesigning technically sophisticated products.
+The Justice Department's rejoinder is to note that the sole purpose of antitrust law is to protect consumers, so it makes no sense to bless practices that provide a dollar's worth of benefits today but, by stamping out competition, drive prices up by$ 1,000 tomorrow.
+The Justice Department will ask the court to at least insist that monopolists use the least exclusionary means possible to achieve whatever services they provide customers.
+Experts agree that the courts will subject Microsoft's restrictive contracts with Internet companies to a balancing test.
+But exactly how the court will decide whether consumers are helped or hurt is up for grabs.
+A balancing test would have the courts weigh the immediate benefits to consumers of one-click access to Internet sites and of features of a bundled Windows-Explorer package versus the harm over time of diminished competition in the markets for browsers and operating systems.
+But a test that makes good sense in theory can prove fiendishly difficult to use in practice.
+Balancing tests are impossibly difficult and arbitrary, said Rep. Thomas Campbell, R-Calif., who is a former law professor at Stanford University.
+The practical effect of balancing is to hand defendants like Microsoft almost certain victory.
+Microsoft argues and many antitrust experts agree that the courts have in fact gravitated away from a balancing test toward a simpler predation test for exclusionary contracts.
+Under this standard, a contract is illegal only if it is intended to drive out competition and thus to pave the way for a monopolist to raise prices later.
+Microsoft will have an easier time defending itself against a charge of predation, which amounts to victimizing its customers, than it would defending itself against a charge that its bundled product does consumers slightly more harm than good.
+The antitrust record, says William Baxter, who headed the antitrust division under President Reagan, is littered with contradictory, ambiguous and sometimes nonsensical verdicts.
+He and other legal experts agree that if nothing else, that record leaves plenty of legal leeway for the Supreme Court, should it hear the Microsoft case, to stiffen the spine of the antitrust law.
+The legal tool that the government is using in its assault on Microsoft Corp. the Sherman Antitrust Act of 1890 is brief, vague and malleable.
+The combination has meant that this bedrock statute of antitrust policy has been at turns toothless and powerful over the years, depending on the politics and economics of the day as interpreted by the courts.
+Sponsored by Sen. John Sherman, an Ohio Republican who was the younger brother of the Civil War general William Tecumseh Sherman, the act was passed as a nod to a popular backlash against the rise of the industrial trusts in oil, steel and railroads.
+Farmers, laborers and small-business owners sizable voting groups resented the trusts as vehicles of concentrated power.
+But the trusts, large national holding corporations, were viewed by many others as engines of modernization and industrialization.
+Economists at the time opposed the Sherman Act, and the law that Congress passed was a vaguely worded compromise.
+No one knew what impact it would have, but one senator, quoted in Matthew Josephson's The Robber Barons, explained that nearly everyone agreed that something must be flung out to appease the restive masses.
+The act's two key provisions, Sections 1 and 2, mention conspiracy, restraint of trade and attempt to monopolize.
+Yet while the Sherman Act is now interpreted as the Magna Carta of competition, it never uses the term.
+After it was passed, critics of the trusts derided the impenetrable language of the Sherman Act and called it the Swiss Cheese Act.
+But by the early 1900s, the political climate had changed.
+The growing antagonism for the trusts, especially as income gaps widened, was tapped by an avowed trustbuster, Theodore Roosevelt, who became president in 1901.
+The Sherman Act has always been an elastic piece of social legislation, used to attack perceived exploitation and the aggregation of power, said Eleanor Fox, a professor at the New York University Law School.
+The model trust and the principal target of the trustbusters was Standard Oil.
+Shrewdly, Roosevelt made a distinction between good trusts, which thrived because of their superior efficiency, and bad trusts, which grew not as the result of inevitable economic forces but because of unfair business practices.
+Throughout the 1880s and'90s, Standard Oil's rivals had complained about the company and the business practices of its founder, John D. Rockefeller.
+But during those years, the price of kerosene burned to light the nation's homes _declined steadily.
+So Standard Oil, it could could reasonably be argued, was an enterprising monopoly.
+In the early 1900s, though, Standard Oil raised prices in the United States to prop up its profits at a time it was engaged in a price war against Royal Dutch/Shell in Europe, where Standard Oil did face genuine competition.
+When consumers were hurt by the Standard Oil monopoly, popular support for antitrust action against the company swelled, encouraged by Roosevelt and his successor, William Howard Taft.
+The federal suit against Standard Oil was filed in 1906, and the Supreme Court approved the breakup of the company in 1911.
+Standard Oil and the Microsoft case, historians observe, have some common themes.
+Both were dominant companies of their day, and Bill Gates, the Microsoft chairman, has been called a modern Rockefeller.
+But there is no presidential involvement and there is no real consumer dissatisfaction in the Microsoft case, said Ron Chernow, author of Titan, a best-selling biography of Rockefeller.
+And Rockefeller, Chernow added, never went through the kind of honeymoon period of widespread public adulation and favorable press coverage as Bill Gates has had.
+The government's antitrust scrutiny of Microsoft, the world's largest independent software company, has spanned Republican and Democratic administrations and involved hundreds of government lawyers and investigators.
+But it has by no means been an example of consistent, coordinated public policy.
+Nor, by all accounts, of politics.
+Instead, like the software industry itself, the government's pursuit of Microsoft has taken leaps, hit dead ends and evolved in ways no one could have controlled or predicted back when it started in 1989.
+It was in November of that year, on a hot afternoon at a computer-industry convention in Las Vegas, Nev., that Bill Gates, Microsoft's chairman, looked like he'd been dragged to the news conference with a senior executive from IBM which at the time dominated Microsoft and the entire computer industry.
+The two companies IBM, then the leading maker of personal computers and Microsoft, the leader in PC operating system software were collaborating on the design and marketing of a new operating system called OS/2.
+But Microsoft was also beginning to sell a competing product, Windows.
+The industry trade press was full of worried articles : which system was going to become the new standard?
+With Gates standing uncomfortably at his side, James Cannavino, an IBM divisional president, said that the two companies wanted to clear the air.
+OS/2 was the future, he said.
+As for Windows, he added, it would remain a niche product for under-equipped computers.
+Windows, he asserted, would never receive all the advanced features of OS/2.
+Gates certainly did not look happy.
+But he did not disagree.
+The news conference got little attention, just a few articles deep inside newspapers and trade publications.
+But a few weeks later, Norris Washington, a senior antitrust lawyer with the Federal Trade Commission, happened to read one of those articles, in Byte magazine.
+IBM and Microsoft have now defined their unified vision of graphical operating environments, the article said, and it looks sort of like a U.S. economic model, divided into lower-, middle- and upper-class products.
+As Washington saw it, IBM and Microsoft were colluding to divide the operating-system market a potential violation of antitrust law.
+Soon the FTC staff opened an investigation of Microsoft and IBM And since that small first step, Microsoft has been under unrelenting scrutiny from federal antitrust investigators for a constantly evolving series of allegations and charges, month after month, year after year, for the last nine years.
+Now comes the antitrust trial scheduled to begin on Monday, with a multiplicity of charges woven of threads drawn from more than a dozen different investigative inquiries during that nine-year span.
+Microsoft, today the most feared company in the software business and carrying a stock-market value of nearly$ 234 billion, presents a huge and highly visible antitrust target.
+Yet, while the company's allies ask, What is the Clinton administration's political agenda in going after Microsoft?
+the answer seems to be there is none.
+In interviews, more than a dozen current and former senior antitrust officials whether friends of the government or of Microsoft all say the Justice Department's antitrust suit is a natural outgrowth of the previous investigations.
+As for politics, all the officials agreed that the antitrust division operates independent of the administration's political considerations.
+Charles Rule was the assistant attorney general who headed the antitrust division during the Bush administration, and he is now a Washington lawyer who serves as an adviser and advocate for Microsoft.
+When I was there, Rule said of his Justice days, the White House was punctilious in terms of never getting involved in whatever we decided to do.
+There was no communication between antitrust and other branches of government.
+Asked if he believed that policy had changed under the Clinton administration, he said : Not really.
+I've seen nothing to suggest it.
+Joel Klein heads the antitrust division now, and in an interview dealing with his division's role in the Clinton administration's technology policy, not specifically relating to the Microsoft case, he said : There is no statutory restriction, but as a practical matter, civil and criminal prosecutions are invariably carried out without any political contact.
+Klein said, by way of examples, that he might discuss merger cases involving military or aviation industries with the Defense Department or Transportation Department.
+But never the White House, he said.
+For a significant case, we might call the White House and say An hour from now we are going to hold a press conference.
+The last time there was any interference, he added, was the Dita Beard-ITT case.
+Mrs.
+Beard, a lobbyist for ITT Corp., was accused in 1972 of having written a memo saying that a$ 400,000 donation to the Republican National Convention had gone a long way toward settling antitrust suits brought against the company by the Nixon administration's Justice Department.
+The authenticity of the memo was never proved, and Mrs.
+Beard always denied writing it.
+In any case, Klein says, since Watergate, it's been immaculate.
+In the case of Microsoft, neither President Clinton nor Vice President Al Gore has ever volunteered a comment.
+In answer to a question during a news conference in May, just before the suit was filed, Clinton said : I have taken the view that I should not comment on matters within the Justice Department.
+At this time, I do not think I should depart from that policy on this case, even though it obviously will have a big impact on an important sector of our economy.
+But I have to say, based on what I know to date, I have confidence in the way the antitrust division in the Justice Department has handled the matter.
+Since then, Clinton has said nothing else about the case, publicly at least.
+And Gore, who generally represents the administration on technology issues, has never commented at all.
+In Rule's opinion, the administration would be foolish to involve itself, even if it were politically acceptable to do so.
+It would be a little odd for the administration to push the Justice Department in this suit, he said.
+It would be a policy mistake and a political mistake.
+I would be hard pressed to explain why they would do that.
+Taking sides in the highly charged technology world is dangerous, particularly since the Democrats rely on Silicon Valley companies for political donations and support.
+In fact, the present and former government officials all said the suit was simply a natural extension of the inquiries conducted during the last nine years.
+They began at the FTC.
+Soon after Washington read that article in Byte, the FTC staff opened an investigation of the Windows-OS/2 question.
+But as has happened so often in the following years, turns in the market made the initial inquiry irrelevant.
+Microsoft abandoned its agreement with IBM, and Windows quickly grew to be the industry standard, while OS/2 remained a cipher.
+But as that issue faded, once government investigators began looking at Microsoft they found other things that troubled them.
+In 1991 Washington, who still works for the FTC, informed Microsoft that the investigation was being expanded.
+The agency, his letter said, was now trying to determine whether Microsoft was using its dominant position in operating-systems software to stifle competition in other areas.
+That general idea lies at the heart of the present suit.
+One former senior FTC official said the commission staff had confidence in the case but realized that the Reagan-era commissioners, who had to approve any suit, might have a different view.
+We knew the commission might have difficulty with a monopolization case, the former official said.
+They hadn't brought a case in years.
+And in fact, in 1993 the commission voted 2-2 on the question of whether to file formal charges.
+The deadlock served as a dismissal.
+Then, a few months later, the Justice Department decided to pick up the case.
+It was farther along than most cases we got, recalled Robert Litan, a former senior official in the Justice Department's antitrust division who is now at the Brookings Institution.
+Usually a case would be two or three people complaining and a few documents, he said.
+But this was a fully researched record.
+They gave us the files and briefed us on what they had done.
+The Justice Department lawyers picked up the same thread.
+The general idea behind our inquiry, Litan said, was that they should not be allowed to use their monopoly in operating systems to cement a monopoly in other areas.
+In 1995, Microsoft and the government reached a consent agreement in which the company promised to stop forcing PC makers to buy one copy of a Microsoft operating system for every computer sold instead of one for every computer on which the operating system, MS-DOS or Windows, was installed.
+The company also agreed to stop tying the sale of one software product to the sale of another.
+The charges in the present suit are similar in many ways.
+Even with the agreement, the government investigations continued.
+That same year, Justice Department investigators showed up at the offices of Netscape Communications Corp. for the first time to ask questions about their next line of inquiry.
+America Online had been complaining, a senior Netscape executive recalled, because Microsoft was bundling the Microsoft Network, a competing online service, with Windows.
+Once more, market forces overtook the investigation.
+The Microsoft Network never grew particularly popular while America Online prospered and grew.
+But, not surprisingly, new complaints filled the void.
+In May 1995, Anne Bingaman, the assistant attorney general who headed the antitrust division, remarked : We get complaints about Microsoft all the time.
+We have become a kind of Microsoft complaints center.
+And we take them very seriously.
+In 1996, Netscape's first complaint arrived.
+In a letter to the Justice Department, Netscape said that Microsoft was using its dominance in personal-computer operating systems to force or persuade computer makers to favor Microsoft's browser, used to explore the World Wide Web, over the one marketed by Netscape.
+The next year the Justice Department formally charged Microsoft with violating the consent agreement by tying sales of Windows to installation of the company's Web browser on new computers.
+It seemed like a slam-dunk violation of the consent decree, a natural extension of that case, recalled Litan, who had left the department by then.
+A Federal District Court judge agreed, but an Appeals Court panel overturned that ruling this summer.
+In the meantime, last May the Justice Department and 20 state attorneys general filed their new suit against Microsoft, which is scheduled for trial on Monday.
+It contends that Microsoft has engaged in bundling, tying and other predatory behavior similar in many ways to the numerous previous allegations and investigations of the last nine years.
+A good part of this case is just Round II of the case we dealt with in Round I, in the early in the 1990s, Litan said.
+Or, as the former senior FTC official put it, there's certainly a common thread that runs all the way through here.
+But through the years that thread has been twisted, pulled and spun by hundreds of different hands.
+Shortly before the government filed its antitrust suit against Microsoft Corp. in May, Joel Klein, the assistant attorney general in charge of the Justice Department's antitrust division, met with a Silicon Valley executive.
+The executive recalls telling Klein that unless a case went beyond the Internet browser market, it would have little effect on Microsoft's power to stifle competition across the computer industry.
+Klein replied that he understood the computer executive's concerns.
+But he said time was running short and the strongest evidence in hand involved Microsoft's battle against Netscape Communications Corp. in the market for the so-called browser software used for navigating the Internet.
+This is a Netscape case, the executive recalls Klein saying.
+But five months later, the case that the government is bringing to trial on Monday extends well beyond Netscape and the browser war to embrace what it described in a recent court filing as a broad pattern of anti-competitive conduct by Microsoft.
+Netscape, the government insists, is still a prime example of the pattern but only one of several examples.
+The 12-person witness list for the Justice Department and 20 states suing Microsoft reflects the new evidence added to the case since May.
+James Barksdale, Netscape's president and chief executive, will appear first, but he will be followed by executives representing a cross section of the nation's high-technology companies including Intel, IBM, Sun Microsystems, Apple Computer, America Online and Intuit.
+In bringing a more ambitious, complicated case to trial than the one it filed in May, the government has chosen a high-risk strategy.
+The law states that new evidence can be added to a suit after it is filed, but not new charges.
+And so, in his federal courtroom in Washington, U.S.District Judge Thomas Penfield Jackson could decide to rule out some of the new evidence as ranging too far afield from the original suit.
+But if the government wins its broadened case, the court-ordered remedies would no doubt be far tougher on Microsoft.
+In May, the government's suggested steps amounted to equal treatment for Netscape's browser and Microsoft's browser.
+But the government recently asked that the judge hold a separate hearing on remedies, if it wins the case.
+The remedies under consideration now include more basic changes in Microsoft's business practices perhaps even a breakup of the company intended to loosen Microsoft's grip on computing.
+That would be precisely the kind of sweeping reform that Microsoft's foes would applaud.
+The government has doubled the bet and doubled the stakes, said David Yoffie, a professor at the Harvard business school who is co-author of the book, Competing on Internet Time : Lessons From Netscape and Its Battle With Microsoft.
+Meanwhile, in the Microsoft camp, the government's strategy is dismissed as a desperate act taken after a court ruling in June that threatened to undermine the antitrust suit.
+That ruling came in a separate case, involving the interpretation of the consent decree that Microsoft signed with the Justice Department in 1995.
+In the June ruling, a federal appeals court said that Microsoft could bundle its browser with its industry-standard Windows operating system and call them one product.
+The appeals-court ruling would seem to undercut the assertion in the government's current antitrust case that the browser and the operating system were two separate products, bundled together and given away in an effort to thwart competition in the browser market.
+With the appeals-court ruling in June, the government lost the heart of its case, said Charles Rule, a former senior official in the Justice Department, who is now a consultant to Microsoft.
+So it has taken a blunderbuss approach of scrambling to throw everything it can find even evidence the Justice Department has had for years into the gun barrel and see what hits.
+The June appellate ruling did shake the prosecution team.
+But mostly it strengthened the hand of those within the Justice Department who had been urging that the case be broadened, according to people who have worked on the investigation.
+At the same time, they say, new evidence was coming in as the investigation moved ahead and prosecutors raced to meet the accelerated trial schedule approved by the court.
+Speed was a priority from the outset, they say.
+The Justice Department and the states filed their suit in May to move before Microsoft's new operating system, Windows 98, was introduced in June.
+While not seeking to block the release of Windows 98, government lawyers wanted to get to the the courtroom as early as possible as PC makers and computer users adopt this latest version of Microsoft's Windows operating system, which functions as the central nervous system for more than 90 percent of personal computers sold.
+The key allegations, government lawyers note, have not changed since May namely, that Microsoft illegally used its market power in operating systems to defend its monopoly position and to try to extend into new markets.
+But the only thing that was wrapped up in a bow in time for the May filing was the browser, said one person who worked on the case.
+The real game plan was always to get a broader case.
+What is more, one person noted, the prosecution team was not at full strength until shortly before the suit was filed.
+David Boies, a renowned courtroom litigator and a former partner at Cravath, Swaine& AMP; Moore who successfully defended IBM in its 13-year confrontation with the government, was named as special counsel for the Justice Department last December.
+But Boies, who left Cravath last year, did not start working full-time for the Justice Department until mid-April, because he was still finishing private cases for his own firm, Boies& AMP; Schiller.
+The antitrust suit filed in May leaned heavily on the Netscape story, mentioning Microsoft's main rival in the browser market some 130 times in the complaint and a supporting memorandum.
+But it also prominently mentioned Microsoft's tactics against Sun Microsystems, creator of Java, an Internet programming language, and cited it as an example of Microsoft's behavior.
+It was crafted as a template that could be added to without much stretching, one person involved in the case said.
+And so, as new evidence piled up and seemed to fit into a pattern, Klein step by step approved the widening of the case, the person said.
+And that explains, the person continued, how it is that evidence that has been in the hands of the Justice Department for years has been added to the case since May; only after gathering new evidence did it become apparent that the older material fit the pattern of the current case.
+For example, the government has added the contention that Microsoft pressured Intel Corp., the big microchip maker and a close partner of Microsoft, to curb its development efforts in multimedia and Internet software because they might conflict with Microsoft's plans.
+The government contends that the arm-twisting occurred at meetings between the two companies three years ago, especially one on Aug. 2, 1995, which was attended by Andrew Grove, the Intel chairman, and Bill Gates, the Microsoft chairman.
+Part of the government's evidence in the Intel-Microsoft episode is copies of the handwritten notes taken by Steven McGeady, an Intel vice president who attended the meetings, and a memo written by him on Aug. 28, 1995.
+The memo, still under court seal, said that Gates made vague threats and was livid about Intel's investments in the Internet and wanted them stopped.
+A handwritten note, also under court seal, quotes Paul Maritz, a Microsoft executive, as saying that Netscape is their common enemy and that Intel's role should be to fill in stuff in and around Microsoft's strategy.
+These documents were sent by Intel to the Justice Department's office in San Francisco in November 1995, in response to a Civil Investigative Demand a civil subpoena served on Intel on Nov. 10, 1995.
+On its own, the Intel material was intriguing, but it became part of the antitrust suit only as other evidence surfaced, one person close to the case said.
+The government is contending that Microsoft also tried to urge Apple to stop selling its Quicktime multimedia software in the Windows market and tried to convince Real Networks Inc. to pull back in the market for so-called streaming software.
+The government case has also broadened, people involved in the case say, as more witnesses from the industry have been increasingly willing to testify.
+In the beginning, most people in the industry believed that the government would lose and Microsoft would retaliate if they came forward, one person said.
+But as the strength of our case was perceived to improve, more people were willing to come forward, and things snowballed.
+You get Intel, it's easier to get Apple and so on.
+Following is the text of the first two sections of the Sherman Act, as passed by Congress in 1890.
+As the foundation on which federal antitrust law has been built, the act has been amended several times elevating the crime to a felony, increasing the fines and prison terms for individuals and setting fines for corporations convicted of violating it.
+In the case of Microsoft, the government has invoked the Sherman Act to file a civil suit that seeks to change the company's business practices, not a criminal suit that seeks financial penalties.
+An Act to Protect Trade And Commerce Against Unlawful Restraints and Monopolies : Section 1.
+Every contract, combination in the form of trust or otherwise, or conspiracy, in restraint of trade or commerce among the several States, or with foreign nations, is hereby declared to be illegal.
+Every person who shall make any such contract or engage in any such combination or conspiracy, shall be deemed guilty of a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments, in the discretion of the court.
+Section 2.
+Every person who shall monopolize, or attempt to monopolize, or combine or conspire with any other person or persons, to monopolize any part of the trade of commerce among the several States, or with foreign nations, shall be deemed guilty of a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding five thousand dollars, or by imprisonment not exceeding one year, or by both said punishments, in the discretion of the court.
+Will it matter to consumers that Bill Gates isn't a nice guy?
+Until last week, most Americans thought of Gates, the chairman of the Microsoft Corp., as a genius and innovator.
+A nerd perhaps but also a self-styled visionary who almost single-handedly unlocked the power of the personal computer.
+Monday, however, in a Washington courtroom, the Justice Department began painting a different, darker portrait of Gates.
+In an antitrust suit brought by the department and 20 states, the man whose company commands a 97 percent share of the market for personal computer operating systems is being depicted as a Nixonian schemer who will go to almost any length to crush his competition.
+Product innovation, the suit argues, is not a sufficient weapon for Gates.
+Flashing back and forth between snippets of Gates videotaped deposition and e-mail messages he had sent that contradicted his testimony, the government sought to establish a pattern of threats and offers of payments by the Microsoft chairman.
+It also sought to cast Gates as an obsessed man who feared the tiny Netscape Communications Corp. and its potential threat to his domination of the market for Internet browsers, the software used to navigate the World Wide Web.
+Gates was portrayed by Justice Department litigator David Boies as a schoolyard bully who rides roughshod over the computer industry with a crudeness that is in stark contrast to his popular image as a benevolent dictator and high-technology guru.
+According to a document presented by Boies, for example, Gates asked America Online executives in 1996 : How much do we need to pay you to damage Netscape?
+This is your lucky day.
+The implication, Boies said, was that the amount was irrelevant, and that Microsoft, with its deep pockets and market dominance, makes as many offers you can't refuse as needed to achieve its goals.
+Microsoft officials are closely watching market surveys for any hint that the new image of a bare-knuckled Gates might be detracting from the company's world-famous brand name, but they insist that the public will continue to draw a distinction between allegations of anticompetitive business tactics and the company's software.
+Despite what you're reading in the press, people judge us by our products, said Mich Matthews, head of Microsoft's corporate public-relations office.
+Our experience is that people vote with their pocketbooks.
+So far, consumers are casting positive votes.
+Last week Microsoft reported quarterly profits of$ 1.52 billion, a stunning 58 percent increase over the level a year earlier.
+Despite the record profits, some marketing experts say that if the public comes to view Gates as a Rockefeller-style robber baron, his company and its brand name may suffer.
+When you have a company with such a visible chief executive, the CEO is really the driver of the brand, said David Aaker, a brand marketing expert at the Haas School of Business at the University of California at Berkeley.
+There is no question this is going to affect Microsoft's brand recognition.
+Already there are early warning signals, as political cartoons in newspapers across the country bashed Gates last week.
+One showed him holding a globe and saying, If you don't play my way, I'll take my ball and go home; another portrayed the Microsoft chairman standing next to a henchman dangling someone from a window while a Microsoft secretary says to a caller, I'm sorry, but Mr. Gates is busy teaching a competitor about Windows.
+But some industry analysts believe the new view of a Bill Gates who knows how to play hardball may not be such a bad thing for his company.
+The he-said, she-said round of e-mail messages being dragged out in court cases both in Washington and in Silicon Valley, where Microsoft is locked in a legal battle with its archrival, Sun Microsystems Inc., is viewed by some as little different from the exaggerated trash talking that goes on in professional sports.
+It's like taking what Charles Barkley and Michael Jordan say to each other on the ball court and turning it into something more sinister than it really is, said Paul Andrews, co-author with Stephen Manes of Gates( Doubleday, 1993).
+Indeed, there is evidence that the darker view of Gates and his company has so far taken root only in the District of Columbia and in Silicon Valley, where the computer industry has long felt the impact of Gates tactics, and where bitterness and distrust of Microsoft are deep.
+In the rest of the country, Gates continues to enjoy great popularity.
+Two weeks ago, while speaking before a crowd of almost 7,000 students at Indiana University, a questioner who asked about the Justice Department's suit was roundly booed.
+BILL GATES, WHIPPING BOY c.1998 N.Y. Times News Service Is Bill Gates a high-tech Machiavelli, Public Enemy No.
+1 or a threat to the known universe?
+All three, judging from the numerous political cartoons that popped up in newspapers across the country last week.
+From Chattanooga to Boston, cartoonists took delight in demonizing Gates, who is facing an unexpected public relations challenge as Microsoft's antitrust trial unfolds in Washington.
+Other cartoons ran the gamut from the predictable( a worker, pointing to an aquarium in which a large fish is gobbling up smaller ones, saying to some visitors, Welcome to Microsoft's research and development department) to the weird( a dweebish man hunched in front of a computer screen staring at the words : Our beloved leader, Mr. Gates, is under attack.
+Leave your possessions.
+Go to the desert.
+Await the spaceship).
+And that was just Week One of the trial.
+Stay tuned.
