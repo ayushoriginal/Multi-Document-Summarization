@@ -6,35 +6,7 @@ function struct2csv(s,fn)
 %
 %       s : any structure composed of one or more matrices and cell arrays
 %      fn : file name
-%
-%      Given s:
-%
-%          s.Alpha = { 'First', 'Second';
-%                      'Third', 'Fourth'};
-%
-%          s.Beta  = [[      1,       2;
-%                            3,       4]];
-%          
-%          s.Gamma = {       1,       2;
-%                            3,       4};
-%
-%          s.Epsln = [     abc;
-%                          def;
-%                          ghi];
-% 
-%      STRUCT2CSV(s,'any.csv') will produce a file 'any.csv' containing:
-%
-%         "Alpha",        , "Beta",   ,"Gamma",   , "Epsln",
-%         "First","Second",      1,  2,      1,  2,   "abc",
-%         "Third","Fourth",      3,  4,      3,  4,   "def",
-%                ,        ,       ,   ,       ,   ,   "ghi",
-%    
-%      v.0.9 - Rewrote most of the code, now accommodates a wider variety
-%              of structure children
-%
-% Written by James Slegers, james.slegers_at_gmail.com
-% Covered by the BSD License
-%
+
 
 FID = fopen(fn,'w');
 headers = fieldnames(s);
