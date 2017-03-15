@@ -24,8 +24,8 @@ eval(sprintf('save result_rank_%s output', myname));
 
 %% mmr
 for i = 1:num_topic
-    gamma_value = 0.6;
-    output.mmr.topic(i) = mmr(weight_matrix(i).matrix, output.pagerank.topic(i), gamma_value);
+   gamma_value = 0.6;
+   output.mmr.topic(i) = mmr(weight_matrix(i).matrix, output.pagerank.topic(i), gamma_value);
 end
 eval(sprintf('save result_rank_%s output', myname));
 
@@ -47,9 +47,20 @@ for i = 1:num_topic
     beta_value = 1.8;
     r = weight_matrix(i).pos_vector.^(-beta_value);
     r = r / sum(r);
-    output.divrank.topic(i) = divrank(weight_matrix(i).matrix, lambda_value, alpha_value, r);
+    output.divrank_accumulate.topic(i) = divrank_accumulate(weight_matrix(i).matrix, lambda_value, alpha_value, r);
 end
 eval(sprintf('save result_rank_%s output', myname));
+
+%% grasshopper
+for i = 1:num_topic
+    lambda = 1;
+    beta_value = 0.4;
+    r = weight_matrix(i).pos_vector.^(-beta_value);
+    r = r / sum(r);
+    output.grasshopper.topic(i) = grasshopper(weight_matrix(i).matrix, r, lambda, 100);
+end
+eval(sprintf('save result_rank_%s output', myname));
+    
 
 
 
