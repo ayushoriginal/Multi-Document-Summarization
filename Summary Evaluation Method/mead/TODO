@@ -1,0 +1,3 @@
+- fix hard coded path in bin/feature-scripts/lexrank/getcos.pl
+- make the Install.PL script die when unable to install prereq. module
+- make the Install.PL script change the perl directive in cidr.pl

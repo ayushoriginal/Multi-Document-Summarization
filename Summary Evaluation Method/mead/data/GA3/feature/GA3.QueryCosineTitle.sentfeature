@@ -1,0 +1,303 @@
+<?xml version='1.0'?>
+<SENT-FEATURE>
+	<S DID="81" SNO="1" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="2" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="3" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="4" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="5" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="6" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="7" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="8" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="9" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="10" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="11" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="12" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="13" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="14" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="15" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="16" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="17" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="18" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="19" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="20" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="21" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="22" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="23" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="24" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="25" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="26" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="27" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="28" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="29" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="30" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="31" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="32" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="33" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="34" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="35" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="36" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="37" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="38" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="39" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="40" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="41" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="42" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="43" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="44" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="45" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="46" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="47" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="81" SNO="48" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="1" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="2" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="3" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="4" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="5" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="6" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="7" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="8" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="9" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="10" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="11" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="12" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="13" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="14" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="15" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="16" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="17" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="18" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="19" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="20" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="21" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="22" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="23" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="24" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="87" SNO="25" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="1" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="2" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="3" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="4" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="5" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="6" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="7" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="8" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="9" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="10" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="11" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="12" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="13" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="14" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="15" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="16" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="17" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="18" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="19" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="20" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="21" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="22" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="23" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="24" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="25" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="26" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+	<S DID="41" SNO="27" >
+		<FEATURE N="QueryTitleCosineNoIDF" V="0" />
+	</S>
+</SENT-FEATURE>

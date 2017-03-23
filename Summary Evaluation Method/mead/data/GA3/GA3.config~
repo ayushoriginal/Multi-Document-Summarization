@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MEAD-CONFIG LANG="ENG" TARGET="GA3" CLUSTER-PATH="/data0/projects/mead312/mead/bin/../data/GA3" DOC-DIRECTORY="/data0/projects/mead312/mead/bin/../data/GA3/docsent">
+<FEATURE-SET BASE-DIRECTORY="/data0/projects/mead312/mead/bin/../data/GA3/feature">
+<FEATURE NAME="Position" SCRIPT="/data0/projects/mead312/mead/bin/../bin/feature-scripts/Position.pl" />
+<FEATURE NAME="Length" SCRIPT="/data0/projects/mead312/mead/bin/../bin/feature-scripts/Length.pl" />
+<FEATURE NAME="Centroid" SCRIPT="/data0/projects/mead312/mead/bin/../bin/feature-scripts/Centroid.pl enidf ENG" />
+<FEATURE NAME="QueryCosineTitle" RECOMPUTE='true' SCRIPT="/data0/projects/mead312/mead/bin/../bin/feature-scripts/QueryCosine.pl -q title '/data0/projects/mead312/mead/bin/../data/GA3/GA3.query'"/>
+</FEATURE-SET>
+<CLASSIFIER COMMAND-LINE="/data0/projects/mead312/mead/bin/../bin/default-classifier.pl Length 9 QueryCosineTitle 1" SYSTEM="MEADORIG" RUN="Wed Sep 25 13:10:31 2002" />
+<RERANKER COMMAND-LINE="/data0/projects/mead312/mead/bin/../bin/default-reranker.pl MEAD-cosine .7 enidf" />
+<COMPRESSION BASIS="sentences" PERCENT="20" />
+</MEAD-CONFIG>

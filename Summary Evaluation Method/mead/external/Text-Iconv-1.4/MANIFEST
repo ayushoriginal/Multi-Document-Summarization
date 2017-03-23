@@ -1,0 +1,9 @@
+Changes
+Iconv.pm
+Iconv.xs
+MANIFEST
+Makefile.PL
+README
+typemap
+t/00_load.t
+t/01_charsets.t

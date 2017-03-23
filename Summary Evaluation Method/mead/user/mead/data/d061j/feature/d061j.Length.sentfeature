@@ -1,0 +1,717 @@
+<?xml version='1.0'?>
+<SENT-FEATURE>
+	<S DID="AP880911-0016" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880911-0016" SNO="2" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880911-0016" SNO="3" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880911-0016" SNO="4" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880911-0016" SNO="5" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880911-0016" SNO="6" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880911-0016" SNO="7" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880911-0016" SNO="8" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880911-0016" SNO="9" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880911-0016" SNO="10" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880911-0016" SNO="11" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880911-0016" SNO="12" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880911-0016" SNO="13" >
+		<FEATURE N="Length" V="24" />
+	</S>
+	<S DID="AP880911-0016" SNO="14" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880911-0016" SNO="15" >
+		<FEATURE N="Length" V="38" />
+	</S>
+	<S DID="AP880911-0016" SNO="16" >
+		<FEATURE N="Length" V="33" />
+	</S>
+	<S DID="AP880911-0016" SNO="17" >
+		<FEATURE N="Length" V="22" />
+	</S>
+	<S DID="AP880911-0016" SNO="18" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="AP880911-0016" SNO="19" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880911-0016" SNO="20" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880911-0016" SNO="21" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880911-0016" SNO="22" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880911-0016" SNO="23" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880911-0016" SNO="24" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880916-0060" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880916-0060" SNO="2" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880916-0060" SNO="3" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880916-0060" SNO="4" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880916-0060" SNO="5" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880916-0060" SNO="6" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880916-0060" SNO="7" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880916-0060" SNO="8" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880916-0060" SNO="9" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880916-0060" SNO="10" >
+		<FEATURE N="Length" V="33" />
+	</S>
+	<S DID="AP880916-0060" SNO="11" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880916-0060" SNO="12" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880916-0060" SNO="13" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880916-0060" SNO="14" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880916-0060" SNO="15" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880916-0060" SNO="16" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880916-0060" SNO="17" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880916-0060" SNO="18" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880916-0060" SNO="19" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880916-0060" SNO="20" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880916-0060" SNO="21" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880916-0060" SNO="22" >
+		<FEATURE N="Length" V="24" />
+	</S>
+	<S DID="AP880916-0060" SNO="23" >
+		<FEATURE N="Length" V="22" />
+	</S>
+	<S DID="AP880916-0060" SNO="24" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880916-0060" SNO="25" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880916-0060" SNO="26" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880916-0060" SNO="27" >
+		<FEATURE N="Length" V="35" />
+	</S>
+	<S DID="AP880916-0060" SNO="28" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880916-0060" SNO="29" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880916-0060" SNO="30" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880916-0060" SNO="31" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880916-0060" SNO="32" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="AP880916-0060" SNO="33" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880916-0060" SNO="34" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880916-0060" SNO="35" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880916-0060" SNO="36" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="AP880916-0060" SNO="37" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="AP880916-0060" SNO="38" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880916-0060" SNO="39" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880916-0060" SNO="40" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880916-0060" SNO="41" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880916-0060" SNO="42" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880916-0060" SNO="43" >
+		<FEATURE N="Length" V="24" />
+	</S>
+	<S DID="AP880916-0060" SNO="44" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880915-0003" SNO="2" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880915-0003" SNO="3" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880915-0003" SNO="4" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880915-0003" SNO="5" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880915-0003" SNO="6" >
+		<FEATURE N="Length" V="24" />
+	</S>
+	<S DID="AP880915-0003" SNO="7" >
+		<FEATURE N="Length" V="12" />
+	</S>
+	<S DID="AP880915-0003" SNO="8" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880915-0003" SNO="9" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880915-0003" SNO="10" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880915-0003" SNO="11" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880915-0003" SNO="12" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880915-0003" SNO="13" >
+		<FEATURE N="Length" V="33" />
+	</S>
+	<S DID="AP880915-0003" SNO="14" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="AP880915-0003" SNO="15" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880915-0003" SNO="16" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880915-0003" SNO="17" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880915-0003" SNO="18" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="AP880915-0003" SNO="19" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880915-0003" SNO="20" >
+		<FEATURE N="Length" V="32" />
+	</S>
+	<S DID="AP880915-0003" SNO="21" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880915-0003" SNO="22" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880915-0003" SNO="23" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880915-0003" SNO="24" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="AP880915-0003" SNO="25" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880915-0003" SNO="26" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="AP880915-0003" SNO="27" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880915-0003" SNO="28" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880915-0003" SNO="29" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880915-0003" SNO="30" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="AP880915-0003" SNO="31" >
+		<FEATURE N="Length" V="29" />
+	</S>
+	<S DID="AP880915-0003" SNO="32" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880915-0003" SNO="33" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880915-0003" SNO="34" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="AP880915-0003" SNO="35" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="36" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880915-0003" SNO="37" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880915-0003" SNO="38" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880915-0003" SNO="39" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880915-0003" SNO="40" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880915-0003" SNO="41" >
+		<FEATURE N="Length" V="41" />
+	</S>
+	<S DID="AP880915-0003" SNO="42" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880915-0003" SNO="43" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="44" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880915-0003" SNO="45" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880915-0003" SNO="46" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="47" >
+		<FEATURE N="Length" V="37" />
+	</S>
+	<S DID="AP880915-0003" SNO="48" >
+		<FEATURE N="Length" V="38" />
+	</S>
+	<S DID="AP880915-0003" SNO="49" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="AP880915-0003" SNO="50" >
+		<FEATURE N="Length" V="27" />
+	</S>
+	<S DID="AP880915-0003" SNO="51" >
+		<FEATURE N="Length" V="33" />
+	</S>
+	<S DID="AP880915-0003" SNO="52" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880915-0003" SNO="53" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="AP880915-0003" SNO="54" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880915-0003" SNO="55" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880915-0003" SNO="56" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="AP880915-0003" SNO="57" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="AP880915-0003" SNO="58" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880915-0003" SNO="59" >
+		<FEATURE N="Length" V="31" />
+	</S>
+	<S DID="AP880915-0003" SNO="60" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="61" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="AP880915-0003" SNO="62" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880915-0003" SNO="63" >
+		<FEATURE N="Length" V="22" />
+	</S>
+	<S DID="AP880915-0003" SNO="64" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="65" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880915-0003" SNO="66" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880915-0003" SNO="67" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880915-0003" SNO="68" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="2" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="3" >
+		<FEATURE N="Length" V="1" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="4" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="5" >
+		<FEATURE N="Length" V="29" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="6" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="7" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="8" >
+		<FEATURE N="Length" V="38" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="9" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="10" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="11" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="12" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="13" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="14" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="15" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="16" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="17" >
+		<FEATURE N="Length" V="12" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="18" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="19" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="20" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="WSJ880912-0064" SNO="21" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880912-0095" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880912-0095" SNO="2" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880912-0095" SNO="3" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880912-0095" SNO="4" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880912-0095" SNO="5" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880912-0095" SNO="6" >
+		<FEATURE N="Length" V="14" />
+	</S>
+	<S DID="AP880912-0095" SNO="7" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880912-0095" SNO="8" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880912-0095" SNO="9" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0095" SNO="10" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0095" SNO="11" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0095" SNO="12" >
+		<FEATURE N="Length" V="24" />
+	</S>
+	<S DID="AP880912-0095" SNO="13" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880912-0095" SNO="14" >
+		<FEATURE N="Length" V="4" />
+	</S>
+	<S DID="AP880912-0095" SNO="15" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880912-0095" SNO="16" >
+		<FEATURE N="Length" V="12" />
+	</S>
+	<S DID="AP880912-0095" SNO="17" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880912-0095" SNO="18" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880912-0095" SNO="19" >
+		<FEATURE N="Length" V="29" />
+	</S>
+	<S DID="AP880912-0095" SNO="20" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880912-0095" SNO="21" >
+		<FEATURE N="Length" V="33" />
+	</S>
+	<S DID="AP880912-0095" SNO="22" >
+		<FEATURE N="Length" V="11" />
+	</S>
+	<S DID="AP880912-0095" SNO="23" >
+		<FEATURE N="Length" V="7" />
+	</S>
+	<S DID="AP880912-0095" SNO="24" >
+		<FEATURE N="Length" V="39" />
+	</S>
+	<S DID="AP880912-0095" SNO="25" >
+		<FEATURE N="Length" V="42" />
+	</S>
+	<S DID="AP880912-0095" SNO="26" >
+		<FEATURE N="Length" V="12" />
+	</S>
+	<S DID="AP880912-0095" SNO="27" >
+		<FEATURE N="Length" V="12" />
+	</S>
+	<S DID="AP880912-0095" SNO="28" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880912-0095" SNO="29" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880912-0095" SNO="30" >
+		<FEATURE N="Length" V="34" />
+	</S>
+	<S DID="AP880912-0095" SNO="31" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880912-0095" SNO="32" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="AP880912-0095" SNO="33" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880912-0095" SNO="34" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="AP880912-0095" SNO="35" >
+		<FEATURE N="Length" V="43" />
+	</S>
+	<S DID="AP880912-0095" SNO="36" >
+		<FEATURE N="Length" V="35" />
+	</S>
+	<S DID="AP880912-0095" SNO="37" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880912-0095" SNO="38" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880912-0095" SNO="39" >
+		<FEATURE N="Length" V="27" />
+	</S>
+	<S DID="AP880912-0095" SNO="40" >
+		<FEATURE N="Length" V="32" />
+	</S>
+	<S DID="AP880912-0095" SNO="41" >
+		<FEATURE N="Length" V="37" />
+	</S>
+	<S DID="AP880912-0095" SNO="42" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880912-0095" SNO="43" >
+		<FEATURE N="Length" V="34" />
+	</S>
+	<S DID="AP880912-0137" SNO="1" >
+		<FEATURE N="Length" V="2" />
+	</S>
+	<S DID="AP880912-0137" SNO="2" >
+		<FEATURE N="Length" V="6" />
+	</S>
+	<S DID="AP880912-0137" SNO="3" >
+		<FEATURE N="Length" V="8" />
+	</S>
+	<S DID="AP880912-0137" SNO="4" >
+		<FEATURE N="Length" V="5" />
+	</S>
+	<S DID="AP880912-0137" SNO="5" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880912-0137" SNO="6" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0137" SNO="7" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0137" SNO="8" >
+		<FEATURE N="Length" V="3" />
+	</S>
+	<S DID="AP880912-0137" SNO="9" >
+		<FEATURE N="Length" V="27" />
+	</S>
+	<S DID="AP880912-0137" SNO="10" >
+		<FEATURE N="Length" V="25" />
+	</S>
+	<S DID="AP880912-0137" SNO="11" >
+		<FEATURE N="Length" V="22" />
+	</S>
+	<S DID="AP880912-0137" SNO="12" >
+		<FEATURE N="Length" V="16" />
+	</S>
+	<S DID="AP880912-0137" SNO="13" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880912-0137" SNO="14" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="AP880912-0137" SNO="15" >
+		<FEATURE N="Length" V="10" />
+	</S>
+	<S DID="AP880912-0137" SNO="16" >
+		<FEATURE N="Length" V="23" />
+	</S>
+	<S DID="AP880912-0137" SNO="17" >
+		<FEATURE N="Length" V="26" />
+	</S>
+	<S DID="AP880912-0137" SNO="18" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880912-0137" SNO="19" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880912-0137" SNO="20" >
+		<FEATURE N="Length" V="19" />
+	</S>
+	<S DID="AP880912-0137" SNO="21" >
+		<FEATURE N="Length" V="28" />
+	</S>
+	<S DID="AP880912-0137" SNO="22" >
+		<FEATURE N="Length" V="13" />
+	</S>
+	<S DID="AP880912-0137" SNO="23" >
+		<FEATURE N="Length" V="27" />
+	</S>
+	<S DID="AP880912-0137" SNO="24" >
+		<FEATURE N="Length" V="21" />
+	</S>
+	<S DID="AP880912-0137" SNO="25" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880912-0137" SNO="26" >
+		<FEATURE N="Length" V="39" />
+	</S>
+	<S DID="AP880912-0137" SNO="27" >
+		<FEATURE N="Length" V="32" />
+	</S>
+	<S DID="AP880912-0137" SNO="28" >
+		<FEATURE N="Length" V="32" />
+	</S>
+	<S DID="AP880912-0137" SNO="29" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="AP880912-0137" SNO="30" >
+		<FEATURE N="Length" V="17" />
+	</S>
+	<S DID="AP880912-0137" SNO="31" >
+		<FEATURE N="Length" V="9" />
+	</S>
+	<S DID="AP880912-0137" SNO="32" >
+		<FEATURE N="Length" V="34" />
+	</S>
+	<S DID="AP880912-0137" SNO="33" >
+		<FEATURE N="Length" V="15" />
+	</S>
+	<S DID="AP880912-0137" SNO="34" >
+		<FEATURE N="Length" V="30" />
+	</S>
+	<S DID="AP880912-0137" SNO="35" >
+		<FEATURE N="Length" V="18" />
+	</S>
+	<S DID="AP880912-0137" SNO="36" >
+		<FEATURE N="Length" V="22" />
+	</S>
+	<S DID="AP880912-0137" SNO="37" >
+		<FEATURE N="Length" V="20" />
+	</S>
+	<S DID="AP880912-0137" SNO="38" >
+		<FEATURE N="Length" V="23" />
+	</S>
+</SENT-FEATURE>

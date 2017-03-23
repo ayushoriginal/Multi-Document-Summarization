@@ -1,0 +1,39 @@
+#!/usr/local/bin/perl
+
+use strict;
+
+my $dbm_name = shift or
+    die "Must provide DBM name.";
+my $text_file = shift || "-";
+
+my %idf;
+dbmopen %idf, $dbm_name, 0666 or
+    die "Can't open idf: $!\n";
+
+open INFILE, $text_file or
+    die "Unable to open '$text_file' for input\n";
+
+my $total = 0;
+while (<INFILE>) {
+    my ($key, $value) = /^\s*(\S+)\s+([\d\.]+)\s*/;
+    $idf{$key} = $value;
+
+    unless (++$total % 100) { 
+	print STDERR "Wd: $total\r";
+    }
+}
+print STDERR "\n";
+
+close INFILE;
+
+dbmclose %idf;
+
+
+
+
+
+
+
+
+
+

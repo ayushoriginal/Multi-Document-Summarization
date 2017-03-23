@@ -1,0 +1,2 @@
+TYPEMAP
+Text::Iconv * T_PTROBJ

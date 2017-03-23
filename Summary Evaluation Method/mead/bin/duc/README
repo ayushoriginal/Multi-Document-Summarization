@@ -1,0 +1,35 @@
+This directory needs some more attention from someone who has worked on 
+DUC.  For now, I'm including a simple duc->docsent script.  I'm also 
+including Hong's manual summary->sentjudge scripts.
+
+We have to determine how to make these exportable to other systems.  Some 
+of the paths will need to be changed, the location of the idf database, 
+etc.
+
+Here are Hong's instructions for creating sentjudges from manual 
+summaries:
+
+The scripts for DUC 2002 and 2003 are not exactly the same because of
+some differences in the file naming scheme. They might need changes
+before you can use them. I specified all the path information inside
+the script.  Please let me know if you want me to modify it in some
+way.
+
+Here is how to run the script for DUC2002:
+go to /clair4/projects/duc03/hong/scripts/
+
+./MUsentjudge.pl [cluster]
+e.g., ./MUsentjudge.pl d061j
+
+This will produce the sentjudge file for cluster d061j and put it in
+/clair4/projects/duc03/hong/MUsentjudge.
+
+For the script of DUC2003, similarly,
+go to /clair4/projects/duc03/hong/scripts/
+
+./MUsentjudge-2003.pl [task] [cluster]
+e.g., ./MUsentjudge-2003.pl 2 d30003t
+
+This will produce the sentjudge file for cluster d30003t and put it in
+/clair4/projects/duc03/hong/MUsentjudge-2003.
+

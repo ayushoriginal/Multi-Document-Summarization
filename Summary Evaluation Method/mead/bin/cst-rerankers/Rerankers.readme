@@ -1,0 +1,84 @@
+All the rerankers I wrote for the CSTbank paper are in /clair2/projects/nie/nie3/cst-rerankers. The syntax is 
+illustrated in test.sh in the same directory, and replicated below (this is a real example):
+
+mead.pl -p 2 -reranker
+"/clair2/projects/nie/nie3/cst-rerankers/cst-reranker1.pl
+/clair2/projects/nie/nie3/data/10000000000001/10000000000001.metadata
+/clair2/projects/nie/nie3/data/10000000000001/10000000000001.sentrel"
+/clair2/projects/nie/nie3/data/10000000000001
+
+Inside the double quotes is the syntax of the reranker itself, which of course can be different, depending upon how the 
+reranker is written.
+
+
+
+
+*******************************************************************
+
+Explanation of the functionality of rerankers:
+
+\subsection{Source-based rerankers}
+
+News articles come from different sources, which may not be equally
+reliable or interesting. Therefore the first pair of rerankers
+reflects source preference.  Specifically, we arbitrarily arrange the
+news sources in the order of ''CNN, ABC, MSNBC, USATODAY, FOX'' and
+give each source an integer priority value $\Delta_s$ according to its
+place in the list.
+
+\begin{itemize}
+\item In reranker 1, the score of each sentence s is {\em increased}
+ by $\Delta_s$(source(s)).
+\item In reranker 2, the score of each sentence s is {\em decreased}
+ by $\Delta_s$(source(s)).
+\end{itemize}
+
+Rerankers 7 and 8 are very similar to rerankers 1 and 2
+respectively, except that the $\Delta_s$ values are normalized
+into the range between 0 and 1.
+
+\subsection{Time-based rerankers}
+
+The second set of rerankers reflects chronological
+ordering. Specifically, we define $\Delta_t$ as the epoch seconds
+corresponding to publication time of each article and use it to adjust
+sentence scores.
+
+\begin{itemize}
+\item In reranker 3, the score of each sentence s is {\em increased}
+ by $\Delta_t$(source(s)). Therefore more recent information is favored.
+\item In reranker 4, the score of each sentence s is {\em decreased}
+ by $\Delta_t$(source(s)).
+\end{itemize}
+
+Rerankers 9 and 10 are very similar to reranker 3 and 4
+respectively, except that the $\Delta_t$ values are normalized
+into the range between 0 and 1.
+
+\subsection{CST-based rerankers}
+
+With the aim of better understanding the role CST can potentially
+play in the summarization process, we also built a set of
+CST-based rerankers that utilize human-labeled CST relationships
+in a relatively simple way. We view a document cluster as a graph
+and each sentence as a node in it. Two sentences are linked by
+arcs (for now only undirected) if they are CST-related. The number
+of arcs are determined by the instances of CST relationships
+between the sentence pair. For example, if  judge 1 finds one,
+judge 2 finds three,  and other judges find no relationship(s)
+between two sentences, there will be four arcs linking the
+corresponding nodes. With this graph structure, each node
+(sentence) has a degree as defined in graph theory, and denoted by
+$\Delta_c$ in our scenario.
+
+\begin{itemize}
+\item In reranker 5, the score of each sentence s {\em increased} by
+$\Delta_c$(s).
+\item In reranker 6, the score of each sentence s {\em decreased} by
+$\Delta_c$(s).
+\end{itemize}
+
+Rerankers 11 and 12 are very similar to reranker 5 and 6
+respectively, except that the $\Delta_c$ values are normalized
+into the range between 0 and 1.
+

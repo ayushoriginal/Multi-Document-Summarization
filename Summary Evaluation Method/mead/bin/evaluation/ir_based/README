@@ -1,0 +1,11 @@
+kappa.pl and read_multi_into_kappatab.pl should both be documented already seeing as how they are both included in meadeval.pl.
+
+spearman.pl:
+input two docjudge files
+first docjudge must be a "full-document" docjudge meaning that it must include the score of every document in the corpora while the second docjudge does not have to have that property.
+
+pearson.pl:
+same as spearman.pl
+
+
+Maybe we should have something on what papers or algorithms these scripts were based so that people can go and read more about them.

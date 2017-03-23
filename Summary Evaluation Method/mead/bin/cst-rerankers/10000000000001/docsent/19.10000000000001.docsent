@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<!DOCTYPE DOCSENT SYSTEM '/clair2/projects/nie/nie3/dtd/docsent.dtd'>
+<DOCSENT DID='19.10000000000001'>
+  <BODY>
+    <HEADLINE>
+      <S SNO='1' PAR='1' RSNT='1'>Small plane hits Milan building</S>
+    </HEADLINE>
+    <TEXT>
+      <S SNO='2' PAR='2' RSNT='1'>Smoke rises from the Milan skyscraper.</S>
+      <S SNO='3' PAR='3' RSNT='1'>A small airplane crashed into a government building in heart of Milan, setting the top floors on fire, Italian police reported.</S>
+      <S SNO='4' PAR='4' RSNT='1'>There were no immediate reports on casualties as rescue workers attempted to clear the area in the city s financial district.</S>
+      <S SNO='5' PAR='5' RSNT='1'>Few details of the crash were available, but news reports about it immediately set off fears that it might be a terrorist act akin to the Sept. 11 attacks in the United States.</S>
+      <S SNO='6' PAR='6' RSNT='1'>Those fears sent U.S. stocks tumbling to session lows in late morning trading.</S>
+      <S SNO='7' PAR='7' RSNT='1'>WITNESSES REPORTED hearing a loud explosion from the 30-story office building, which houses the administrative offices of the local Lombardy region and sits next to the city s central train station.</S>
+      <S SNO='8' PAR='8' RSNT='1'>Italian state television said the crash put a hole in the 25th floor of the Pirelli building.</S>
+      <S SNO='9' PAR='9' RSNT='1'>News reports said smoke poured from the opening.</S>
+      <S SNO='10' PAR='10' RSNT='1'>Police and ambulances rushed to the building in downtown Milan.</S>
+      <S SNO='11' PAR='11' RSNT='1'>No further details were immediately available.</S>
+      <S SNO='12' PAR='12' RSNT='1'>Check back for additional details on this breaking story.</S>
+      <S SNO='13' PAR='13' RSNT='1'>The Associated Press and Reuters contributed to this report.</S>
+    </TEXT>
+  </BODY>
+</DOCSENT>

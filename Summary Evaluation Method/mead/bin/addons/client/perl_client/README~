@@ -1,0 +1,123 @@
+THE CLIENT
+
+Input: a directory of text files that you would like to summarize
+Output: a summary as defined by the optinoal flags
+
+To run:
+./mead_lite [server name] [port number] [optional flags]
+
+optional flags
+	-d:	for the directory of files to be summarized for now the directory should be in the same directory as the biclient;              
+	-host	hostname of the server for now I would suggest tangra.si.umich.edu
+	-port	port number on which to connect for now I would suggest 6969
+	-summary:  produce a summary of the files in the directory
+	-extract:  produce an extract of the files in the directory
+	-sentences, -s:  produce a summary whose length is either an absolute number or a percentage of the number of sentences of the original cluster.
+	-words, -w:  produce a summary whose length is either an absolute number or a percentage of the number of words of the original cluster.
+	-percent num, -p num, -compression_percent num: produce a summary whose length is num% the length of the original cluster.
+	-absolute num, -a num, -compression_absolute num:  produce a summary whose length is num (words/sentences) regardless of the size of the original cluster.
+	-system RANDOM, -RANDOM:  produce a random summary
+	-system LEADBASED, -LEADBASED:  produce a lead-based summary, selecting the first sentence from each document, then the second sentence, etc.
+	-feature name: add a feature named  name  since the scripts for the features is on the server machine, the current list of features supported is:
+		QueryTitleCosineNoIDF
+		QueryDescriptionCosineNoIDF
+		QueryNarrativeCosineNoIDF
+		QueryTitleCosine
+		QueryDescriptionCosine
+		QueryNarrativeCosine
+		QueryTitleWordOverlap	
+		QueryDescriptionWordOverlap
+		QueryNarrativeWordOverlap
+		IsLongestSentence
+	-classifier commandline: use the specified classifier instead of the default.  NOTE: This is where mead_lite and mead differ, you don't have to have have the command line in quotes, it will just assume that the command line is anything until the line ends or another flag is set, ie -options current classifiers handled by the server:
+		default-classifier
+		leadbased-classifier
+		random-classifier
+	-reranker commandline: use the specified ranker instead of the default. see the NOTE for classifier current rerankers handled by the server:
+		default-reranker
+		identity-reranker
+		novelty-reranker
+
+You must have the -d flag set so that the client knows which directory to summarize
+
+ADDITIONAL FACTOIDS about mead_lite:
+1. mead_lite has a cacheing options related to it and it works the following way;
+	-each request is stored in a request.hash files in a .mead_lite directory
+	-on each request the client makes a hash key that is checked for in request.hash
+	-if the key matches then a cached version of the request is returned
+	-if a key does not match then the request is processed and the responces saved in the .mead_lite directory and the request.hash file updated
+
+2. The .mead_lite directory will grow indefinetaly so I suggest removing it every once in a while if you use mead_lite extensively
+
+THE SERVER
+The exact same server as for NUTCH is used therefore you really don't have to worry about it
+DON'T FORGET to export the following:
+export PERL5LIB=$PATH:/clair6/projects/mead_addons/formatting
+//the path is used for converting text files into docsents and make the corresponding .cluster file
+
+INPUT: a port number that requests will be accepted
+OUTPUT: A summary, the type of summary is defined by the client
+
+To run:
+./java_server_3 [portnumber]
+
+
+THE SERVER CLIENT COMMUNICATION PROTOCOL:
+Each request will be wrapped with a <REQUEST> tag and a </REQUEST> tag to signal the server when to start and when to stop accepting the request.  
+The options of the summary are wrapped with a <POLICY> and </POLICY> tags.  
+We also had <FEATURE> and </FEATURE>, <CLASSIFIER> and </CLASSIFIER>, and <RERANKER> and </RERANKER> tags.  
+These are used to generate a summary using a user defined feature.hash, classifier.hash, or reranker.hash lookups.  
+In the policy we also had a <NUTCHQ> and </NUTCHQ> tags which are used to tell the server the query on which the summary is to be made.  
+After the </POLICY> tag come a indefinite number of <DOCUMENT> </DOCUMENT> tags, that is until the </REQUEST> tag is seen.
+Therefore a usual request from the Java client to the Perl server would look like this:
+<REQUEST>
+<POLICY>
+#THE POLICY GOES IN HERE ALONG WITH ANY OF THE TAGS DICUSSED ABOVE
+</POLICY>
+<DOCUMENT>
+#DOCUMENT_1 text here
+</DOCUMENT>
+<DOCUMENT>
+#DOCUMENT_2 text here
+</DOCUMENT>
+</REQUEST>
+
+The SEVER SENDS THE REQUEST WRAPPED IN 
+<SUMMARY>
+#request responce
+</SUMMARY>
+tags.
+
+Only tricky part:
+For a query based summary the server has to make a nutch query simply doing the following constructing the .query file which looks like this:
+<NUTCHQ>
+<QUERY>
+<TITLE>$query_goes_here</TITLE>
+<NARRATIVE>$query_goes_here</NARRATIVE>
+<DESCRIPTION>$query_goes_here</DESCRIPTION>
+</QUERY>
+</NUTCHQ>
+
+EXAMPLE
+in all of the example it is assumed that ./mead_lite_server 7000 is already running
+NOTE: Don't forget to export your path as described above
+
+in /clair6/projects/meadserver you will find a Rugby directory
+./mead_lite -server tangra -port 6969 -d Rugby 
+you will get a 20% summary of the files in Rugby
+
+again in /clair6/projects/meadserver
+./mead_lite -server tangra -port 6969 -feature QueryTitleCosineNoIDF -classifier default-classifier Length 9 Position 1 Centroid 1 QueryTitleCosineNoIDF 5 -d Rugby -query New Zeaand -a 50 -w
+you will get an absolute summary of 50 words using the QueryTitleCosineNoIDF feature and the default-classifier and the corresponding weights
+
+again in /clair6/projects/meadserver
+./mead_lite -server tangra -port 6969 -classifier default-classifier  Position 9 Centroid 2 -d Rugby
+you will get an absolute summary of 20 % using a new default-classifier
+
+Current Problems:
+1.  The command line arguments are rather fussy about the order
+2.  The directory for the CLIENT has to be in the same directory as the client
+3.  The client cannot define scripts for their classifier and reranker etc
+
+Adding more classifier, rerankers, and features.
+If you have a script that you would like to use for features/classifiers/rerankers it would be best to email it to the clair group and ask it be added and an appropriate entry be placed in the correspding .hash file.

@@ -1,0 +1,14 @@
+To install mead_lite all you have to do is:
+open up mead_lite and goto like 12.
+it currently reads:
+$path = "/clair6/projects/meadserver";
+what you have to do to make mead_lite run on your machine is type in pwd at the command prompt and remove /clair6/projects/meadserver/ and replace it with your pwd result.
+
+for example:
+$ pwd
+/home/stu/mead_lite
+will result in
+$path = "/home/stu/mead_lite";
+
+
+You should be good to go now.

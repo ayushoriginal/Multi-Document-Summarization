@@ -1,0 +1,19 @@
+<!ELEMENT SENTALIGN (SENT+)>
+<!ATTLIST SENTALIGN
+   ENG         CDATA #REQUIRED
+   CHI         CDATA #REQUIRED
+   LANG        CDATA #REQUIRED>
+
+<!ELEMENT SENT EMPTY>
+<!ATTLIST SENT
+   ORDER       CDATA #REQUIRED
+   EDID        CDATA #REQUIRED
+   ESNO        CDATA #REQUIRED
+   CDID        CDATA #REQUIRED
+   CSNO        CDATA #REQUIRED>
+
+<!-- ORDER: the pairwise number
+     EDID:  english document name
+     ESNO:  english sentence number 
+     CDID:  chinese document name
+     CSNO:  chinese sentence number --> 

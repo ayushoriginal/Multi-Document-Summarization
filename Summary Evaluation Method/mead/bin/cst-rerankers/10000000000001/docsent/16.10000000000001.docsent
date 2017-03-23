@@ -1,0 +1,23 @@
+<?xml version='1.0'?>
+<!DOCTYPE DOCSENT SYSTEM '/clair2/projects/nie/nie3/dtd/docsent.dtd'>
+<DOCSENT DID='16.10000000000001'>
+  <BODY>
+    <HEADLINE>
+      <S SNO='1' PAR='1' RSNT='1'>ABCNEWS.com : Plane Slams Into Milan Skyscraper</S>
+    </HEADLINE>
+    <TEXT>
+      <S SNO='2' PAR='2' RSNT='1'>The Pirelli Building in Milan, Italy, was hit by a small plane.</S>
+      <S SNO='3' PAR='3' RSNT='1'>(ABCNEWS.com)   8212; A small plane crashed into a skyscraper in downtown Milan today, setting several floors of the 30-story building on fire.</S>
+      <S SNO='4' PAR='4' RSNT='1'>The plane crashed into the 25th floor of the Pirelli building in downtown Milan.</S>
+      <S SNO='5' PAR='5' RSNT='1'>The weather was clear at the time of the crash.</S>
+      <S SNO='6' PAR='6' RSNT='1'>Smoke poured from the opening as police and ambulances rushed to the area.</S>
+      <S SNO='7' PAR='7' RSNT='1'>The president of the Italian Senate, Marcello Pera, told Italian television it "very probably" appeared to be a terrorist attack but soon afterwards his spokesman said it was probably an accident.</S>
+      <S SNO='8' PAR='8' RSNT='1'>A transport official told Reuters the plane had reported problems with its undercarriage and was circling the city ahead of trying to land at a local airport.</S>
+      <S SNO='9' PAR='9' RSNT='1'>The Pirelli building houses the administrative offices of the local Lombardy region and sits next to the city's central train station.</S>
+      <S SNO='10' PAR='10' RSNT='1'>It is constructed of concrete and glass.</S>
+      <S SNO='11' PAR='11' RSNT='1'>The crash happened just before rush hour, as office workers were closing their day.</S>
+      <S SNO='12' PAR='12' RSNT='1'>ABCNEWS' Pierre Thomas contributed to this report.</S>
+      <S SNO='13' PAR='13' RSNT='1'>Copyright   2002 ABCNEWS Internet Ventures.</S>
+    </TEXT>
+  </BODY>
+</DOCSENT>

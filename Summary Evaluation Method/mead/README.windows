@@ -1,0 +1,69 @@
+This is a log of the steps I went through to install MEAD 3.11 on a Windows
+machine running Cygwin and then get the meadd application to run.
+
+Send questions to Tony: afader@umich.edu.
+
+1 - Install Cygwin on your Windows machine. Make sure that you install all 
+of the Perl packages, libiconv, gcc, and some sort of text editor.
+
+2 - Download and extract MEAD-3.11.tar.gz
+
+3 - Run the Install.PL script. This will most likely fail due to missing Perl
+modules. I had to install HTML-Parser and all of its requirements to get this
+to work. 
+
+4 - Test MEAD:
+
+    cd $MEAD_HOME/data
+    ../bin/mead.pl GA3
+
+If everthing was installed correctly, you should get a summary from the GA3
+sample cluster. If you get errors about missing Perl modules, make sure that
+you have installed them and that the dependent script can find them.
+
+5 - Download and extract the mead server code. It is currently available in 
+/data0/projects/meadserver.tar.gz.
+
+6 - Install the JRE (this is needed for XSL transformations).
+
+7 - Make sure the Windows firewall doesn't block port 6969 (to change this,
+go to Start > Control Panel > Security Center > Firewall > Exceptions and 
+add one for port 6969).
+
+8 - Fix the Perl directive in $MEAD_HOME/bin/addons/cidr/cidr.pl and 
+$MEAD_HOME/bin/addons/formatting/html2cluster.pl (these are on the TODO list 
+for MEAD).
+
+9 - Delete this line (line 195) in 
+$MEAD_HOME/bin/addons/formatting/MEAD_ADDONS_UTIL.pm:
+
+   <!DOCTYPE DOCSENT SYSTEM \"$DTD_DIR/docsent.dtd\">
+
+The dtd creates Windows/UNIX path issues and is not absolutely necessary for 
+running the mead server.
+
+10 - Edit meadserver2/feature.hash so the paths to the feature scripts are
+correct (the java demo only uses Position, Length, Centroid, and
+SimWithFirst, so you will probably only need to change those).
+
+11 - Edit meadserver2/classifier.hash as in 9.
+
+12 - In meadserver2/meadd lines 328-333, edit the lines so they are:
+
+    . "-IN `cygpath -wp $summarizedir/$directory/index.xml` "
+    . "-XSL `cygpath -wp $xsltdir/response.xsl` "
+    . "-PARAM id `cygpath -wp $directory` "
+    . "-PARAM base `cygpath -wp $summarizedir/$directory` ";
+
+"cygpath" is a program that converts paths into a format readable by Java
+(which is running in Windows mode).
+
+13 - Export the environment variables that meadd uses:
+
+    export BINPATH=$MEAD_HOME/bin
+    export PERL5LIB=/home/afader/mead/bin/addons/formatting
+    for i in `ls meadserver2/xslt/xalan-j_2_7_0/*.jar`; \
+        do export CLASSPATH=$CLASSPATH:$i; done
+
+14 - Run meadd
+    ./meadd

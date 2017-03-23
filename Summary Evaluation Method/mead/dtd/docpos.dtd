@@ -1,0 +1,38 @@
+<!--  DTD for POS tagged text  -->
+
+<!ELEMENT DOCPOS (EXTRACTION-INFO?, BODY)>
+<!ATTLIST DOCPOS
+   DID   CDATA      #REQUIRED
+   DOCNO CDATA      #IMPLIED
+   LANG  (CHIN|ENG) "ENG"
+   CORR-DOC CDATA   #IMPLIED>
+   <!-- DID : documentid 
+       LANG: language    -->
+
+<!ELEMENT EXTRACTION-INFO EMPTY>
+<!ATTLIST EXTRACTION-INFO
+    SYSTEM  CDATA  #REQUIRED
+    RUN     CDATA  #IMPLIED
+    COMPRESSION CDATA #REQUIRED
+    QID     CDATA  #REQUIRED>
+
+<!ELEMENT BODY (HEADLINE?,TEXT)>
+
+<!ELEMENT HEADLINE (S)*>
+<!ELEMENT TEXT (S)*>
+
+<!ELEMENT S (W)*>   
+<!ATTLIST S
+    PAR  CDATA #REQUIRED
+    RSNT CDATA #REQUIRED
+    SNO  CDATA #REQUIRED>
+    <!-- PAR: paragraph no
+         RSNT: relative sentence no (within paragraph)
+         SNO: absolute sentence no -->
+
+<!ELEMENT W (#PCDATA)>
+<!ATTLIST W
+    C   CDATA #REQUIRED
+    L   CDATA #IMPLIED>
+
+<!-- C is the POS category. L is the lemma -->

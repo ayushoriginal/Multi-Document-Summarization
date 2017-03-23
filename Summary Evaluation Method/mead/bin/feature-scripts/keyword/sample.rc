@@ -1,0 +1,4 @@
+compression_basis sentences
+feature QueryPhraseMatch /clair8/projects/duc04/task5/QueryPhraseMatch.pl -q keywords /clair8/projects/duc04/task5/keywords.txt
+classifier /clair4/projects/mead307/source/mead/bin/default-classifier.pl Length 9 Position 1 QueryPhraseMatch 20 Centroid 1
+reranker /clair8/projects/duc04/rerankers/default-reranker.pl MEAD-cosine 0.9 enidf

@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<!DOCTYPE QUERY SYSTEM "/clair4/projects/mead307/source/mead/dtd/query.dtd">
+<QUERY QID="KF" QNO="1" TRANSLATED="NO">
+<TITLE>
+</TITLE>
+<NARRATIVE>
+
+</NARRATIVE>
+<DESCRIPTION>
+
+</DESCRIPTION>
+<KEYWORDS>
+\bgrew up\b;1;\bat the age of\b;1;\bat age\b;1;\bafter s?he ;0.5;\b(her|his) (mother|father) was ;1;\bin ?(january|february|march|april|may|june|july|august|september|october|november|december)? 1[0-9][0-9][0-9][\,\. ];0.5;\bat [1-9][0-9]?[\, ];1;\bRobert (turns|turned) [1-9][0-9]?[\,\. ];1;\bRobert\b;0.25;\bRobert attended\b;1;\bRobert\, [1-9][0-9]?(\,| years);1.5;\bRobert\, (an?|the|who|whom|whose) [\w ]*[\,\.];1.5;\bRobert has\b;0.35;\bRobert is\b;0.35;\bRobert was\b;0.35;\bRobert will\b;0.35;\bRobert had\b;0.35;\bRobert did\b;0.35;\bRobert began\b;0.35;\bRobert could\b;0.25;\bRobert would\b;0.25;\bRobert made\b;0.5;\bRobert lives\b;1;\bRobert lived\b;1;\bRubin (turns|turned) [1-9][0-9]?[\,\. ];1;\bRubin\b;0.25;\bRubin attended\b;1;\bRubin\, [1-9][0-9]?(\,| years);1.5;\bRubin\, (an?|the|who|whom|whose) [\w ]*[\,\.];1.5;\bRubin has\b;0.35;\bRubin is\b;0.35;\bRubin was\b;0.35;\bRubin will\b;0.35;\bRubin had\b;0.35;\bRubin did\b;0.35;\bRubin began\b;0.35;\bRubin could\b;0.25;\bRubin would\b;0.25;\bRubin made\b;0.5;\bRubin lives\b;1;\bRubin lived\b;1;
+</KEYWORDS>
+</QUERY>

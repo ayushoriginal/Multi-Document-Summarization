@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE EXTRACT SYSTEM "/clair/tools/mead/dtd/extract.dtd">
+
+<EXTRACT TARGET="GA3" COMPRESSION="10" SYSTEM="MEADORIG" LANG="ENG">
+<S ORDER="1" DID="41" SNO="2" />
+<S ORDER="2" DID="41" SNO="3" />
+<S ORDER="3" DID="41" SNO="6" />
+<S ORDER="4" DID="81" SNO="2" />
+<S ORDER="5" DID="81" SNO="3" />
+<S ORDER="6" DID="81" SNO="7" />
+<S ORDER="7" DID="87" SNO="2" />
+<S ORDER="8" DID="87" SNO="3" />
+<S ORDER="9" DID="87" SNO="15" />
+<S ORDER="10" DID="87" SNO="22" />
+</EXTRACT>

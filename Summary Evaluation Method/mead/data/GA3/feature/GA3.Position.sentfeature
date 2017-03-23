@@ -1,0 +1,303 @@
+<?xml version='1.0'?>
+<SENT-FEATURE>
+	<S DID="87" SNO="1" >
+		<FEATURE N="Position" V="1.000000000000000" />
+	</S>
+	<S DID="87" SNO="2" >
+		<FEATURE N="Position" V="0.707106781186548" />
+	</S>
+	<S DID="87" SNO="3" >
+		<FEATURE N="Position" V="0.577350269189626" />
+	</S>
+	<S DID="87" SNO="4" >
+		<FEATURE N="Position" V="0.500000000000000" />
+	</S>
+	<S DID="87" SNO="5" >
+		<FEATURE N="Position" V="0.447213595499958" />
+	</S>
+	<S DID="87" SNO="6" >
+		<FEATURE N="Position" V="0.408248290463863" />
+	</S>
+	<S DID="87" SNO="7" >
+		<FEATURE N="Position" V="0.377964473009227" />
+	</S>
+	<S DID="87" SNO="8" >
+		<FEATURE N="Position" V="0.353553390593274" />
+	</S>
+	<S DID="87" SNO="9" >
+		<FEATURE N="Position" V="0.333333333333333" />
+	</S>
+	<S DID="87" SNO="10" >
+		<FEATURE N="Position" V="0.316227766016838" />
+	</S>
+	<S DID="87" SNO="11" >
+		<FEATURE N="Position" V="0.301511344577764" />
+	</S>
+	<S DID="87" SNO="12" >
+		<FEATURE N="Position" V="0.288675134594813" />
+	</S>
+	<S DID="87" SNO="13" >
+		<FEATURE N="Position" V="0.277350098112615" />
+	</S>
+	<S DID="87" SNO="14" >
+		<FEATURE N="Position" V="0.267261241912424" />
+	</S>
+	<S DID="87" SNO="15" >
+		<FEATURE N="Position" V="0.258198889747161" />
+	</S>
+	<S DID="87" SNO="16" >
+		<FEATURE N="Position" V="0.250000000000000" />
+	</S>
+	<S DID="87" SNO="17" >
+		<FEATURE N="Position" V="0.242535625036333" />
+	</S>
+	<S DID="87" SNO="18" >
+		<FEATURE N="Position" V="0.235702260395516" />
+	</S>
+	<S DID="87" SNO="19" >
+		<FEATURE N="Position" V="0.229415733870562" />
+	</S>
+	<S DID="87" SNO="20" >
+		<FEATURE N="Position" V="0.223606797749979" />
+	</S>
+	<S DID="87" SNO="21" >
+		<FEATURE N="Position" V="0.218217890235992" />
+	</S>
+	<S DID="87" SNO="22" >
+		<FEATURE N="Position" V="0.213200716355610" />
+	</S>
+	<S DID="87" SNO="23" >
+		<FEATURE N="Position" V="0.208514414057075" />
+	</S>
+	<S DID="87" SNO="24" >
+		<FEATURE N="Position" V="0.204124145231932" />
+	</S>
+	<S DID="87" SNO="25" >
+		<FEATURE N="Position" V="0.200000000000000" />
+	</S>
+	<S DID="81" SNO="1" >
+		<FEATURE N="Position" V="1.000000000000000" />
+	</S>
+	<S DID="81" SNO="2" >
+		<FEATURE N="Position" V="0.707106781186548" />
+	</S>
+	<S DID="81" SNO="3" >
+		<FEATURE N="Position" V="0.577350269189626" />
+	</S>
+	<S DID="81" SNO="4" >
+		<FEATURE N="Position" V="0.500000000000000" />
+	</S>
+	<S DID="81" SNO="5" >
+		<FEATURE N="Position" V="0.447213595499958" />
+	</S>
+	<S DID="81" SNO="6" >
+		<FEATURE N="Position" V="0.408248290463863" />
+	</S>
+	<S DID="81" SNO="7" >
+		<FEATURE N="Position" V="0.377964473009227" />
+	</S>
+	<S DID="81" SNO="8" >
+		<FEATURE N="Position" V="0.353553390593274" />
+	</S>
+	<S DID="81" SNO="9" >
+		<FEATURE N="Position" V="0.333333333333333" />
+	</S>
+	<S DID="81" SNO="10" >
+		<FEATURE N="Position" V="0.316227766016838" />
+	</S>
+	<S DID="81" SNO="11" >
+		<FEATURE N="Position" V="0.301511344577764" />
+	</S>
+	<S DID="81" SNO="12" >
+		<FEATURE N="Position" V="0.288675134594813" />
+	</S>
+	<S DID="81" SNO="13" >
+		<FEATURE N="Position" V="0.277350098112615" />
+	</S>
+	<S DID="81" SNO="14" >
+		<FEATURE N="Position" V="0.267261241912424" />
+	</S>
+	<S DID="81" SNO="15" >
+		<FEATURE N="Position" V="0.258198889747161" />
+	</S>
+	<S DID="81" SNO="16" >
+		<FEATURE N="Position" V="0.250000000000000" />
+	</S>
+	<S DID="81" SNO="17" >
+		<FEATURE N="Position" V="0.242535625036333" />
+	</S>
+	<S DID="81" SNO="18" >
+		<FEATURE N="Position" V="0.235702260395516" />
+	</S>
+	<S DID="81" SNO="19" >
+		<FEATURE N="Position" V="0.229415733870562" />
+	</S>
+	<S DID="81" SNO="20" >
+		<FEATURE N="Position" V="0.223606797749979" />
+	</S>
+	<S DID="81" SNO="21" >
+		<FEATURE N="Position" V="0.218217890235992" />
+	</S>
+	<S DID="81" SNO="22" >
+		<FEATURE N="Position" V="0.213200716355610" />
+	</S>
+	<S DID="81" SNO="23" >
+		<FEATURE N="Position" V="0.208514414057075" />
+	</S>
+	<S DID="81" SNO="24" >
+		<FEATURE N="Position" V="0.204124145231932" />
+	</S>
+	<S DID="81" SNO="25" >
+		<FEATURE N="Position" V="0.200000000000000" />
+	</S>
+	<S DID="81" SNO="26" >
+		<FEATURE N="Position" V="0.196116135138184" />
+	</S>
+	<S DID="81" SNO="27" >
+		<FEATURE N="Position" V="0.192450089729875" />
+	</S>
+	<S DID="81" SNO="28" >
+		<FEATURE N="Position" V="0.188982236504614" />
+	</S>
+	<S DID="81" SNO="29" >
+		<FEATURE N="Position" V="0.185695338177052" />
+	</S>
+	<S DID="81" SNO="30" >
+		<FEATURE N="Position" V="0.182574185835055" />
+	</S>
+	<S DID="81" SNO="31" >
+		<FEATURE N="Position" V="0.179605302026775" />
+	</S>
+	<S DID="81" SNO="32" >
+		<FEATURE N="Position" V="0.176776695296637" />
+	</S>
+	<S DID="81" SNO="33" >
+		<FEATURE N="Position" V="0.174077655955698" />
+	</S>
+	<S DID="81" SNO="34" >
+		<FEATURE N="Position" V="0.171498585142509" />
+	</S>
+	<S DID="81" SNO="35" >
+		<FEATURE N="Position" V="0.169030850945703" />
+	</S>
+	<S DID="81" SNO="36" >
+		<FEATURE N="Position" V="0.166666666666667" />
+	</S>
+	<S DID="81" SNO="37" >
+		<FEATURE N="Position" V="0.164398987305357" />
+	</S>
+	<S DID="81" SNO="38" >
+		<FEATURE N="Position" V="0.162221421130763" />
+	</S>
+	<S DID="81" SNO="39" >
+		<FEATURE N="Position" V="0.160128153805087" />
+	</S>
+	<S DID="81" SNO="40" >
+		<FEATURE N="Position" V="0.158113883008419" />
+	</S>
+	<S DID="81" SNO="41" >
+		<FEATURE N="Position" V="0.156173761888606" />
+	</S>
+	<S DID="81" SNO="42" >
+		<FEATURE N="Position" V="0.154303349962092" />
+	</S>
+	<S DID="81" SNO="43" >
+		<FEATURE N="Position" V="0.152498570332605" />
+	</S>
+	<S DID="81" SNO="44" >
+		<FEATURE N="Position" V="0.150755672288882" />
+	</S>
+	<S DID="81" SNO="45" >
+		<FEATURE N="Position" V="0.149071198499986" />
+	</S>
+	<S DID="81" SNO="46" >
+		<FEATURE N="Position" V="0.147441956154897" />
+	</S>
+	<S DID="81" SNO="47" >
+		<FEATURE N="Position" V="0.145864991497895" />
+	</S>
+	<S DID="81" SNO="48" >
+		<FEATURE N="Position" V="0.144337567297406" />
+	</S>
+	<S DID="41" SNO="1" >
+		<FEATURE N="Position" V="1.000000000000000" />
+	</S>
+	<S DID="41" SNO="2" >
+		<FEATURE N="Position" V="0.707106781186548" />
+	</S>
+	<S DID="41" SNO="3" >
+		<FEATURE N="Position" V="0.577350269189626" />
+	</S>
+	<S DID="41" SNO="4" >
+		<FEATURE N="Position" V="0.500000000000000" />
+	</S>
+	<S DID="41" SNO="5" >
+		<FEATURE N="Position" V="0.447213595499958" />
+	</S>
+	<S DID="41" SNO="6" >
+		<FEATURE N="Position" V="0.408248290463863" />
+	</S>
+	<S DID="41" SNO="7" >
+		<FEATURE N="Position" V="0.377964473009227" />
+	</S>
+	<S DID="41" SNO="8" >
+		<FEATURE N="Position" V="0.353553390593274" />
+	</S>
+	<S DID="41" SNO="9" >
+		<FEATURE N="Position" V="0.333333333333333" />
+	</S>
+	<S DID="41" SNO="10" >
+		<FEATURE N="Position" V="0.316227766016838" />
+	</S>
+	<S DID="41" SNO="11" >
+		<FEATURE N="Position" V="0.301511344577764" />
+	</S>
+	<S DID="41" SNO="12" >
+		<FEATURE N="Position" V="0.288675134594813" />
+	</S>
+	<S DID="41" SNO="13" >
+		<FEATURE N="Position" V="0.277350098112615" />
+	</S>
+	<S DID="41" SNO="14" >
+		<FEATURE N="Position" V="0.267261241912424" />
+	</S>
+	<S DID="41" SNO="15" >
+		<FEATURE N="Position" V="0.258198889747161" />
+	</S>
+	<S DID="41" SNO="16" >
+		<FEATURE N="Position" V="0.250000000000000" />
+	</S>
+	<S DID="41" SNO="17" >
+		<FEATURE N="Position" V="0.242535625036333" />
+	</S>
+	<S DID="41" SNO="18" >
+		<FEATURE N="Position" V="0.235702260395516" />
+	</S>
+	<S DID="41" SNO="19" >
+		<FEATURE N="Position" V="0.229415733870562" />
+	</S>
+	<S DID="41" SNO="20" >
+		<FEATURE N="Position" V="0.223606797749979" />
+	</S>
+	<S DID="41" SNO="21" >
+		<FEATURE N="Position" V="0.218217890235992" />
+	</S>
+	<S DID="41" SNO="22" >
+		<FEATURE N="Position" V="0.213200716355610" />
+	</S>
+	<S DID="41" SNO="23" >
+		<FEATURE N="Position" V="0.208514414057075" />
+	</S>
+	<S DID="41" SNO="24" >
+		<FEATURE N="Position" V="0.204124145231932" />
+	</S>
+	<S DID="41" SNO="25" >
+		<FEATURE N="Position" V="0.200000000000000" />
+	</S>
+	<S DID="41" SNO="26" >
+		<FEATURE N="Position" V="0.196116135138184" />
+	</S>
+	<S DID="41" SNO="27" >
+		<FEATURE N="Position" V="0.192450089729875" />
+	</S>
+</SENT-FEATURE>

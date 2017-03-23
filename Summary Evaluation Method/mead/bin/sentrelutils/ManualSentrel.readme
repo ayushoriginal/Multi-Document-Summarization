@@ -1,0 +1,26 @@
+1. Convert sentpair format (manually annotated CST relationships) to sentrel format
+
+cat whatever.sentpair | /clair4/projects/sim/milan/txt2rel.pl JudgeName > whatever.sentrel
+
+Example:
+
+cat /clair4/projects/sim/milan/MI9-Zhu.sentpair |  /clair4/projects/sim/milan/txt2rel.pl Z > test.sentrel
+
+
+
+2. Inter-judge agreement
+
+(Both scripts in /clair4/projects/sim/milan/)
+
+1) ijagree.pl sentrel1 sentrel2
+        F--- fully agree
+        P--- Overlaping judgement
+        S--- One says something, the other nothing.
+
+Example:
+
+	ijagree.pl /clair4/projects/sim/milan/MI9-Zhu.sentrel /clair4/projects/sim/milan/MI9-Zhu.sentrel
+
+2) ijagree-dir.pl sentrel1 sentrel2
+This script specifically deals with the directionality issue. For all pairs that two judges give different 
+directionality judgement, regardless of type, this script will print an "R" for them.

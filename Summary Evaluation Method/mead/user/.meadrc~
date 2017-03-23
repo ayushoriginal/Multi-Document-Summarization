@@ -1,0 +1,18 @@
+#
+# All directories and scripts that have relative path names will 
+# have the user's home directory prepended to them.
+#
+
+data_dir	/afs/si.umich.edu/users/students/winkela/mead/data
+
+
+#classifier		adam-classifier.pl
+reranker                /afs/si/umich.edu/users/students/winkela/mead/bin/novelty-reranker.pl MEAD-cosine 0.7
+
+feature	     Centroid      /clair4/projects/mead307/source/mead/bin/feature-scripts/Centroid.pl enidf ENG
+
+compression_basis	words
+compression_absolute	200
+#compression_percent	30
+
+

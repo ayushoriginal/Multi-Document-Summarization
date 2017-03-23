@@ -1,0 +1,17 @@
+<!ELEMENT DOC-JUDGE (D)*>
+<!ATTLIST DOC-JUDGE
+     QID    CDATA #REQUIRED
+     SYSTEM CDATA #REQUIRED  
+     LANG   (CHIN|ENG) "ENG">
+
+<!-- LANG refers to the language of the retrieval process.
+     Thus, it is the language of the documents. 
+     However, the original language of the query might be different. 
+     Look this up in QID. -->
+
+<!ELEMENT D EMPTY>
+<!ATTLIST D 
+     DID   ID     #REQUIRED
+     RANK  CDATA  #IMPLIED
+     CORR-DOC CDATA #IMPLIED
+     SCORE CDATA  #REQUIRED>

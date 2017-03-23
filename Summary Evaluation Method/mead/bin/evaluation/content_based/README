@@ -1,0 +1,63 @@
+WARNING:  you must have bleu installed on your machine to run this
+
+Before beginning, you must have installed MEAD and have mead/lib
+set as a perl library location if it isn't already.  If you don't know
+how do to this, adapt this appropriately:
+
+export PERL5LIB=$PATH:/clair4/projects/mead307/stable/mead/lib
+
+The other thing you must do is to open summ_sim.pl and change the 
+directory for the location of bleu-1.pl in the variable $bleu_DIR.
+The line currently reads:
+
+my $bleu_DIR = "/clair4/tools/bleu";  
+
+The syntax is ./summ_sim.pl summary1 summary2.
+
+The output looks like this:
+
+a) Simple Cosine: 0.310086836473021
+b) Cosine       : 0.15299879834494
+c) Token Overlap: 0.182926829268293
+d) Big.  Overlap: 0.108910891089109
+e) Norm. LCS    : 0.275
+f) Bleu         : 0.1800
+
+Simple cosine calculates the cosine similarity with a simple binary count (1 if a word 
+exists (no matter how many times) in a sentence, 0 if it doesn't).  Cosine uses idf 
+weights and includes the actual count of tokens for each type.
+
+In "The quick brown fox jumped over the lazy dog," simple cosine would only count "the" 
+as 1, while cosine would count it twice and multiply it by its idf weight.
+
+Big. Overlap measures the bigram overlap, and norm. LCS measures the normalized longest 
+common substring.
+
+The input for this script can be a summary of this format:
+[1]  Solemn ceremony marks Handover
+[2]  A solemn, historic ceremony has marked the resumption of the exercise of sovereignty over Hong Kong by the People's Republic of China.
+[3]  His Royal Highness The Prince of Wales and the President of the People's Republic of China (PRC) HE Mr Jiang Zemin both spoke at the ceremony, which straddled midnight of June 30 and July 1.
+[4]  The ceremony was telecast live around the world.
+
+or a "document" file of this format:
+
+<?xml version='1.0'?>
+<!DOCTYPE DOCUMENT SYSTEM "../../../../../../../documentation/dtd/document.dtd">
+<DOCUMENT DID='19970701_001.e' DOCNO ='1' LANG='ENG' >
+<EXTRACTION-INFO SYSTEM="LEAD-BASE" RUN="D-19970701_001.e.996941177" COMPRESSION="20S" QID="none"/><BODY>
+<TEXT>
+ Solemn ceremony marks Handover
+A solemn, historic ceremony has marked the resumption of the exercise of sovereignty over Hong Kong by the People's Republic of China.
+His Royal Highness The Prince of Wales and the President of the People's Republic of China (PRC) HE Mr Jiang Zemin both spoke at the ceremony, which straddled midnight of June 30 and July 1.
+The ceremony was telecast live around the world.
+</TEXT>
+</BODY>
+</DOCUMENT
+
+
+CREDITS:
+
+These content based measures were very slightly adapted from
+those written by Horacio Saggion for the JHU 2001 summer workshop on
+cross-lingual document summarization.  Zhu Zhang wrote
+the subroutine which interfaces with Bleu. 

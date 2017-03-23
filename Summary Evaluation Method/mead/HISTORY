@@ -1,0 +1,67 @@
+3.02 November 18 - first official release (beta) version
+
+3.03 December 14 - added documentation, changed some README files
+
+3.04 January 13  
+       fixed DID_to_docsent_filename.pm
+       streamlined file structure
+       fixed many bugs in the documentation
+       incorporated sections on adding new features and relations
+       added mkconfig and other utilities
+       added Skeleton.pl and other sample features
+       added support for DATA-DIRECTORY to config file
+       added notes on porting to Linux
+
+3.05 January 20
+       removed XML::Encoding, XML::UM, HTML::Tree, HTML::TagSet,
+           XML::Treebuilder from needed libraries
+       added Text::Iconv and support for Chinese on Linux
+       removed $default-feature-directory, $fcombine from driver.pl
+       changed data-directory to doc-directory in config file
+       changed THE-WORM-CONFIG to MEAD-CONFIG in config file
+       added installation script and changed files and directory
+           structure to support it
+       updated documentation
+
+3.06 July 12
+       added a Chinese example (GB-encoded from xinhua net)
+       removed mkconfig.pl
+       updated Documentation
+       added idf system-specific DB encoding to installation script
+
+3.07 October 9
+     re-added XML::TreeBuilder to list of required modules
+     incorporated MEAD Eval into the standard MEAD distribution
+     added mead.pl script
+     added support for .meadrc files
+     began construction of MEAD:: module hierarchy
+     removed lots of duplicated code throughout the scripts
+     renamed hkmead.pl to default-classifier.pl
+     removed random-based.pl and lead-based.pl 
+     added random-classifier.pl and leadbased-classifier.pl
+     added identity-reranker.pl and novelty-reranker.pl     
+     updated documentation
+     other minor changes too numerous to mention
+
+3.10 June, 2006
+     Created a LexRank.pl feature script (wrapper around a C++ version)
+     Fixed the DBM bug in Essence::IDF
+     Added XML validation to driver.pl
+     Fixed various DTD issues
+     Added feature score caching options
+     Install.PL compiles lexrank C++ code
+     Included cidr
+     Included mead client and server
+     Included duc scripts
+     Included cst-rerankers
+     Other small bug fixes
+
+Addons (November 4, 2003)
+
+3.11 October 17, 2006
+	Upgraded Text::Iconv
+	Fixed dbm bugs in cidr.pl
+	moved write_summary to MEAD::MEAD and removed MEAD::Summary
+	Fixed bug in MEAD::SimRoutines (no package line at top of file)
+	incorporated tf2gen & lexrank into MEAD installation hierarchy
+		updated documentation

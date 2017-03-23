@@ -1,0 +1,5 @@
+To install MEAD, run:
+
+perl Install.PL
+
+For further details, see meaddoc.ps in docs directory.

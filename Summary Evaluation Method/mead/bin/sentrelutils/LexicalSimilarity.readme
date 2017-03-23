@@ -1,0 +1,31 @@
+/clair4/projects/sim/milan/sim.pl
+
+Input: a cluster of documents defined by a .cluster file (assuming the docsent files are in the same dir)
+	(Optional: a sentrel file for the corresponding cluster)
+
+Output: 
+- If sentrel is provided: P/R result for varous similariy approximation
+- If sentrel is not provided: sentence pairs above specified similarity threshold
+
+
+Syntax:
+
+1) Similarity measures: one of the following:
+	-bleu, -cosine, -wordoverlap, -lcs
+2) Stopword deletion (on/off):
+	-stopword StopwordFile.txt
+3) Similarity threshold:
+	-sthres RealValuedNumber
+4) Similarity matrix (on/off):
+	-matrix
+
+
+Example:
+
+Usage 1: evaluating similarity measures as proxy for CST-relatedness
+ 
+	sim.pl whatever.cluster whatever.sentrel -cosine -sthres 0.1 -matrix
+
+Usage 1: printing sentence pairs above specified sim threshold
+ 
+	sim.pl whatever.cluster -bleu -sthres 0.2

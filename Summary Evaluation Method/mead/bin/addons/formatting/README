@@ -1,0 +1,216 @@
+This directory contains scripts useful for converting html and text
+to the cluster and docsent format.
+
+Some of this code was taken directly from newsinessence.com's code.
+And I here pay my debt of gratitude.  More work, of course, remains
+on this code as well.
+
+Before beginning, the directory which holds MEAD_ADDONS_UTIL.pm must be in your Perl 
+library path.  On the original system, this command would be:
+
+export PERL5LIB=$PATH:/clair6/projects/mead_addons/formatting
+
+Further, you will need to set the absolute path of the dtd directory 
+variable $DTD_DIR on line 18 of MEAD_ADDONS_UTIL.pm
+
+my $DTD_DIR ="/clair6/projects/ldc/documentation/dtd";
+
+
+We have included 4 scripts.  Depending on your needs, you will most 
+likely only have to use one.  Do not fear a long and tricky conversion 
+pipeline.  
+
+The scripts are:
+
+text2cluster.pl
+html2cluster.pl
+html2text.pl
+hkcorpus2cluster.pl
+
+
+text2cluster.pl
+There are a number of ways of calling this:
+
+1) if you have a file of unsegmented text which you want to convert to a docsent file:
+      ./text2cluster.pl FILE
+      
+2) if you have a directory of unsegmented text files which you want to convert to a full 
+cluster:
+      ./text2cluster.pl DIRECTORY
+
+3) if you have a file of segmented text you want to convert to a docsent file, and your 
+sentences are segmented with '\n\n':
+  
+      ./text2cluster.pl FILE '\n\n'
+
+4) if you have a directory of segmented textfiles, which you want to convert to a 
+full cluster, and your sentences are segmented by "the" (admittedly, not best choice ;))
+  
+      ./text2cluster.pl DIRECTORY '\bthe\b'
+
+5) finally, if you are preprocessing files for CIDR and you just want to convert a bunch 
+of text files to docsent files without creating a cluster, you can do two things.  
+	A) create a cluster and just use the docsent folder
+        B) create a simple driver which will run text2cluster on all of the 
+		individual files in your directory.
+
+html2cluster.pl
+If you have a directory of html files, this script will convert them to 
+text, segment the text into sentences and then output a cluster.
+
+
+html2text.pl
+This script we include for fun.  It is intended to convert html 
+to text.  Sentences are divided by "\n".  We found it useful as a 
+diagnostic in building MEAD_ADDONS_UTIL.pm
+
+If called on a directory, the first two scripts create two subdirectories within the 
+directory specified.  One is a docsent directory, into which go all of the docsent 
+formatted files; the other is the "orig" directory into which go the 
+original files.  These scripts also create a .cluster file.  It should be 
+noted that if there are already files in the docsent subdirectory, they 
+will remain there, and the files which are already there will be added to 
+the new .cluster file.  
+
+hkcorpus2cluster.pl
+This is designed to take an stg file and create 
+single-document clusters from each news article in the file.  
+An stg file is a file which was created by the JHU 2001 Summer Workshop
+participants to represent an original LDC HKCorpus file but with
+their own sentence segmentation.
+This was designed to make it easier to for people to work with 
+the SummBank 1.0 data.  The slightly neat thing that this script 
+does is maintain paragraph and paragraph_sent (rsnt
+in MEAD lingo) numbers.  The input for this file looks like this:
+
+<DOC id=19990526_010.e>
+ <TEXT>
+ <s id=19990526_010.e.1.1>
+ Eastern Traffic Day
+ <s id=19990526_010.e.1.2>
+ Eastern District Police officers have issued a total of 126 fixed penalty
+</TEXT>
+</DOC>
+
+It is assumed that there could be more than one news article in a given file.
+This script creates a completely new cluster for each file.
+
+The commandline is:
+
+./hkcorpus2cluster.pl FILE TARGETDIRECTORY
+
+so with the test material:
+
+./hkcorpus2cluster.pl hkcorpusttest.txt HERE
+
+This will then create 10 single-document clusters in the subdirectory HERE. 
+
+
+
+Now, there are a few important variables in MEAD_ADDONS_UTIL.pm.
+
+First, here are the variables which are used by the subroutine split_sentences.  
+N.B. If you are already working with segmented text, I figure you know 
+enough to implement these kinds of filters.
+
+$min_words  If a sentence has this many words or more, include it.  Otherwise, get rid of 
+               if it.
+
+$sentends  If a "sentence" ends in these things, include it.  This is designed to help 
+	capture complete sentences, i.e. those sentences which end in a 
+	terminal punctuation mark (optionally followed by a single or double quote).
+	If you don't want this behavior, just set sent_ends = '';
+
+$final_straw  If a sentence contains the $final_straw, stop reading any more of the text 
+             string and return now.  This is meant to get rid of clutter at the bottom of
+             news articles.  I've chosen "All Rights Reserved|contributed to this report."
+             This is of course problematic for anyone not doing exacly what we are. 
+  	     Again, set $final_straw = "" if you don't want this behavior.
+  
+Second, here are the important variables used in converting html to text:
+
+$split_on    Any time that the html::Parser returns one of these codes, insert a "\r\n" 
+		into the text string.  The trick with this one is that not all
+		webpages use the same markers for meaningful sentence division.
+		We can mostly agree that "span|option|hr|br|p|td|th" will fairly
+                reasonably capture ends of sentences or text segments.  The problem
+                I encountered was with "div."  In most pages, this would also mark 
+                a sentence break.  However, on google's cached pages which they've
+                translated from pdf, ps or doc files, they use "div" to mark lines
+                which do not reflect sentence breaks.
+
+$html_or_body  The extract_text_from_html subroutine sends only that text enclosed by 
+		this <variable> .*? </variable> to the extractor.  If you only want
+		to extract text from the html body, set this = "body;" if from the 
+		html section, set this = "html."  If you just want to extract text
+                from the document, set this = "".  You may want to do this last
+		if you are interested in extracting hidden text which comes before
+		or after the <html> or </html> tags. 
+
+
+
+Several issues the user should be aware of:
+
+1) Sentence segmentation
+   a) we initially insert "\n" where we think there is a sentence 
+    break:
+
+      $text =~s/([.!?]+["']*)[\s]+([^a-z])/$1\n$2/g;
+   
+ 	We preferred this method over Text::Sentence::split_sentences($text),
+        because as of the coding date for this project Text::Sentence does not 
+        split a sentence if the next sentence begins with a number.  Our
+ 	method fails to split a sentence if the next sentence begins 
+	with a lowercase letter, but that seems preferable for now. 
+
+
+  b) we then read the abbrevs file into a hash.  If a sentence ends in an 
+	abbreviation and a period, we join the next sentence to it (unless the 
+        first sentence ends in a \r, which to our code marks a paragraph 
+        break code in the html).  This is not ideal, but it works fairly well.  
+        There is always more room for improving the abbrevs file.  Further, this method 
+	will fail to properly segment:
+
+	John likes the U.S. Navy experts think John...
+
+	More serious parsing is required to capture this, but our method
+	works fairly well for now.
+
+
+2) This code will handle the html codes for smart quotes $#0147 etc. and 
+	it converts "& " to &amp, etc. so that the files will be compliant 
+	with xml.  By default, this code also deletes all other html-escaped 
+        characters of the type &#[\d]+;  If you don't want this behaviour,
+	delete     $html =~s/\&\#[\d]+\;//g; in the subroutine clean_html.
+        Further, the sanitize subroutine in the MEAD_ADDONS_UTIL.pm gets
+        rid of just about everything except for punctuation and A-Za-z0-9.
+        It doesn't seem like this should be necessary, but mead.pl's use
+        of the XML parser kept throwing errors if anything except for these
+        was included.  I suspect that these issues will be taken care of
+        when perl fully incorporated unicode.
+
+
+Finally, the small improvements this code has over nie's is that it 
+handles smart quotes and it loads the abbrevs into a hash properly.  
+At the time of this writing, there was small bug in nie's code which 
+effectively disabled the use of abbrevs in sentence non-segmentation.  Further, 
+this code maintains breaks coded in the html.  NIE's code turned all snippets of text into one 
+string broken by spaces.  The problem with this is that this method loses information encoded in 
+the html, paragraph breaks, section breaks, etc. 
+ 
+My way around this was to end each snippet with "\r\n".  The sentence splitter recognizes
+this code as "must not rejoin, even if that sentence ends in an abbreviation."
+
+Really finally, we found that it was nearly 9 times quicker (6.61 CPU vs. 59.03 CPU) to 
+run a flat HTML::Parser parse on the text than to build the full tree for text 
+extraction.  This was run on the front page of www.cnn.com.  And, we found that it was 
+much, much quicker (0.59 CPU vs. 570.27 CPU) to extract the title from this flat parse 
+than to build the full tree and then extract the title.
+
+Well, ok, I mean it this time.  I've hard-coded the abbrevs file into the 
+MEAD_ADDONS_UTIL.pm package.  This isn't ideal, but it works ok.  More work
+can and should be done on better sentence segmentation.
+
+
+Nevertheless, as with all code, much can still be done to improve the speed and success
+of the current code.  This code stands on the shoulders of giants...

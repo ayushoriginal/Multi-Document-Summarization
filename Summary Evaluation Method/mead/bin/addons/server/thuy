@@ -1,0 +1,393 @@
+#!/usr/bin/perl
+
+###make sure this can find MEAD_ADDONS_UTIL.pm
+
+# preforker - server who forks first
+################# this is for the creation of the temp dir###############
+
+use IO::Socket;
+use Symbol;
+use POSIX;
+use Getopt::Long;
+
+## if we are going to daemonize ourselves, we need to know where we started
+my $startdir = `pwd`;
+chomp $startdir;
+
+my $portNumber=6969;
+my $summarizedir = "summarize_dir";
+my $verbosity=0;
+
+#read the arguments they may have supplied
+&ParseCommandLine();
+
+### put the full path in for sumamrizedir
+### but first check if it ends in '/'
+unless($summarizedir =~ /^\//) {
+    $summarizedir = $startdir . "/" . $summarizedir;
+}
+
+print "clustering in $summarizedir\n" if($verbosity);
+print "listening on port $portNumber\n" if($verbosity);
+
+#here is the stuff that makes us a daemon
+chdir '/';  ### allow someone to unmount the directory we started in??
+            ### that was the suggestion but how do we then cluster stuff?
+umask 0;
+
+print "Sending standard streams to /dev/null\nIf you are trying to debug that may confuse you\n" if($verbosity);
+open STDIN, '/dev/null'   or die "Can't read /dev/null: $!";
+#open STDOUT, '>/dev/null' or die "Can't write to /dev/null: $!";
+#open STDERR, '>/dev/null' or die "Can't write to /dev/null: $!";
+
+######################################################
+######################################################
+# DON'T TRY OUTPUTTING ANYTHING TO stdout ANYMORE!!! #
+######################################################
+######################################################
+
+defined(my $pid = fork)   or die "Can't fork: $!";
+exit if $pid;
+&setsid                    or die "Can't start a new session: $!";
+
+print "My pid is $$\n" if($verbosity);
+### THIS NEEDS TO KILL ITS CHILDREN WHEN TOLD TO SHUTDOWN
+
+# establish SERVER socket, bind and listen.
+$server = IO::Socket::INET->new(LocalPort => $portNumber,
+                                Type      => SOCK_STREAM,
+                                Proto     => 'tcp',
+                                Reuse     => 1,
+                                Listen    => 10 )
+  or die "making socket: $@\n";
+
+# global variables  
+## these should be command line options
+$PREFORK                = 5;       # number of children to maintain
+$MAX_CLIENTS_PER_CHILD  = 4;        # number of clients each child should process
+%children               = ();       # keys are current child process IDs
+$children               = 0;        # current number of children
+
+sub REAPER {                        # takes care of dead children
+    $SIG{CHLD} = \&REAPER;
+    my $pid = wait;
+    $children --;
+    delete $children{$pid};
+}
+
+sub HUNTSMAN {                      # signal handler for SIGINT
+    local($SIG{CHLD}) = 'IGNORE';   # we're going to kill our children
+    kill 'INT' => keys %children;
+    exit;                           # clean up with dignity
+}
+
+
+# Install signal handlers.
+$SIG{CHLD} = \&REAPER;
+$SIG{INT}  = \&HUNTSMAN;
+my $bin_path = `echo \$BINPATH`; #This should be an environment variable to the direct path to mead.pl eg (/clair4/projects/mead307/stable/mead/bin)
+chomp($bin_path);
+die "MAKE SURE BINPATH is exported e.g. export BINPATH=/clair7/projects/mead309/mead/bin\n" unless($bin_path);
+my $mead_path = $bin_path."/mead.pl";
+my $text2cluster_path = $bin_path."/addons/formatting/text2cluster.pl";
+
+my $classifier_file = $startdir . "/classifier.hash";
+my $feature_file = $startdir . "/feature.hash";
+my $reranker_file = $startdir . "/reranker.hash";
+my %classifier_hash;
+my %feature_hash;
+my %reranker_hash;
+my @fileRay;
+
+#making the classifier hash
+open (classifier_file, "> $classifier_file") or die "FAILED TO MAKE FILE $classifier_file\n";
+@fileRay = <classifier_file>;
+close(classifier_file);
+foreach (@fileRay){
+    (my $key, my $value) = split(/, /, $_);
+    chomp($value);
+    $classifier_hash{$key} = $value;
+}
+
+
+#making the feature hash
+open (feature_file, "<$feature_file") or die "FAILED TO MAKE FILE $feature_file\n";
+@fileRay = <feature_file>;
+close(feature_file);
+foreach (@fileRay){
+    (my $key, my $value) = split(/, /, $_);
+    chomp($value);
+    $feature_hash{$key} = $value;
+}
+
+
+#making the reranker hash
+open (reranker_file, "<$reranker_file") or die "FAILED TO MAKE FILE $reranker_file\n";
+@fileRay = <reranker_file>;
+close(reranker_file);
+foreach (@fileRay){
+    (my $key, my $value) = split(/, /, $_);
+    chomp($value);
+    $reranker_hash{$key} = $value;
+}
+
+
+# Fork off our children.
+for (1 .. $PREFORK) {
+    make_new_child();
+}
+
+
+# And maintain the population.
+while (1) {
+    sleep;                          # wait for a signal (i.e., child's death)
+    for ($i = $children; $i < $PREFORK; $i++) {
+        make_new_child();           # top up the child pool
+    }
+}
+
+sub make_new_child {
+    my $pid;
+    my $sigset;
+    
+    # block signal for fork
+    $sigset = POSIX::SigSet->new(SIGINT);
+    sigprocmask(SIG_BLOCK, $sigset)
+        or die "Can't block SIGINT for fork: $!\n";
+    
+    die "fork: $!" unless defined ($pid = fork);
+    
+    if ($pid) {
+        # Parent records the child's birth and returns.
+        sigprocmask(SIG_UNBLOCK, $sigset)
+            or die "Can't unblock SIGINT for fork: $!\n";
+        $children{$pid} = 1;
+        $children++;
+        return;
+    } else {
+        # Child can *not* return from this subroutine.
+        $SIG{INT} = 'DEFAULT';      # make SIGINT kill us as it did before
+    
+        # unblock signals
+        sigprocmask(SIG_UNBLOCK, $sigset)
+            or die "Can't unblock SIGINT for fork: $!\n";
+
+        # handle connections until we've reached $MAX_CLIENTS_PER_CHILD
+        for ($i=0; $i < $MAX_CLIENTS_PER_CHILD; $i++) {
+	    $client = $server->accept()     or last;
+	    #Make the directory for the request
+	    
+	    my $request = 0;
+	    my $policy = 0;
+	    my $document = 0;
+	    my $nutchq = 0;
+	    
+	    my $unique_file_counter = 0;
+	    my $sessionid;
+	    my $rcfile;
+	    my $nutch_query_file;
+
+	    my $directory = "";
+	    while (<$client>) {
+
+		if ($_ eq "<REQUEST>\n" ){
+		    if ($request == 0 && $policy == 0 && $document == 0 && $nutchq == 0){
+			$request = 1;
+			$rcfile = "";
+			$sessionid = meadd_timestamp;
+			### maybe the directory should be based on request number instead of unique_file_counter and
+			### would this -p help? MC-2/11/2004
+			$directory =$sessionid . '.' . $i . '.' . $$;
+			`mkdir -p $summarizedir/$directory`;
+			chdir("$summarizedir/$directory");
+		    }
+		}
+		elsif ($_ eq "<DOCUMENT>\n" ){
+		    # check request == 1 && doc == policy == 0
+		    if($request == 1 && $document == 0 && $policy == 0 && $nutchq == 0){
+			$document = 1;
+			# just open a file handle
+			my $myOutput = meadd_timestamp."$unique_file_counter";
+			$unique_file_counter++;
+			open (CLIENTFILE, ">$myOutput") or die "FAILED TO MAKE FILE $myOutput\n";
+
+		    }
+		}
+		elsif ($_ eq "</DOCUMENT>\n"){
+		    # check request == doc == 1 && policy == 0
+		    if($request == 1 && $document == 1 && $policy == 0 && $nutchq == 0){
+			$document = 0;
+			# close file handle
+			close(CLIENTFILE);
+		    }
+		}
+		elsif ($_ eq "</REQUEST>\n"){
+		    # check request == 1 && doc == policy == 0
+		    if($request == 1 && $document == 0 && $policy == 0 && $nutchq == 0){
+		    # do the request
+			chdir($summarizedir);
+			print `$text2cluster_path $directory`;
+			my $meadrcfile = "$summarizedir/$directory/meadrc";
+			open(MEADRCFILE, ">$meadrcfile") or die "FAILED TO MAKE FILE $meadrcfile\n";
+			
+			my $nutchfile = "$directory/nutch.query";
+                        open (QUERYFILE, ">$nutchfile") or die "FAILED TO MAKE FILE $nutchfile\n";   
+			print QUERYFILE $nutch_query_file;
+			close(QUERYFILE);
+
+			$rcfile =~ s/_NUTCHQUERY_/$nutchfile/g;
+	  			
+			print MEADRCFILE "$rcfile\n";
+			close(MEADRCFILE);
+
+			my $directory2summarize = $directory;                                       
+			my $extract = "<SUMMARY>\n\n";
+			$extract .= `$mead_path -rc $meadrcfile $directory2summarize`;
+			$extract .= "\n</SUMMARY>\n";
+			$client->send($extract);
+
+			# set req = 0
+			$request = 0;		
+			$unique_file_counter = 0;
+		    }
+		}
+		elsif($_ eq "<POLICY>\n"){
+		    if($request == 1 && $policy == 0 && $document == 0 && $nutchq == 0){
+			$policy = 1;
+		    }
+		}
+		elsif($_ eq "</POLICY>\n"){
+		    if($request == 1 && $policy == 1 && $document == 0 && $nutchq == 0){
+			$policy = 0;
+		    }
+		} 
+		elsif($_ eq "<NUTCHQ>\n"){
+		    if($request == 1 && $policy == 1 && $document == 0 && $nutchq == 0){
+			$nutchq = 1;
+			$nutch_query_file = "";
+		    }
+		}
+		elsif($_ eq "</NUTCHQ>\n"){
+		    if($request == 1 && $policy == 1 && $document == 0 && $nutchq == 1){
+			$nutchq = 0;
+		    }
+		}
+		else {
+		    #if req
+		    #    if doc
+		    #        output this line to CLIENTFILE
+		    #    elsif policy
+		    if($request == 1){
+			if($document == 1){
+			    print CLIENTFILE $_;
+			}
+			elsif($policy == 1){
+			    if($_ =~ "classifier"){
+				(my $first, my $hashkey, my @args) = split(/ /, $_);
+				$rcfile .= $first." ".$classifier_hash{$hashkey};  
+				foreach my $arg(@args){
+				    $rcfile .= " ".$arg;
+				}
+				$rcfile .= "\n";
+			    }
+			    elsif($_ =~ "reranker"){
+				(my $first, my $hashkey, my @args) = split(/ /, $_);
+				$rcfile .= $first." ".$reranker_hash{$hashkey}; 
+				foreach my $arg(@args){
+				    $rcfile .= " ".$arg;
+				}
+				$rcfile .= "\n";
+			    }
+			    elsif($_ =~ "feature"){
+				(my $first, my $hashkey, my @args) = split(/ /, $_);
+				chomp($hashkey); 
+				$rcfile .= $first." ".$feature_hash{$hashkey}; 
+				foreach my $arg(@args){
+				    $rcfile .= " ".$arg;
+				}
+				$rcfile .= "\n";
+			    }
+			    else{
+				if($nutchq == 1){
+				    $nutch_query_file .= $_;
+				}
+				else{
+				    $rcfile .= $_;
+				}
+			    }
+			}
+		    }
+		}
+
+
+	    }
+	    print "Transaction complete\n";
+	    $client->shutdown(2);
+
+	    # get rid of that directory, we don't need a huge cache
+	    ### but first check that there is some kind of directory there! MC-2/11/2004
+	    if($directory) {
+		`rm -rf $summarizedir/$directory`;
+	    }
+	    $directory="";
+        }
+    
+        # tidy up gracefully and finish
+    
+        # this exit is VERY important, otherwise the child will become
+        # a producer of more and more children, forking yourself into
+        # process death.
+        exit;
+    }
+}
+
+
+### this is lifted straight from the NewsInEssence Util.pm module
+### except that it doesn't always return an even number
+sub meadd_timestamp {
+    my ($sec,$min,$hour,$dom,$mon,$year,$wday,$doy,$isdst) = localtime;
+    $year = $year + 1900;
+    $mon++;  # since month is 0-11.
+    my $timestamp = sprintf
+        "%4d%2d%2d%2d%2d%2d", $year, $mon, $dom, $hour, $min, $sec;
+    $timestamp =~ s/ /0/g;
+    return $timestamp;
+}
+
+
+sub ParseCommandLine
+{
+    my @switches = (
+		    'help',         \$SHOW_HELP,
+		    'port=i',       \$portNumber,
+		    'summdir=s',    \$summarizedir,
+		    'verbose+',      \$verbosity,
+                   );
+
+
+    &GetOptions(@switches) || die "use -help switch to display brief help\n";
+
+    if ($SHOW_HELP)
+    {
+        print <<EofHelp;
+
+    Usage: meadd  [ -h | -help ]  |  [ -p | -port <port> ] [ -s | -summdir <summarization-directory> ]
+
+        port            : the port on which to listen 
+	                : the default is 6969.
+	summdir         : the temp directory where the clusters will be stored
+	                : the default directory is './summarize_dir'. '/' will 
+			: be ignored, but any other absolute path is accepted.
+	verbose         : Use multiple times to get more and more verbose output
+	help            : print this message.
+
+    Remember to export your BINPATH e.g. export BINPATH=/path/to/mead/bin
+
+EofHelp
+        exit 0;
+    }
+
+    if($summarizedir eq "/") {
+	$summarizedir = "summarize_dir";
+    }
+}

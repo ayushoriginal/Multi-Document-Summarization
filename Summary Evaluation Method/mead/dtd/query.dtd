@@ -1,0 +1,19 @@
+<!ELEMENT QUERY (TITLE,DESCRIPTION?,NARRATIVE?)>
+<!ATTLIST QUERY 
+   QID  CDATA #REQUIRED
+   QNO  CDATA #REQUIRED
+   LANG (CHIN|ENG) "ENG"
+   TRANSLATED (YES|NO) "NO"
+   ORIGLANG (CHIN|ENG) "CHIN"
+   TRANS-METHOD (AUTO|MAN) "AUTO">
+
+<!-- QID: unique query no, eg. 125-CA or 125-E 
+     QNO: LDC query no for content, eg. 125
+     LANG: of query
+     TRANSLATED: is it an original query or not?
+     ORIGLANG: If translated, from which language (from the other one, of course!)
+     TRANS-METHOD: Automatically translated or manually? -->
+
+<!ELEMENT TITLE       (#PCDATA)>
+<!ELEMENT DESCRIPTION (#PCDATA)>
+<!ELEMENT NARRATIVE   (#PCDATA)>

@@ -1,0 +1,101 @@
+Text::Iconv Version 1.4
+
+Copyright © 2004 Michael Piotrowski.  All Rights Reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+
+Description
+-----------
+
+This module provides a Perl interface to the iconv() codeset
+conversion function, as defined by the Single UNIX Specification.  For
+more details see the POD documentation embedded in the file Iconv.pm,
+which will also be installed as Text::Iconv(3) man page.
+
+Prerequisites
+-------------
+
+Your system should be compliant with the Single UNIX Specification or
+at least provide iconv_open(), iconv() and iconv_close() functions
+compliant with it.
+
+Note that the possible conversions and the quality of the conversions
+depend on the available iconv conversion tables and algorithms, which
+are in most cases supplied by the operating system vendor.  Some
+systems also allow you to build your own tables (e.g., HP-UX, Tru64
+UNIX, and AIX provide the genxlt(1) command).
+
+It is also possible to use a separate iconv library such as GNU
+libiconv package, just make sure that the desired library is found
+(see <http://www.gnu.org/directory/localization/libiconv.html>).
+
+Building the module
+-------------------
+
+Since the Single UNIX Specification only specifies an interface,
+several issues are left to the implementation to define, namely:
+
+    1. The supported codesets
+    2. The supported conversions
+    3. The names for the supported codesets
+
+Please check your system documentation for the above points.
+
+The module can be built using this sequence of commands:
+
+    perl Makefile.PL
+    make
+    make test
+
+On some systems, the iconv functions are in libc; on others (and when
+you want to use a separate iconv library, such as GNU libiconv), you
+have to link with -liconv.  Makefile.PL tries to automatically detect
+this.  However, if your iconv library is in a non-standard path, you
+might have to help it.  You can specify library and include paths like
+this:
+
+    perl Makefile.PL LIBS='-L/path/to/lib' INC='-I/path/to/include
+
+You might also have to do this if you have multiple iconv
+implementations installed and want to use a specific one.
+
+The purpose of the test scripts (run by "make test") is to check if an
+iconv library can be found, and if the iconv functions can be called.
+It is neither intended to find out which conversions are supported,
+nor to test the quality of the conversions provided by your iconv
+library.  However, since the iconv functions can only be tested by
+calling them, which in turn requires the specification of codesets to
+be converted.  The test scripts try some conversions which seem to be
+widely supported.  Conversions not supported by your iconv
+implementation are skipped, but for the purpose outlined above this is
+no problem, as it shows that the iconv functions are working.  There
+is no standard way to find out which conversions are supported by an
+implementation.  This is also the reason why Text::Iconv can't provide
+platform-independent support for codeset identifiers (even if it it
+would be nice to have).
+
+Installation
+------------
+
+    make install
+
+Feedback
+--------
+
+This version of Text::Iconv was tested on HP-UX 11.00 (native and with
+GNU libiconv), NetBSD 1.6.1 (with GNU libiconv), NetBSD 1.6ZK (native
+and with GNU libiconv), FreeBSD 5.1 (with GNU libiconv), Solaris 8,
+Solaris 9, and Linux 2.4.20.
+
+If you are building the module on another platform I would appreciate
+a note to tell me how you got on, especially if you need to specify
+additional libraries, or if none of the codeset identifiers in the
+test scripts are supported.
+
+Thanks
+------
+
+Thanks go to all those who reported bugs and suggested features.
+
+Michael Piotrowski <mxp@dynalabs.de>

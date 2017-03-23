@@ -1,0 +1,54 @@
+Ok, I have made LexPageRank.pl a standalone script! 
+Currently, it is located at:
+
+/clair7/projects/nih/mead/bin/feature-scripts/LexPageRank.pl
+
+The *.m files need ALWAYS go with it since LexPageRank uses 
+matlab which in turn requires these *.m files.
+LexPageRank.pl also uses these scripts written by Drago:
+    /clair8/projects/pr-summ/getcos.pl
+    /clair8/projects/pr-summ/all_cos.pl
+    /clair8/projects/pr-summ/msaagam.pl  (this name probably need be changed)
+    /clair8/projects/pr-summ/all_lev.pl
+We'd keep them there intact!
+
+Arguments to LexPageRank.pl are
+    $cluster        (name of the cluster to summarize)
+    $option         (either "cos" or "lev")
+    $thresh         (0.1~0.9 for "cos" & even ints btw 2~100 for "lev")
+    $datadir        (this arg would be appended by driver.pl, NOT user)
+
+LexPageRank.pl would create the following files under $datadir/.. 
+This is the dir where the .cluster resides:
+    $cluster.sent    (original texts of extracted from the docsent files)
+    $cluster.cos or $cluster.lev (depending on the option)
+    $cluster-$thresh.cos.dat or $cluster-$thresh.lev.dat
+    $cluster.commad  (matlab commad to compute LexPageRank)
+    $cluster-$thresh.cos.pr  or $cluster-$thresh.lev.pr
+        (actual data file for the given option and threshold)
+
+Hence, the user of this feature script should:
+    1. Make the cluster directory writable
+    2. Be careful about file name confliction
+
+Since this could be a very slow feature script due to the preparation work, 
+the script is written in such a way that it always checks if required files 
+already exist at each step. This would potentially yield a big time-saving.
+
+An example meadrc file using LexPageRank.pl can be found at:
+/clair6/projects/evolving-ie/fact-track/data/mds/A/cluster/A/lexpr.meadrc
+Do:
+% cd /clair6/projects/evolving-ie/fact-track/data/mds/A/cluster
+% mead.pl -extract -rc A/lexpr.meadrc A
+
+If you are the first one to run this, it will take a while for all dat files 
+to be created. Subsequent runs will be much faster (but remember to remove 
+the cached feature file A/feature/A.LexPageRank.sentfeature). 
+You could modify
+/clair6/projects/evolving-ie/fact-track/data/mds/A/cluster/A/lexpr.meadrc
+to try other options and thresholds.
+
+WARNING: running option "lev" could be super slow, especially for larger 
+clusters since 50 .lev.dat files need be created!
+
+For questions/concerns, email Siwei Shen at shens@umich.edu
