@@ -1,0 +1,38 @@
+RESULTS OF ROUGE TESTS ON PEERS PROVIDED HERE
+PARAMETERS: ./ROUGE-1.5.5.pl -n 4 -m -a -l 100 -x -c 95 -r 1000 -f A -p 0.5 -t 0
+
+
+---------------------------------------------
+lexrank_peer ROUGE-1 Average_R: 0.26127 (95%-conf.int. 0.24156 - 0.28079)
+lexrank_peer ROUGE-1 Average_P: 0.29923 (95%-conf.int. 0.27940 - 0.31933)
+lexrank_peer ROUGE-1 Average_F: 0.27830 (95%-conf.int. 0.25844 - 0.29814)
+---------------------------------------------
+lexrank_peer ROUGE-2 Average_R: 0.03596 (95%-conf.int. 0.02895 - 0.04370)
+lexrank_peer ROUGE-2 Average_P: 0.04069 (95%-conf.int. 0.03306 - 0.04900)
+lexrank_peer ROUGE-2 Average_F: 0.03812 (95%-conf.int. 0.03080 - 0.04614)
+---------------------------------------------
+lexrank_peer ROUGE-3 Average_R: 0.00768 (95%-conf.int. 0.00508 - 0.01064)
+lexrank_peer ROUGE-3 Average_P: 0.00868 (95%-conf.int. 0.00582 - 0.01192)
+lexrank_peer ROUGE-3 Average_F: 0.00814 (95%-conf.int. 0.00541 - 0.01122)
+---------------------------------------------
+lexrank_peer ROUGE-4 Average_R: 0.00223 (95%-conf.int. 0.00101 - 0.00379)
+lexrank_peer ROUGE-4 Average_P: 0.00256 (95%-conf.int. 0.00117 - 0.00425)
+lexrank_peer ROUGE-4 Average_F: 0.00238 (95%-conf.int. 0.00107 - 0.00405)
+
+
+---------------------------------------------
+pagerank_peer ROUGE-1 Average_R: 0.33122 (95%-conf.int. 0.31851 - 0.34453)
+pagerank_peer ROUGE-1 Average_P: 0.35913 (95%-conf.int. 0.34599 - 0.37238)
+pagerank_peer ROUGE-1 Average_F: 0.34451 (95%-conf.int. 0.33151 - 0.35813)
+---------------------------------------------
+pagerank_peer ROUGE-2 Average_R: 0.07474 (95%-conf.int. 0.06679 - 0.08233)
+pagerank_peer ROUGE-2 Average_P: 0.08107 (95%-conf.int. 0.07263 - 0.08914)
+pagerank_peer ROUGE-2 Average_F: 0.07775 (95%-conf.int. 0.06978 - 0.08553)
+---------------------------------------------
+pagerank_peer ROUGE-3 Average_R: 0.02635 (95%-conf.int. 0.02132 - 0.03100)
+pagerank_peer ROUGE-3 Average_P: 0.02857 (95%-conf.int. 0.02319 - 0.03354)
+pagerank_peer ROUGE-3 Average_F: 0.02741 (95%-conf.int. 0.02219 - 0.03212)
+---------------------------------------------
+pagerank_peer ROUGE-4 Average_R: 0.01089 (95%-conf.int. 0.00781 - 0.01396)
+pagerank_peer ROUGE-4 Average_P: 0.01180 (95%-conf.int. 0.00841 - 0.01517)
+pagerank_peer ROUGE-4 Average_F: 0.01132 (95%-conf.int. 0.00810 - 0.01453)
