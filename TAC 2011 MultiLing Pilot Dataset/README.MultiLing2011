@@ -1,0 +1,49 @@
+MultiLing Pilot 2011 Dataset - MultiLing Pilot of Text Analysis Conference 2011
+-------------------------------------------------------------------------------
+
+Contents
+--------
+- README.MultiLing2011 file: This file
+- 700 UTF-8 plain text files: The source documents in 7 languages.
+
+Licence:
+---------------------------
+This full corpus, as provided, is meant to be used only and exclusively within the scope of the 2011 Text Analysis Corpus MultiLing Pilot.
+
+
+Important Note on License:
+--------------------------
+This licence is subject to change on the completion of the TAC 2011 Conference, based on a decision
+from the organizing committee of the MultiLing Pilot.
+
+
+The dataset:
+------------
+The dataset is derived from publicly available WikiNews (http://www.wikinews.org/) English texts.
+The source texts were under CC Attribution Licence V2.5 (cf. http://creativecommons.org/licenses/by/2.5/). 
+Texts in other languages have been translated by native speakers of each language.
+The documents hold no meta-data or tags: they consist plain text files encoded in UTF-8 (without a Byte Order Marker - BOM).
+Tables and formatting have been removed.
+
+700 files are contained in the dataset, 100 for each of the following languages:
+- Arabic
+- Czech
+- English
+- French
+- Greek
+- Hebrew
+- Hindi
+
+The files are named as M00[A][B].[language] where:
+[A] is a number between 0 and 9 indicating a topic (for a total of 10 topics).
+[B] is a number between 0 and 9 indicating the number of the text within the given
+topic  (for a total of 10 files per topics).
+[language] indicates the language of the text contained in the file (e.g., English, French...).
+
+Referring to the dataset:
+-------------------------
+When referring to the dataset, please provide a link to the MultiLing Pilot Task Homepage OR
+to the TAC 2011 Summarization Track page (http://www.nist.gov/tac/2011/Summarization/).
+Please refer to the dataset as the ``MultiLing Pilot 2011 Dataset''.
+
+
