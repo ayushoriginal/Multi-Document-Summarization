@@ -1,0 +1,82 @@
+		= Online Forum Summarization (OnForumS), MultiLing 2017 =
+
+		      = README for the train data release-20161125=
+
+== Train Data ==
+
+Based on the crowdsourcing validation from OnForumS 2015, 
+a non-exhaustive gold standard set was created from the last year's data
+and the resulting files were saved with extension *.ofs.gold.xml next
+to their parents (files ending in *.ofs.in.xml) in subdirectory
+testDataOnForumS. Extra XML attributes were added to store the crowdsourcing
+validation for each link and label, mainly validation : {"yes", "no", "arg_na", "sent_na"}
+and an associated confidence for the validation [0.0 - 1.0]. We have called
+this set a gold-standard as all links and labels with validation="yes" can
+be regarded as gold annotations. Furthermore, for a given link (i.e., comId -> artId)
+if all possible labels have been found with validation="no", except for one,
+this makes, by exclusion, the remaining label the gold label (e.g., if it is
+not "against", nor "impartial", nor "arg_na", then it is "in_favour").
+
+== The Task ==
+
+Most major on-line news publishers, such as The Guardian or Le Monde,
+publish articles on different topics and encourage reader engagement
+through the provision of an on-line comment facility. A given news
+article can often give rise to thousands of reader comments — some
+related to specific points within the article, others that are replies
+to previous comments. The great volume of such user-supplied comments
+suggests the need for automated methods to summarize this content,
+which in turn poses an exciting and novel challenge for the
+summarization community. 
+
+The purpose of the Online Forum Summarization (OnForumS) track at
+MultiLing'15 is to set the ground for investigating how such a mass
+of comments can be summarised. We posit that a crucial initial step in
+developing reader comment summarization systems is to determine what
+comments relate to, be that either specific points within the text of
+the article, the global topic of the article, or comments made by
+other users. This constitutes a linking task, which we operationalise
+by all possible pairs of sentences (see Data section below). Furthermore,
+a set of link types or labels may be articulated to capture whether,
+for example, a comment agrees, elaborates, disagrees, etc., with the
+point made in the commented-upon text. 
+
+The OnForumS task at MultiLing'17 is a particular specification of the
+linking task, in which systems take as input a news article with comments 
+and are asked to link and label each comment to sentences in the article,
+to the article topic as a whole or to other comments. The set of possible
+labels is defined in the DTD provided with the sample and test data sets
+(please see DTD, file ofs.dtd). 
+
+
+== The Data ==
+
+The test data is formed of news articles from The Guardian (EN) and La Repubblica (IT).
+
+Two versions of each article are provided, a UTF8-encoded text file and an XML file in the same format as the sample
+data previously released with text sentence-split and pre-tokenised (please see README
+from the sample data release for more details -- also available here under subdirectory
+sampleDataOnForumS).
+
+Participants are expected to take the XML file of each article as input and produce an
+augmented version of it with the section <links>...</links> containing the sentence-pair
+links hypothesised by their systems and the argument and sentiment labels for each, again,
+following the format specified in the sample data release (please see file ofs.dtd).
+
+Allowed links for sentence pairs are only between comment sentences and article sentences,
+or comment sentences with other comment sentences. Hence, the hypotesis space is defined
+by the union of two cartesian products, one between the set of comment sentences and the
+set of article sentences and the other between the set of comment sentences with itself
+(i.e., [CS X AS] U [CS X CS]).
+
+
+== Acknowledgment ==
+
+The data included hereby was kindly made available to us by Websays for the purposes of OnForumS,
+as part of the ongoing EU project, SENSEI (http://www.sensei-conversation.eu).
+
+
+== Questions ==
+
+Please direct questions to jstein @ kiv.zcu.cz.
+

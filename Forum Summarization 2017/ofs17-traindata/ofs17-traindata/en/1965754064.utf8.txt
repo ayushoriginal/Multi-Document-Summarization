@@ -1,0 +1,152 @@
+
+The US government has paid at least £100m to the UK spy agency GCHQ over the last three years to secure access to and influence over Britain's intelligence gathering programmes. The top secret payments are set out in documents which make clear that the Americans expect a return on the investment, and that GCHQ has to work hard to meet their demands. "GCHQ must pull its weight and be seen to pull its weight," a GCHQ strategy briefing said. The funding underlines the closeness of the relationship between GCHQ and its US equivalent, the National Security Agency. But it will raise fears about the hold Washington has over the UK's biggest and most important intelligence agency, and whether Britain's dependency on the NSA has become too great. In one revealing document from 2010, GCHQ acknowledged that the US had "raised a number of issues with regards to meeting NSA's minimum expectations". It said GCHQ "still remains short of the full NSA ask". Ministers have denied that GCHQ does the NSA's "dirty work", but in the documents GCHQ describes Britain's surveillance laws and regulatory regime as a "selling point" for the Americans. The papers are the latest to emerge from the cache leaked by the American whistleblower Edward Snowden, the former NSA contractor who has railed at the reach of the US and UK intelligence agencies. Snowden warned about the relationship between the NSA and GCHQ, saying the organisations have been jointly responsible for developing techniques that allow the mass harvesting and analysis of internet traffic. "It's not just a US problem," he said. "They are worse than the US." As well as the payments, the documents seen by the Guardian reveal: • GCHQ is pouring money into efforts to gather personal information from mobile phones and apps, and has said it wants to be able to "exploit any phone, anywhere, any time". • Some GCHQ staff working on one sensitive programme expressed concern about "the morality and ethics of their operational work, particularly given the level of deception involved". • The amount of personal data available to GCHQ from internet and mobile traffic has increased by 7,000% in the past five years – but 60% of all Britain's refined intelligence still appears to come from the NSA. • GCHQ blames China and Russia for the vast majority of cyber-attacks against the UK and is now working with the NSA to provide the British and US militaries with a cyberwarfare capability. The details of the NSA payments, and the influence the US has over Britain, are set out in GCHQ's annual "investment portfolios". The papers show that the NSA gave GCHQ £22.9m in 2009. The following year the NSA's contribution increased to £39.9m, which included £4m to support GCHQ's work for Nato forces in Afghanistan, and £17.2m for the agency's Mastering the Internet project, which gathers and stores vast amounts of "raw" information ready for analysis. The NSA also paid £15.5m towards redevelopments at GCHQ's sister site in Bude, north Cornwall, which intercepts communications from the transatlantic cables that carry internet traffic. "Securing external NSA funding for Bude has protected (GCHQ's core) budget," the paper said. In 2011/12 the NSA paid another £34.7m to GCHQ. The papers show the NSA pays half the costs of one of the UK's main eavesdropping capabilities in Cyprus. In turn, GCHQ has to take the American view into account when deciding what to prioritise. A document setting out GCHQ's spending plans for 2010/11 stated: "The portfolio will spend money supplied by the NSA and UK government departments against agreed requirements." Other documents say the agency must ensure there has been "an appropriate level of contribution … from the NSA perspective". The leaked papers reveal that the UK's biggest fear is that "US perceptions of the … partnership diminish, leading to loss of access, and/or reduction in investment … to the UK". When GCHQ does supply the US with valuable intelligence, the agency boasts about it. In one review, GCHQ boasted that it had supplied "unique contributions" to the NSA during its investigation of the American citizen responsible for an attempted car bomb attack in Times Square, New York City, in 2010. No other detail is provided – but it raises the possibility that GCHQ might have been spying on an American living in the US. The NSA is prohibited from doing this by US law. Asked about the payments, a Cabinet Office spokesman said: "In a 60-year alliance it is entirely unsurprising that there are joint projects in which resources and expertise are pooled, but the benefits flow in both directions." A senior security source in Whitehall added: "The fact is there is a close intelligence relationship between the UK and US and a number of other countries including Australia and Canada. There's no automaticity, not everything is shared. A sentient human being takes decisions." Although the sums represent only a small percentage of the agencies' budgets, the money has been an important source of income for GCHQ. The cash came during a period of cost-cutting at the agency that led to staff numbers being slashed from 6,485 in 2009 to 6,132 last year. GCHQ seems desperate to please its American benefactor and the NSA does not hold back when it fails to get what it wants. On one project, GCHQ feared if it failed to deliver it would "diminish NSA's confidence in GCHQ's ability to meet minimum NSA requirements". Another document warned: "The NSA ask is not static and retaining 'equability' will remain a challenge for the near future." In November 2011, a senior GCHQ manager working in Cyprus bemoaned the lack of staff devoted to one eavesdropping programme, saying: "This is not sustainable if numbers reduce further and reflects badly on our commitments to the NSA." The overriding necessity to keep on the right side of the US was revealed in a UK government paper that set out the views of GCHQ in the wake of the 2010 strategic defence and security review. The document was called: "GCHQ's international alliances and partnerships: helping to maintain Britain's standing and influence in the world." It said: "Our key partnership is with the US. We need to keep this relationship healthy. The relationship remains strong but is not sentimental. GCHQ must pull its weight and be seen to pull its weight." Astonishingly, the document admitted that 60% of the UK's high-value intelligence "is based on either NSA end-product or derived from NSA collection". End product means official reports that are distillations of the best raw intelligence. Another pitch to keep the US happy involves reminding Washington that the UK is less regulated than the US. The British agency described this as one of its key "selling points". This was made explicit two years ago when GCHQ set out its priorities for the coming years. "We both accept and accommodate NSA's different way of working," the document said. "We are less constrained by NSA's concerns about compliance." GCHQ said that by 2013 it hoped to have "exploited to the full our unique selling points of geography, partnerships [and] the UK's legal regime". However, there are indications from within GCHQ that senior staff are not at ease with the rate and pace of change. The head of one of its programmes warned the agency was now receiving so much new intelligence that its "mission management … is no longer fit for purpose". In June, the government announced that the "single intelligence account" fund that pays for GCHQ, MI5 and MI6 would be increased by 3.4% in 2015/16. This comes after three years in which the SIA has been cut from £1.92bn to £1.88bn. The agencies have also been told to make £220m savings on existing programmes. The parliamentary intelligence and security committee (ISC) has questioned whether the agencies were making the claimed savings and said their budgets should be more rigorously scrutinised to ensure efficiencies were "independently verifiable and/or sustainable". The Snowden documents show GCHQ has become increasingly reliant on money from "external" sources. In 2006 it received the vast majority of its funding directly from Whitehall, with only £14m from "external" funding. In 2010 that rose to £118m and by 2011/12 it had reached £151m. Most of this comes from the Home Office. &nbsp; 
+
+	[wobinidan]
+	So the US government is literally invested in GCHQ? If foreign entities are taking over UK agencies by stealth, at what point should we declare them foreign spies on UK soil?  That seems like a very, very big deal to keep secret. GCHQ has effectively sold out to the Americans, can they truly be representing British interests anymore, or should we consider them a rogue agency? Sounds a lot like treasonous behaviour to me.
+
+		[zacmcd]
+		Right, assuming that agreement is honoured in the event we're of no use to the Americans why are we paying for Trident if it acts as no deterrent and someone else will defend us?
+
+		[Richard101010]
+		The US bases are for when the US invades or wages war with other countries - US planes took off from Britain during the First and Second Gulf Wars. Had the former USSR come to blows with the US, Russia would have nuked Britain - the plans were drawn up! We're a US military outpost. Now you know why the politicians spend billions on Trident.
+
+		[Helen121]
+		Yes, I agree. If we are sold to a foreign power how is that not treasonous? Does the Queen know?!
+
+		[Virgo]
+		The deal was done in 1941 when the Queen's father might have regarded any other behaviour (e.g. that supposedly supported by his old brother) as treasonous.
+
+		[thaumaturge]
+		@wobinidan 01 August 2013 4:15pm. Get cifFix for Chrome.    GCHQ has effectively sold out to the Americans, can they truly be representing British interests anymore, or should we consider them a rogue agency? Sounds a lot like treasonous behaviour to me.   Treason. Exactly.
+
+	[anonymouse28]
+	Guess Cameron has more than porn and Facebook to be worried about now.
+
+		[StrawBear]
+		You can use immunicity to get round the porn block, for now. It's a rather neat solution. http://www.immunicity.org/
+
+		[zacmcd]
+		I believe we'll all have the option to opt out of the block, but as I understand the traffic will still be routed through the blocking servers. This would allow the Chinese (assuming Huawei win the contract) to siphon any encrypted or otherwise back to PRC. We'd be paying a company to set up a Tempora type system that could be used against us - INSANE!
+
+		[dingdong5]
+		Guess Cameron has more than porn and Facebook to be worried about now.    People don't like to be monitored on both of these 'services'. Making one of them go away by blocking it might give people a more relaxed view about internet surveillance. If people had their sex on the streets all those surveillance cameras in public areas would look a bit more suspicious!
+
+		[zacmcd]
+		The porn block is a national security risk in itself.  If EVERY internet communication is routed through blocking servers, likely to be operated by a company owned by the government of the PRC, doesn't that open our internet infrastructure up to another foreign power? All to try and stop are fairly natural curiosity...
+
+	[francoisP]
+	&quot;There's no automaticity, not everything is shared. A sentient human being takes decisions.&quot;   Does anyone believe this bullshite anymore?
+
+		[AttrocityArchives]
+		Does anyone believe this bullshite anymore?   I simply don't believe the UI we've been shown is the whole story. If the system functions as described, then Cisco must be providing info at least through a backdoor. I suggest the target to look at is Cisco.
+
+		[kaneandabel]
+		CISCO is the hub in the wheel
+
+		[MagnificientLoser]
+		I'd happily concede the human term to qualify those working for the underground intelligence services, but I'd not go as far as sentient.
+
+		[XNoArchive]
+		The only sentient human being working for these organisations appears to have been Ed Snowden...
+
+		[salamandertome]
+		I think that is another way of saying that someone has to decide to switch the computer on to read stuff on the screen, or decide which if the available stuff they want to display first.
+
+	[Zakida]
+	UK spies for US, US spies for UK. THIS is why both governments love the 'special relationship', it has sod all to do with economics or trade.
+
+	[Nialler]
+	An American company was in turn given over £100M to gather UK census data.
+
+		[kaneandabel]
+		The question that comes up again and again is &quot;Who the f*cking hell runs these countrys?&quot; Are these democracies anymore or do they have as much legitimacy as Mugabes democracy..... I do not even want to put &quot;Mugabes democracy&quot; as I see no difference ....
+
+		[XNoArchive]
+		And another NSA contractor might replace them: Google could replace national census (Telegraph)
+
+		[referendum]
+		quids pro quo....
+
+		[salamandertome]
+		Weren't we given assurances at the time the contract was awarded to a US company that the UK census data would be secure, not shared etc etc. I doubt anyone with more than half a brain believed this was the case. It must be handy for them to be able to correlate the census data with internet and mobile usage...
+
+		[PeterSimmons]
+		Bet the next census will have a lot of 'mistakes' in it.
+
+	[timmythehill]
+	My only thought on it all is how preventative and effective is this mass monitoring? Since 2009 we've seen some pretty major terrorist attacks that I can only presume this monitoring was supposed to stop? If its not working, then we don't need their funding, we need a new independent direction away from the United States which would in itself reduce our risk to terrorist factions.  At times I see the whole terrorist thing as a kid constantly hitting a bee hive ( the Middle East) with a stick then crying to his parents when he gets stung. Not all the time of course, but sometimes.
+
+		[PeterSimmons]
+		Perhaps we're not seeing them because there are none? It's a bit like the elephant deterrent joke, must be working as there are no elephants. Did Al Quaeda ever really exist? Since it translates as 'the base' and was picked up from Taliban radio messages initially, perhas they were just referring about returning to their base and the US turned that deliberately into their next big threat after the USSR dissolved. The industrial arms industry, which is essentially the US, NEEDS an enemy, just like death needs time for its subjects can grow in [William Burroughs, my favourite American commentator], they otherwise have no justification for taking the biggest whack of taxpayer money.
+
+		[LidBlownOff]
+		If it keeps on rainin' the levy gonna break (Uncle Bob D)
+
+		[JJForest]
+		Good post. I would, however, point out that we are not seeing the major terrorist attacks like 911 or 7/7. New spying capabilities, have, no doubt played a role in that. Al Quada is now reduced to pressure cooker and beheading attacks. None of that means I personally support the wide ranging NSA/GCHQ spying. I do not. I vehemently oppose them. Its not worth it to me to sacrifice everyones freedom in the name of Terrorist Fear.
+
+		[Stensson]
+		Or the British guy who got stuck in US immigration because he had tweeted his friends, 'Free this week, for quick gossip/prep before I go and destroy America?'http://www.dailymail.co.uk/news/article-2093796/Emily-Bunting-Leigh-Van-Bryan-UK-tourists-arrested-destroy-America-Twitter-jokes.html
+
+		[theSkipper]
+		Stopping the terrorists is a side issue. The main purpose of it is monitoring and control of &quot;troublemakers&quot; amongst us. They trawl the data for &quot;anomalies&quot; using XKeyScore .. and it's happening already, it's not a future danger: did you read about that German guy who announced to his mates on Facebook a &quot;spy-spotting afternoon walk&quot; to the gates of NSA in Griesheim? Couple of days later: an early-morning knock on the door from the Polizei and security officials. I suppose the &quot;anomaly&quot; was his mentioning the name of the base - the Dagger Complex .. whoooops!
+
+	[EUinmate5571]
+	What freedom is there, when every form of digital communication is constantly being monitored and spied on and as technology advances even further, any privacy we still have will be gone as we become mere commodities of the corporate giants and their servant states.
+
+		[Dynasty2021]
+		Throw away your phone, sell your PC etc then. Go live like a caveman. The rest of us who actually think before we speak, unlike most around here, will continue living with the acceptance that privacy in a digital world doesn't exist. Wake up.
+
+	[JJForest]
+	As an American I'm disgusted that my taxpayer dollars are going to support GCHQ in its mission to spy on not only Brits but the entirety of Western Europe by tapping into the Internet backbone. This really is out of hand. Thanks Guardian for finally taking up the GCHQ side of this. About time.
+
+	[JohnBurch]
+	Beautiful. This will make the bastards squirm. At last the British public are being told the truth and not the useless-babble from a poor copy of Sir Humphrey Appleby. Thank you, thank you Mr. Snowden. I wish you all the best in your new home
+
+	[semyorka]
+	Astonishingly, the document admitted that 60% of the UK's high-value intelligence &quot;is based on either NSA end-product or derived from NSA collection&quot;. End product means official reports that are distillations of the best raw intelligence. So what they want our politicians to know. Filters to control our decision making process. Nice.
+
+		[Maria S Melo]
+		Yeah that s why they imported american...
+
+		[iamnotwise]
+		60% of the UK's high-value intelligence  It's been a while since I've seen any sign of intelligence in this country.   That's because I had the other 40%. I spent it on beer. Got a good deal from my local one-eyed Armenian off licence king. We got talking about Mount Ararat and I said I Noah good story about high value intelligence...and, like a leprous octopus, he threw in a side-arm.
+
+		[StrawBear]
+		60% of the UK's high-value intelligence   It's been a while since I've seen any sign of intelligence in this country.
+
+		[TimJag]
+		I walked into a bar...With a long face...and the barman. Who was a horse...er.. or something said something like.. 'mind my big paws' ... Didn't he?... No, thats wrong....er...I don't know...
+
+		[iamnotwise]
+		Nice. Mind if I use that one myself in the future?
+
+	[smileydog]
+	So we're already the 51st state, it's just that nobody had told us? The sooner we Brits shift away from the Americans the better, in my view. The Americans have decided that they are above all laws, and Britain is being an obedient poodle and helping them.
+
+		[Virgo]
+		Save that the EU is not part of this &quot;special relationship&quot;. Hence some of the more surreal discussions over EU directives on privacy and data protection etc
+
+		[rrheard]
+		Actually Israel is America's 51st state. England is the 52nd.
+
+		[smileydog]
+		I don't see the EU standing up to America. Have any EU countries offered Ed Snowden asylum?
+
+		[diamondgeeza]
+		At the risk of being called a troll we can 'stand up' to America better as part of a working cohesive EU than alone. Particularly since we are clearly seen as a pet by the US.
+
+		[r3p34t3r]
+		Full disclosure, I'm an American. The EU won't stand up to the US. Militarily they are linked through NATO, and eventually economically through TAFTA. My big concern is that if we manage to block the NSA in the US, they are going to just rely on Europe to carry on.
+
+	[SueCopeland]
+	The UK agencies are just cyber-prostitutes the NSA's bitch disgusting the mandarins are totally sans morals vacuous vindictive vituperative venal sycophants to everything american, and their self-aggrandizing sanctimonious slimy security services ugh.... truly sickening to even think about how a once proud nation has gone straight down the toilet since 1945 under yankee influence whores all, and cheap ugly low class ones at that
+
+		[diamondgeeza]
+		Yes indeed. I was being flippant, thankyou for making a sensible point.
+
+		[diamondgeeza]
+		Or Starbucks !
+
+		[suprabrew]
+		whores all, and cheap ugly low class ones at that Did you forget that without us you wouldn't have any McDonalds hamburgers shops? :)

@@ -1,0 +1,152 @@
+
+Some of the world's leading telecoms firms, including BT and Vodafone, are secretly collaborating with Britain's spy agency GCHQ, and are passing on details of their customers' phone calls, email messages and Facebook entries, documents leaked by the whistleblower Edward Snowden show. BT, Vodafone Cable, and the American firm Verizon Business – together with four other smaller providers – have given GCHQ secret unlimited access to their network of undersea cables. The cables carry much of the world's phone calls and internet traffic. In June the Guardian revealed details of GCHQ's ambitious data-hoovering programmes, Mastering the Internet and Global Telecoms Exploitation, aimed at scooping up as much online and telephone traffic as possible. It emerged GCHQ was able to tap into fibre-optic cables and store huge volumes of data for up to 30 days. That operation, codenamed Tempora, has been running for 20 months. On Friday Germany's Süddeutsche newspaper published the most highly sensitive aspect of this operation – the names of the commercial companies working secretly with GCHQ, and giving the agency access to their customers' private communications. The paper said it had seen a copy of an internal GCHQ powerpoint presentation from 2009 discussing Tempora. The document identified for the first time which telecoms companies are working with GCHQ's "special source" team. It gives top secret codenames for each firm, with BT ("Remedy"), Verizon Business ("Dacron"), and Vodafone Cable ("Gerontic"). The other firms include Global Crossing ("Pinnage"), Level 3 ("Little"), Viatel ("Vitreous") and Interoute ("Streetcar"). The companies refused to comment on any specifics relating to Tempora, but several noted they were obliged to comply with UK and EU law. The revelations are likely to dismay GCHQ and Downing Street, who are fearful that BT and the other firms will suffer a backlash from customers furious that their private data and intimate emails have been secretly passed to a government spy agency. In June a source with knowledge of intelligence said the companies had no choice but to co-operate in this operation. They are forbidden from revealing the existence of warrants compelling them to allow GCHQ access to the cables. Together, these seven companies operate a huge share of the high-capacity undersea fibre-optic cables that make up the backbone of the internet's architecture. GCHQ's mass tapping operation has been built up over the past five years by attaching intercept probes to the transatlantic cables where they land on British shores. GCHQ's station in Bude, north Cornwall, plays a role. The cables carry data to western Europe from telephone exchanges and internet servers in north America. This allows GCHQ and NSA analysts to search vast amounts of data on the activity of millions of internet users. Metadata – the sites users visit, whom they email, and similar information – is stored for up to 30 days, while the content of communications is typically stored for three days. GCHQ has the ability to tap cables carrying both internet data and phone calls. By last year GCHQ was handling 600m "telephone events" each day, had tapped more than 200 fibre-optic cables and was able to process data from at least 46 of them at a time. Each of the cables carries data at a rate of 10 gigabits per second, so the tapped cables had the capacity, in theory, to deliver more than 21 petabytes a day – equivalent to sending all the information in all the books in the British Library 192 times every 24 hours. This operation is carried out under clandestine agreements with the seven companies, described in one document as "intercept partners". The companies are paid for logistical and technical assistance. The identity of the companies allowing GCHQ to tap their cables was regarded as extremely sensitive within the agency. Though the Tempora programme itself was classified as top secret, the identities of the cable companies was even more secret, referred to as "exceptionally controlled information", with the company names replaced with the codewords, such as "GERONTIC", "REMEDY" and "PINNAGE". However, some documents made it clear which codenames referred to which companies. GCHQ also assigned the firms "sensitive relationship teams". One document warns that if the names emerged it could cause "high-level political fallout". Germans have been enraged by the revelations of spying by the National Security Agency and GCHQ after it emerged that both agencies were hoovering up German data as well. On Friday the Süddeutsche said it was now clear that private telecoms firms were far more deeply complicit in US-UK spying activities than had been previously thought. The source familiar with intelligence maintained in June that GCHQ was "not looking at every piece of straw" but was  sifting a "vast haystack of data" for what he called "needles". He added: "If you had the impression we are reading millions of emails, we are not. There is no intention in this whole programme to use it for looking at UK domestic traffic – British people talking to each other." The source said analysts used four criteria for determining what was examined: security, terror, organised crime and Britain's economic wellbeing."The vast majority of the data is discarded without being looked at … we simply don't have the resources." Nonetheless, the agency repeatedly referred to plans to expand this collection ability still further in the future. Once it is collected, analysts are able to search the information for emails, online chats and browsing histories using an interface called XKeyscore, uncovered in the Guardian on Wednesday. By May 2012, 300 analysts from GCHQ and 250 NSA analysts had direct access to search and sift through the data collected under the Tempora program. Documents seen by the Guardian suggest some telecoms companies allowed GCHQ to access cables which they did not themselves own or operate, but only operated a landing station for. Such practices could raise alarm among other cable providers who do not co-operate with GCHQ programmes that their facilities are being used by the intelligence agency. Telecoms providers can be compelled to co-operate with requests from the government, relayed through ministers, under the 1984 Telecommunications Act, but privacy advocates have raised concerns that the firms are not doing enough to challenge orders enabling large-scale surveillance, or are co-operating to a degree beyond that required by law. "We urgently need clarity on how close the relationship is between companies assisting with intelligence gathering and government," said Eric King, head of research for Privacy International. "Were the companies strong-armed, or are they voluntary intercept partners?" Vodafone said it complied with the laws of all the countries in which its cables operate. "Media reports on these matters have demonstrated a misunderstanding of the basic facts of European, German and UK legislation and of the legal obligations set out within every telecommunications operator's licence … Vodafone complies with the law in all of our countries of operation," said a spokesman.  "Vodafone does not disclose any customer data in any jurisdiction unless legally required to do so. Questions related to national security are a matter for governments not telecommunications operators." A spokeswoman for Interoute said: "As with all communication providers in Europe we are required to comply with European and local laws including those on data protection and retention.  From time to time we are presented with requests from authorities. When we receive such requests, they are processed by our legal and security teams and if valid, acted upon." A spokeswoman for Verizon said: "Verizon continually takes steps to safeguard our customers' privacy. Verizon also complies with the law in every country in which we operate." BT declined to comment. 
+
+	[epinoa]
+	So BT and Vodafone breached the Data Protection Act?
+
+		[enfrance]
+		Is this Atlantic Bridge in operation?
+
+		[alex442]
+		Human Rights? Aww, how quaint...
+
+		[nitpiqin]
+		That's what we need to judge them and prosecute them with their own laws. They are breaking their own laws.
+
+		[MirandaKeen]
+		In the near future, I hope.
+
+		[MirandaKeen]
+		And the Universal Declaration of Human RightsArticle 12No one shall be subjected to arbitrary interference with their privacy, family, home or correspondence, nor to attacks upon their honour and reputation. Everyone has the right to the protection of the law against such interference and attacks.
+
+	[00jebus]
+	So THATs how Vodafone get away with not paying any tax (allegedly) hmmm.... is there a telecom company that doesn't pass on infomation?
+
+		[Bluestone]
+		You scratch our backs, we'll scratch yours - and bugger the proles! Haw haw!
+
+		[jonbryce]
+		Vodafone Cable was Cable & Wireless until they took it over on 27 July 2012. The tax settlement was in 2010, so there is no link.
+
+		[DavidMillipede]
+		Probably not given that they have to comp'ly with secret government demands. We need a revolution, and we need it now, to restore democracy to the people and not elitist wankers like this shabby government who couldn't even win an election, yet take all the liberties they have been with public services.
+
+	[dennis79]
+	All of this is certainly not done to combat terrorism. Spying upon politics, economics, NGOs etc. I'm also pretty confident that a number of individuals are subjugated to more thorough investigation purely for state needs. States have always set up people, used people as fall guys, coerced and manipulated their subjects. All this is far easier when in the possession of a very complete knowledge of someone's life.
+
+		[SpecialRX]
+		I suspect you're right. Have a recommend on me.
+
+		[Malkatrinho]
+		It has nothing to do with &quot;Terrorists&quot;, you're bang on.  It's about keeping an eye on the general populace, which might start getting a little &quot;uppity&quot; when the consequences of climate change and economic collapse really start to kick in in around 10-15 years time (if we're being optimistic).
+
+	[timetorememberagain]
+	A spokeswoman for Verizon said: &quot;Verizon continually takes steps to safeguard our customers' privacy. Verizon also complies with the law in every country in which we operate.&quot; This is a contradiction. It sounds like they're doing everything just right but in fact the two statements are mutually exclusive because They are forbidden from revealing the existence of warrants compelling them to allow GCHQ access to the cables. So the government demands access to my (and everyone else's) phone calls and the provider obeys without telling me but instead assures me they're continually taking steps to safeguard my privacy. Sheer doublespeak and deception of the highest order. Recall Parliament now! Demonstrate now!
+
+		[AGrumpyGit]
+		Democracy does indeed work that way, but we've living in a quasi-democracy for som time now, in which we all go through a meaningless but apparently necessary election system but we always end up with &quot;leaders&quot; that perpuate their hidden agenda.
+
+		[timetorememberagain]
+		It should have been debated in parliament.If the majority were in favour, the access would be granted.That is how democracy works. Quite so. Those among us who might previously have argued that at least we still live in a democracy, might now begin to question that assumption. With luck we might even stage mass demonstrations demanding our rights. Organise! Resist!
+
+		[SamSSSS]
+		I don't see why the existence of warrants for access had to be hidden from the public.It should have been debated in parliament. If the majority were in favour, the access would be granted.That is how democracy works.
+
+	[VaughnParadis]
+	I'd be concerned about Vodafone passing on details of my communications, if Vodafone could provide me with a signal in the first place. Best way to keep your information secure? Use Vodafone. You won't be in contact with anybody.
+
+		[Snapshackle]
+		Agreed, 4G?? 3G would be nice, or even a fucking signal.
+
+		[OurPlanet]
+		That really made me laugh in a serious situation. Thanks VaughnParadisThe best antidote to this crap is to make them irrelevant and stupid looking. Fear only feeds these imbeciles egos.
+
+		[Malkatrinho]
+		that's a lovely shade of green.
+
+		[jonbryce]
+		This is the former Cable & Wireless division of Vodafone. Lots of ISPs use them for their transatlantic traffic. Those that don't use one of the other ones listed. Level 3 is probably the biggest.
+
+	[IronCurtain]
+	The Governments and the Corporations banding together. cui bonno? you? me? Freedom? Liberty? not likely.
+
+		[enfrance]
+		If apathy is the order of the day here, perhaps pionting out that Vodaphone have cost each invidual in the UK so much as a result of its tax deal would that make people wake up? Nah, I despair. And the likelyhood of anyone boycotting either BT or Vodaphone is nill except perhaps a few who will make no difference at all. How about a petition of some sort? Its late and I'm too tired and hot to think of one that could do the subject justice. Anyone?  As for people thinking this does not affect them. Even if you think you are doing nothing wrong what's to stop you being framed for something by this information? or mistaken for someone else or regarded as doing something which may be the first step to terrorism, like searching for pressure cookers on the net, buying a rucksack on the net and having a son with a lively interest in online news? Just ask the New York family elsewhere in the Guardian. Perhaps we should all stop reading the news online just in case!
+
+		[zacmcd]
+		There is a petition to Stop Tempora, it takes a minute to sign (but a confirmation email needs to be clicked). Also, minimise the use of these companies; give them less money to undermine us with. You can make free 2048 bit encrypted VoIP calls using Yuilop save money and lower their turnover...
+
+		[Haigin88]
+		&quot;Fascism should rightly be called Corporatism, as it is the merger of corporate and government power.&quot;. Benito Mussolini
+
+		[kaneandabel]
+		TThe question is when will the poeple fill the street like it happened before Iraq war, a million march in London would be a good idea now. Of course then we may have a false flag operation and then clamp on the screws... with the orange alert worldwide, made just a day back by Gen Alexanders team.  But otherwise, I see no chance of change. In Germany the protests are happening in ernst. Thousands fill German streets to protest Berlin’s NSA spying involvement
+
+		[kaneandabel]
+		;) I deserved that one
+
+	[ViktorBurakov]
+	To begin with I thought it all meant that they were paranoid, perpetually terrified of some bogeyman, imaginary or real.  Now though, I'm convinced it's something a lot more sinister
+
+		[jonwilde]
+		Which, I guess, means that the terrorists have won. I wasn't nervous at all before I learnt how closely we were being monitored. What are those odds again against being a victim of a terrorist act?
+
+		[Malkatrinho]
+		I think it's more to do with incompetence and leakiness than it is part of some grand dastardly plan to provoke people.  They'd much rather we stayed ignorant, compliant and biddable.
+
+		[Malkatrinho]
+		They are terrified. Of what happens when enough people begin to protest about corruption, inequality, collapsing civil society, etc.  They're terrified that the same kind of mass protests that swept Brazil, Turkey, Bulgaria or the Middle East will eventually be provoked in the West.
+
+		[ScepticOptimist]
+		And it is exactly the only way we can regain our freedom - a British spring; mass protest & civil disobedience. Then we will see these fuckers true colours when they send the troops in an people are dragged bleeding off the streets. But they can not win if we all unite against them. History has shown time and time again that true power lies in the hands of the people.
+
+		[gwelddycybydd]
+		I do believe that the government is trying to provoke confrontation.Their security forces; state and private, are well trained and very well equipped.The drip, drip, drip of corruption, cronyism, incompetence and naked self interest and frequently exposed by their 'friends' in the mostly right leaning media seem to be designed to build pressure in the populace.Maybe, they want to put us in our place, once and for all.
+
+	[RandomAccountant]
+	Welcome to 21st century Britain.Big Brother has arrived.29 years late.
+
+		[allislost]
+		Been like this for an age, only now many more understand the plight of the many who have been hounded into submission and/or mental institutions.
+
+	[GreenRevolution]
+	I am going to boycott both! This disgraceful spying business has no end! Shame on those who participate in this abhorent snooping.
+
+	[cockersf1]
+	Do you think this qould be a way of getting out of contracts with these companies?
+
+		[brendon1]
+		The problem is that most of the world's Internet traffic goes via Level3. There's no easy way of getting around that.
+
+		[zacmcd]
+		Hard for the layman to know. SSL being secure would explain why they need backdoor access via Prism. There is also mention that encrypted mobile messaging apps pose a threat to their capabilities...
+
+		[TheSandbag]
+		From the descriptions of tempora I'm fairly sure they have broken SSL otherwise its pointless. Large numbers of web apps and traffic is ssl encrypted now so why bother creating a massive fiber intercept program if you couldn't see 60%+ of all the traffic and almost all of the communications data?
+
+	[nowwhataretheyupto]
+	so this is why the government go easy on these toss pots not paying corporation tax. And they dare to call bank robbers criminals. Jesus, there's no f*cking morals with any of them. What's happened to these people, or are they so smacked off their tits to care?.
+
+	[Miss_Direction]
+	There are four points i would like to raise: 1) Even if the security services can be trusted with all the vast data they gather what happens if it falls into the wrong hands 2) GCHQ have been known in the past to target animals rights protestors, environmental organisations and Union groups therefore it is clear that they are already used as a political weapon against dissent 3) Democracy depends on transparency and accountability and this important element is being undermined at the highest levels for the benefit of corporate and political interests 4) Lastly i would like to know if the NSA and GCHQ actively targeted the Occupy movement and who authorised this action and what was their remit
+
+		[elevengoalposts]
+		''GCHQ have been known in the past to target animals rights protestors, environmental organisations and Union groups...'' You have first-hand, written evidence about that, or just assertions?
+
+		[Exodus20]
+		Rights and laws are at best ideals, no more, no less. To those corrupted by greed and power, these are nothing more than sweets to quieten gullible and innocent children.
+
+		[Exodus20]
+		Even if the security services can be trusted with all the vast data they gather what happens if it falls into the wrong hands   I share that sentiment and concern. Security services are necessary but i am afraid most, even all of them, sooner rather than later will become rogue, cancerous, arrogant corrupt and become the tools of suppression for politicians and big money.  Most people do not appreciate the preciousness and precariousness of accountable democracy and responsibility freedom.
+
+		[Miss_Direction]
+		The right to freedom of expression is recognized as a human right under Article 19 of the Universal Declaration of Human Rights and recognized in international human rights law in the International Covenant on Civil and Political Rights (ICCPR). Article 19 of the ICCPR states that &quot;everyone shall have the right to hold opinions without interference&quot; and &quot;everyone shall have the right to freedom of expression; this right shall include freedom to seek, receive and impart information and ideas of all kinds, regardless of frontiers, either orally, in writing or in print, in the form of art, or through any other media of his choice&quot; http://en.wikipedia.org/wiki/Freedom_of_speech Our basic right to freedom of speech should be upheld through international law as long as it does not harm or interfere with the liberty of others ... it therefore appears that we have lost sight of what is an important and we have a problem that requires fixing.
+
+	[amonduul]
+	Ignore shockman - rightwing troll.
+
+		[Derek Seymour]
+		This is not a right or left issue, so I'm calling shockman a fascist troll
+
+		[BStroszek]
+		If you're tired, why don't you fuck off to bed, and spare us your drivel.

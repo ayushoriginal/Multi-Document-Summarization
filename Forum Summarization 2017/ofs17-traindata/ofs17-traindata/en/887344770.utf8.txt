@@ -1,0 +1,152 @@
+
+The UK intelligence agency GCHQ has repeatedly warned it fears a "damaging public debate" on the scale of its activities because it could lead to legal challenges against its mass-surveillance programmes, classified internal documents reveal. Memos contained in the cache disclosed by the US whistleblower Edward Snowden detail the agency's long fight against making intercept evidence admissible as evidence in criminal trials – a policy supported by all three major political parties, but ultimately defeated by the UK's intelligence community. Foremost among the reasons was a desire to minimise the potential for challenges against the agency's large-scale interception programmes, rather than any intrinsic threat to security, the documents show. The papers also reveal that: • GCHQ lobbied furiously to keep secret the fact that telecoms firms had gone "well beyond" what they were legally required to do to help intelligence agencies' mass interception of communications, both in the UK and overseas. • GCHQ feared a legal challenge under the right to privacy in the Human Rights Act if evidence of its surveillance methods became admissible in court. • GCHQ assisted the Home Office in lining up sympathetic people to help with "press handling", including the Liberal Democrat peer and former intelligence services commissioner Lord Carlile, who this week criticised the Guardian for its coverage of mass surveillance by GCHQ and America's National Security Agency. The most recent attempt to make intelligence gathered from intercepts admissible in court, proposed by the last Labour government, was finally stymied by GCHQ, MI5 and MI6 in 2009. A briefing memo prepared for the board of GCHQ shortly before the decision was made public revealed that one reason the agency was keen to quash the proposals was the fear that even passing references to its wide-reaching surveillance powers could start a "damaging" public debate. Referring to the decision to publish the report on intercept as evidence without classification, it noted: "Our main concern is that references to agency practices (ie the scale of interception and deletion) could lead to damaging public debate which might lead to legal challenges against the current regime." A later update, from May 2012, set out further perceived "risks" of making intercepts admissible, including "the damage to partner relationships if sensitive information were accidentally released in open court". It also noted that the "scale of interception and retention required would be fairly likely to be challenged on Article 8 (Right to Privacy) grounds". The GCHQ briefings showed the agency provided the Home Office with support in winning the PR battle on the proposed reforms by lining up people to talk to the media – including Lord Carlile, who on Wednesday gave a public lecture condemning the Guardian's decision to publish stories based on the leaked material from Snowden. Referring to the public debate on intercept evidence, the document notes: "Sir Ken McDonald [sic] (former DPP [director of public prosecutions]), Lord Goldsmith (former AG [attorney general]) and David Davis (former Shadow HSec [home secretary) [have been] reiterating their previous calls for IaE [intercept as evidence]. "We are working closely with HO [Home Office] on their plans for press handling when the final report is published, e.g. lining up talking heads (such as Lord Carlisle [sic], Lord Stevens, Sir Stephen Lander, Sir Swinton Thomas)." Carlile was the independent reviewer of terrorism legislation in 2001-11, and was awarded a CBE in 2012 for his services to national security. Another top GCHQ priority in resisting the admission of intercepts as evidence was keeping secret the extent of the agency's co-operative relationships with telephone companies – including being granted access to communications networks overseas. In June, the Guardian disclosed the existence of GCHQ's Tempora internet surveillance programme. It uses intercepts on the fibre-optic cables that make up the backbone of the internet to gain access to vast swaths of internet users' personal data. The intercepts are placed in the UK and overseas, with the knowledge of companies owning either the cables or landing stations. The revelations of voluntary co-operation with some telecoms companies appear to contrast markedly with statements made by large telecoms firms in the wake of the first Tempora stories. They stressed that they were simply complying with the law of the countries in which they operated. In reality, numerous telecoms companies were doing much more than that, as disclosed in a secret document prepared in 2009 by a joint working group of GCHQ, MI5 and MI6. Their report contended that allowing intercepts as evidence could damage relationships with "Communications Service Providers" (CSPs). In an extended excerpt of "the classified version" of a review prepared for the Privy Council, a formal body of advisers made up of current and former cabinet ministers, the document sets out the real nature of the relationship between telecoms firms and the UK government. "Under RIPA [the Regulation of Investigatory Powers Act 2000], CSPs in the UK may be required to provide, at public expense, an adequate interception capability on their networks," it states. "In practice all significant providers do provide such a capability. But in many cases their assistance – while in conformity with the law – goes well beyond what it requires." GCHQ's internet surveillance programme is the subject of a challenge in the European court of human rights, mounted by three privacy advocacy groups. The Open Rights Group, English PEN and Big Brother Watch argue the "unchecked surveillance" of Tempora is a challenge to the right to privacy, as set out in the European convention on human rights. That the Tempora programme appears to rely at least in part on voluntary co-operation of telecoms firms could become a major factor in that ongoing case. The revelation could also reignite the long-running debate over allowing intercept evidence in court. GCHQ's submission goes on to set out why its relationships with telecoms companies go further than what can be legally compelled under current law. It says that in the internet era, companies wishing to avoid being legally mandated to assist UK intelligence agencies would often be able to do so "at little cost or risk to their operations" by moving "some or all" of their communications services overseas. As a result, "it has been necessary to enter into agreements with both UK-based and offshore providers for them to afford the UK agencies access, with appropriate legal authorisation, to the communications they carry outside the UK". The submission to ministers does not set out which overseas firms have entered into voluntary relationships with the UK, or even in which countries they operate, though documents detailing the Tempora programme made it clear the UK's interception capabilities relied on taps located both on UK soil and overseas. There is no indication as to whether the governments of the countries in which deals with companies have been struck would be aware of the GCHQ cable taps. Evidence that telecoms firms and GCHQ are engaging in mass interception overseas could stoke an ongoing diplomatic row over surveillance ignited this week after the German chancellor, Angela Merkel, accused the NSA of monitoring her phone calls, and the subsequent revelation that the agency monitored communications of at least 35 other world leaders. On Friday, Merkel and the French president, François Hollande, agreed to spearhead efforts to make the NSA sign a new code of conduct on how it carried out intelligence operations within the European Union, after EU leaders warned that the international fight against terrorism was being jeopardised by the perception that mass US surveillance was out of control. Fear of diplomatic repercussions were one of the prime reasons given for GCHQ's insistence that its relationships with telecoms firms must be kept private . Telecoms companies "feared damage to their brands internationally, if the extent of their co-operation with HMG [Her Majesty's government] became apparent", the GCHQ document warned. It added that if intercepts became admissible as evidence in UK courts "many CSPs asserted that they would withdraw their voluntary support". The report stressed that while companies are going beyond what they are required to do under UK law, they are not being asked to violate it. Shami Chakrabarti, Director of Liberty and Anthony Romero Executive Director of the American Civil Liberties Union issued a joint statement stating: "The Guardian's publication of information from Edward Snowden has uncovered a breach of trust by the US and UK Governments on the grandest scale. The newspaper's principled and selective revelations demonstrate our rulers' contempt for personal rights, freedoms and the rule of law. "Across the globe, these disclosures continue to raise fundamental questions about the lack of effective legal protection against the interception of all our communications. "Yet in Britain, that conversation is in danger of being lost beneath self-serving spin and scaremongering, with journalists who dare to question the secret state accused of aiding the enemy. "A balance must of course be struck between security and transparency, but that cannot be achieved whilst the intelligence services and their political masters seek to avoid any scrutiny of, or debate about, their actions. "The Guardian's decision to expose the extent to which our privacy is being violated should be applauded and not condemned." 
+
+	[Raptou]
+	The silence from the UK government is deafening.
+
+		[lids]
+		I was referring to the political class, they are the ones scared shitless about being caught lying.
+
+		[Paul Munton TwentyThird]
+		So there no security threats then? No international criminals? No cyber attacks? No terrorists planning things?  Well the opinion of the usual 613 commentators here seems unanimous - the security services are to be vilified. Well 610 for and 3 against.
+
+		[vikingbones]
+		@Paul Munton TwentyThird 25 October 2013 7:18pm. Get cifFix for Firefox. You are Lord Carlile and I claim my secret handshake.
+
+		[iThoughtcrime]
+		Of course there are. We have International criminals running multinational mega corporations, we have American, British and Chinese government employees engaged in cyber attacks and we've got the pentagon, mossad, the fsb and the cia planning assassinations and terrorist attacks. Aren't they dangerous? Don't they kill more people than al Qaeda ? Over 500,000 in Iraq alone. Well over 500,000. Except maybe you don't count them as people?
+
+		[lids]
+		They still have no clue what Snowden has. The more they say the more chance they get caught lying...
+
+	[sevenpin]
+	The fear and paranoia of the government and the security agencies has been apparent in their efforts to stifle a debate. They have co-opted the media to support their efforts and endeavoured to bulldoze all opposition, including trying to suggest the Guardian has committted treason in covering the story. The security agencies need to be legally challenged and to be accountable. The debate on how far the security agencies can go must be had, not squashed.
+
+		[fatfox]
+		&quot;Imagine ANY jury siding with the goons from Cheltenham?&quot;  &quot;Dear jury member  In the course of monitoring your phone calls, texts, emails and internet activity, we have noticed that you have been fiddling your tax/having an affair with a co-worker/inflating insurance claims/selling 'personal allowance' duty-paid Spanish fags on the black market/visiting some really interesting porn sites (delete as appropriate). It would be horribly unfortunate should any of this information fall into the hands of HMRC/your spouse/the police/your gossipy neighbour at No 17. We look forward to you reaching a verdict in our favour. Yours, the Spooks&quot;
+
+		[iThoughtcrime]
+		Is that because they'd blackmail you?
+
+		[Squiff811]
+		we need a GCHQ policing network other than the .001%.
+
+		[amrit]
+		Do not bet on it? They can assemble jury that is tailor made for their needs. It is British establishment vs ordinary folks.
+
+		[tweeper]
+		If it's Cheltenham vs Guardian / Snowden, GCHQ gets my vote everytime.
+
+	[Ozzicht]
+	And that, my friends, is the smoking gun. 'We can't use the evidence we gather in court, because if we do people will find out we've been gathering it illegally.' They are not only evil bastards, but they know they're evil bastards. Lock them all up and throw away the key.
+
+		[Forthestate]
+		'We can't use the evidence we gather in court, because if we do people will find out we've been gathering it illegally.' In a nutshell. The game's up.
+
+		[Forthestate]
+		Hello Malcolm, how's the world of oversight treating you?
+
+		[Mirthin]
+		I think you are too optimistic. I give the NSA news stories 1 more month of life. Then it will all be swept under the carpet by the consumer orgy of Christmas.  Come January, we'll have some other bullshit to get all het up over.
+
+		[onthebus]
+		So it will all go smoothly? As a group of bumbling idiots I expect many more accidents, mishaps to keep this running and running like a never ending soap opera.
+
+	[EbbTide64]
+	GCHQ assisted the Home Office in lining up sympathetic people to help with &quot;press handling&quot;, including the Liberal Democrat peer and former intelligence services commissioner Lord Carlile, who this week criticised the Guardian for its coverage of mass surveillance by GCHQ and the US National Security Agency.  Lord Carlile speaks like a man who is reading from a GCHQ script and now we find out that he probably was.
+
+		[drg40]
+		Or perhaps he speaks like a man to whom self interest is so much more interesting than ensuring the LibDems lose fewer seats at the next election.  After all, any sensible politician would hardly give a two penny whatsit for the citizens he is supposed to represent when GCHQ are being so terribly friendly. One sometimes wonders if, under Cleggy dear's naive leadership the LibDems as a body have set themselves the goal of being written out of politics once and for all at the next vote. Could they do anything more wrong? I suppose they could admit to all being closet Tories, but I hold out little hope of that degree of honesty.
+
+	[JacktheNat]
+	Good stuff, Guardian. No surprise in Lord Carlisle's attitude to Snowden: a lackey of the security state whatever his LibDem antecedents.
+
+		[MrShigemitsu]
+		Makes you wonder what they had on him...?
+
+		[VictorMel]
+		&quot;Pope Paul, Malcolm X, British Politician sexJ.F.K. blown away, what else do I have to say&quot; Billy Joel 'We didn't start the fire' (1989)  What else are our politicians (in)famous for?
+
+		[Bethanypuddicombe]
+		Lord Carlisle must be a bit embarrassed having been 'lined up' and now exposed like this. But then I suppose that's the risk one runs by selling ones services to the secret services.
+
+	[Billynoshoes]
+	Love the confirmation that the defenders are stooges, not that it was ever doubted
+
+		[SamSSSS]
+		With all the intel GCHQ have, I wonder how much blackmail is going on. Were the some of the stooges blackmailed into defending GCHQ?
+
+		[TechnicalEphemera]
+		Really if the GCHQ Stasi bastards had one shred of decency (which they don't), the point where they were trying to hide from the public what they were doing to &quot;protect (i.e spy on) the public&quot; should have been a red light. A bit like the comedy sketch where two Nazis look at their deaths head emblem and ask themselves &quot;could we be the bad guys?&quot;
+
+		[Kaitain]
+		Love the confirmation that the defenders are stooges, not that it was ever doubted   Hey, I happen to find Louise Mensch entertaining.
+
+		[martinrichard]
+		They just look at the other guys for confirmation that they're the lesser of many evils. It's quite easy to do when you know stuff...
+
+		[PaniscusTroglodytes]
+		Love the confirmation that the defenders are stooges, not that it was ever doubted I especially love the revelation that the &quot;independent reviewer of terrorism legislation&quot; was one of those stooges.
+
+	[lids]
+	That's Carlile outed, tosser..
+
+		[Bethanypuddicombe]
+		I see Lord Carliles Wikipedia page now needs some important modifications. http://en.wikipedia.org/wiki/Alex_Carlile,_Baron_Carlile_of_Berriew
+
+	[HandandShrimp]
+	Edward Snowden papers show UK spy agency fears legal challenge if scale of surveillance is made public   The naughty often have a guilty conscience
+
+		[dominicg]
+		Tony? Is that you???? Oh how I wish.....
+
+		[Etonandchuckedup]
+		With a bit of luck.
+
+		[amrit]
+		With the drips increasing I wonder how many politicians are having nightmares during their sleep. Hey GOD do not let them reveal what I did in office.
+
+		[Policeless]
+		Exactly, what are they really afraid of
+
+		[dominicg]
+		Hahaha maybe Hague should have told them &quot;if you have done nothing wrong then you have nothing to fear&quot;. He'd have been found dead up a mountain the next day.....
+
+	[Maurits]
+	the more we hear about it and that it was NOT a fight against terrorism (that that was a bonus) the more Snowden appears the hero.the more we hear how politicians try to cover up what happened because they knew the overstepped the boundaries and broke the law, teh more they are the crimnals who should be charged and jailed. not Snowdon. He deserved a bloody medal
+
+		[TheMog]
+		Terrorism is just an excuse it is not a real threat to the 1%. They know that the real threat comes from within, from their own people as they push us further into a corner.
+
+	[KeejayOV]
+	No surprises here but fine work as always. Conformation is important. Well done James.
+
+		[Musicwithedge]
+		I was a bit surprised. It paints &quot;Intelligence&quot; as wanting intercept evidence to be admissable in court, but not GCHQ.  This is the first time I have seen such a distinction. It indicates that GCHQ is becoming it's own entity, separate from the MI's.  So who is leading this entity in a different direction? Different sections of military/intelligence? The Yanks again? Or just them protecting the size of their own community?
+
+		[Musicwithedge]
+		Oops, misread!  Still I am surprised just the extent they go to to protect themselves at the expense of convictions.
+
+	[hmorgansr]
+	The heat is on! Turn it up guys!
+
+	[passover]
+	Well that's it for me regardless of party politics this is not only illegal but tantamount to a betrayal of our nation. We the people determine the rules that ensured the freedom of our country, and the democracy that all our for fathers fought for, and extends to the people of the Commonwealth of the British Empire they who laid down there life's against this kind of tirony  . I just hope no political party of our nation is involved in this.
+
+		[foolisholdman]
+		I just hope no political party of our nation is involved in this.   As far as the parliamentary leadership of all three parties is concerned, you can bet your bottom dollar on their being involved.
+
+		[marxmarv]
+		Political parties inevitably serve the purpose of marketing and obtaining consent to aristocratic rule. Each and every one of them worldwide ought to be banned as a terrorist organization.
+
+	[gohumanity]
+	Now we know why David Cameron wanted to leave EU to get rid of Human Rights ACT.  Great timing The Guardian. Let&nbsp; the government deny and deny and deny then slap them with evidence.
+
+	[Robin Lovelace]
+	This makes for uncomfortable reading for someone who has faith in the political process and that there are good leaders out there. I'd rather the harsh truth than blissful ignorance any day. THANK YOU Guardian for telling the truth and not burying the story under political pressure.
+
+		[iThoughtcrime]
+		Welcome to the party. But be prepared, the truth is probably a lot harsher than we think.
+
+	[TallyHoGazehound]
+	Awesome. Simply, awesome. Well done Guardian. Continued thanks and appreciation to Edward Snowden.

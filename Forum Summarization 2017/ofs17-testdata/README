@@ -1,0 +1,83 @@
+		= Online Forum Summarization (OnForumS), MultiLing 2017 =
+
+		      = README for the test data release-20170115 =
+
+== The Task ==
+
+Most major on-line news publishers, such as The Guardian or Le Monde,
+publish articles on different topics and encourage reader engagement
+through the provision of an on-line comment facility. A given news
+article can often give rise to thousands of reader comments — some
+related to specific points within the article, others that are replies
+to previous comments. The great volume of such user-supplied comments
+suggests the need for automated methods to summarize this content,
+which in turn poses an exciting and novel challenge for the
+summarization community. 
+
+The purpose of the Online Forum Summarization (OnForumS) track at
+MultiLing'17 is to set the ground for investigating how such a mass
+of comments can be summarised. We posit that a crucial initial step in
+developing reader comment summarization systems is to determine what
+comments relate to, be that either specific points within the text of
+the article, the global topic of the article, or comments made by
+other users. This constitutes a linking task, which we operationalise
+by all possible pairs of sentences (see Data section below). Furthermore,
+a set of link types or labels may be articulated to capture whether,
+for example, a comment agrees, elaborates, disagrees, etc., with the
+point made in the commented-upon text. 
+
+The OnForumS task at MultiLing'17 is a particular specification of the
+linking task, in which systems take as input a news article with comments 
+and are asked to link and label each comment to sentences in the article,
+to the article topic as a whole or to other comments. The set of possible
+labels is defined in the DTD provided with the sample and test data sets
+(please see DTD, file ofs.dtd). 
+
+
+== The Data ==
+
+The test data is formed of news articles from The Guardian (EN) and La Repubblica (IT)
+and a select set of at most 100 readers' comments for each article.
+The test data can be downloaded from here:
+http://multiling.iit.demokritos.gr/file/view/1631/onforums-2017-test-data
+
+Participants are expected to take the XML file of each article as input and produce an
+augmented version of it with the section <links>...</links> containing the sentence-pair
+links hypothesised by their systems and the argument and sentiment labels for each, 
+following the format specified in the train data release (please see file ofs.dtd):
+http://multiling.iit.demokritos.gr/file/view/1622/onforums-2017-train-data
+
+Allowed links for sentence pairs are only between comment sentences and article sentences,
+or comment sentences with other comment sentences. Hence, the hypotesis space is defined
+by the union of two cartesian products, one between the set of comment sentences and the
+set of article sentences and the other between the set of comment sentences with itself
+(i.e., [CS X AS] U [CS X CS]).
+
+
+== Submissions ==
+
+All submissions are due by ** February 1st, 2017 **. 
+
+Participants are allowed to submit up to two different runs.
+
+A submission validation program can be downloaded from the following link:
+http://multiling.iit.demokritos.gr/file/view/1564/onforums-submission-validation-updated
+Participants are requested to run it over their
+system outputs making sure they conform with the OnForumS format expectations.
+
+A zipped file with all system output files (19 for EN, 19 for IT) should be sent via email to jstein @ kiv.zcu.cz.
+If you are submitting more runs, please include them in separate directories. The name of the directory will be used as run ID.
+Please indicate your team ID and affiliation in the email.
+
+
+== Acknowledgment ==
+
+The EN data included hereby was kindly made available to us by Websays for the purposes of OnForumS,
+as part of the EU project, SENSEI (http://www.sensei-conversation.eu).
+The IT data was made available by the EU project MediaGist (http://mediagist.eu).
+
+
+== Questions ==
+
+Please direct questions to jstein @ kiv.zcu.cz.
+

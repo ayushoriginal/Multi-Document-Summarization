@@ -1,0 +1,152 @@
+
+The German, French, Spanish and Swedish intelligence services have all developed methods of mass surveillance of internet and phone traffic over the past five years in close partnership with Britain's GCHQ eavesdropping agency. The bulk monitoring is carried out through direct taps into fibre optic cables and the development of covert relationships with telecommunications companies. A loose but growing eavesdropping alliance has allowed intelligence agencies from one country to cultivate ties with corporations from another to facilitate the trawling of the web, according to GCHQ documents leaked by the former US intelligence contractor Edward Snowden. The files also make clear that GCHQ played a leading role in advising its European counterparts how to work around national laws intended to restrict the surveillance power of intelligence agencies. The German, French and Spanish governments have reacted angrily to reports based on National Security Agency (NSA) files leaked by Snowden since June, revealing the interception of communications by tens of millions of their citizens each month. US intelligence officials have insisted the mass monitoring was carried out by the security agencies in the countries involved and shared with the US. The US director of national intelligence, James Clapper, suggested to Congress on Tuesday that European governments' professed outrage at the reports was at least partly hypocritical. "Some of this reminds me of the classic movie Casablanca: 'My God, there's gambling going on here,' " he said. Sweden, which passed a law in 2008 allowing its intelligence agency to monitor cross-border email and phone communications without a court order, has been relatively muted in its response. The German government, however, has expressed disbelief and fury at the revelations from the Snowden documents, including the fact that the NSA monitored Angela Merkel's mobile phone calls. After the Guardian revealed the existence of GCHQ's Tempora programme, in which the electronic intelligence agency tapped directly into the transatlantic fibre optic cables to carry out bulk surveillance, the German justice minister, Sabine Leutheusser-Schnarrenberger, said it sounded "like a Hollywood nightmare", and warned the UK government that free and democratic societies could not flourish when states shielded their actions in "a veil of secrecy". However, in a country-by-country survey of its European partners, GCHQ officials expressed admiration for the technical capabilities of German intelligence to do the same thing. The survey in 2008, when Tempora was being tested, said the Federal Intelligence Service (BND), had "huge technological potential and good access to the heart of the internet – they are already seeing some bearers running at 40Gbps and 100Gbps". Bearers is the GCHQ term for the fibre optic cables, and gigabits per second (Gbps) measures the speed at which data runs through them. Four years after that report, GCHQ was still only able to monitor 10 Gbps cables, but looked forward to tap new 100 Gbps bearers eventually. Hence the admiration for the BND. The document also makes clear that British intelligence agencies were helping their German counterparts change or bypass laws that restricted their ability to use their advanced surveillance technology. "We have been assisting the BND (along with SIS [Secret Intelligence Service] and Security Service) in making the case for reform or reinterpretation of the very restrictive interception legislation in Germany," it says. The country-by-country survey, which in places reads somewhat like a school report, also hands out high marks to the GCHQ's French partner, the General Directorate for External Security (DGSE). But in this case it is suggested that the DGSE's comparative advantage is its relationship with an unnamed telecommunications company, a relationship GCHQ hoped to leverage for its own operations. "DGSE are a highly motivated, technically competent partner, who have shown great willingness to engage on IP [internet protocol] issues, and to work with GCHQ on a "cooperate and share" basis." Noting that the Cheltenham-based electronic intelligence agency had trained DGSE technicians on "multi-disciplinary internet operations", the document says: "We have made contact with the DGSE's main industry partner, who has some innovative approaches to some internet challenges, raising the potential for GCHQ to make use of this company in the protocol development arena." GCHQ went on to host a major conference with its French partner on joint internet-monitoring initiatives in March 2009 and four months later reported on shared efforts on what had become by then GCHQ's biggest challenge – continuing to carry out bulk surveillance, despite the spread of commercial online encryption, by breaking that encryption. "Very friendly crypt meeting with DGSE in July," British officials reported. The French were "clearly very keen to provide presentations on their work which included cipher detection in high-speed bearers. GCHQ's challenge is to ensure that we have enough UK capability to support a longer term crypt relationship." In the case of the Spanish intelligence agency, the National Intelligence Centre (CNI), the key to mass internet surveillance, at least back in 2008, was the Spaniards' ties to a British telecommunications company (again unnamed. Corporate relations are among the most strictly guarded secrets in the intelligence community). That was giving them "fresh opportunities and uncovering some surprising results. "GCHQ has not yet engaged with CNI formally on IP exploitation, but the CNI have been making great strides through their relationship with a UK commercial partner. GCHQ and the commercial partner have been able to coordinate their approach. The commercial partner has provided the CNI some equipment whilst keeping us informed, enabling us to invite the CNI across for IP-focused discussions this autumn," the report said.  It concluded that GCHQ "have found a very capable counterpart in CNI, particularly in the field of Covert Internet Ops". GCHQ was clearly delighted in 2008 when the Swedish parliament passed a bitterly contested law allowing the country's National Defence Radio Establishment (FRA) to conduct Tempora-like operations on fibre optic cables. The British agency also claimed some credit for the success. "FRA have obtained a … probe to use as a test-bed and we expect them to make rapid progress in IP exploitation following the law change," the country assessment said. "GCHQ has already provided a lot of advice and guidance on these issues and we are standing by to assist the FRA further once they have developed a plan for taking the work forwards." The following year, GCHQ held a conference with its Swedish counterpart "for discussions on the implications of the new legislation being rolled out" and hailed as "a success in Sweden" the news that FRA "have finally found a pragmatic solution to enable release of intelligence to SAEPO [the internal  Swedish security service.]" GCHQ also maintains strong relations with the two main Dutch intelligence agencies, the external MIVD and the internal security service, the AIVD. "Both agencies are small, by UK standards, but are technically competent and highly motivated," British officials reported. Once again, GCHQ was on hand in 2008 for help in dealing with legal constraints. "The AIVD have just completed a review of how they intend to tackle the challenges posed by the internet – GCHQ has provided input and advice to this report," the country assessment said. "The Dutch have some legislative issues that they need to work through before their legal environment would allow them to operate in the way that GCHQ does. We are providing legal advice on how we have tackled some of these issues to Dutch lawyers." In the score-card of European allies, it appears to be the Italians who come off the worse. GCHQ expresses frustration with the internal friction between Italian agencies and the legal limits on their activities. "GCHQ has had some CT [counter-terrorism] and internet-focused discussions with both the foreign intelligence agency (AISE) and the security service (AISI), but has found the Italian intelligence community to be fractured and unable/unwilling to cooperate with one another," the report said. A follow-up bulletin six months later noted that GCHQ was "awaiting a response from AISI on a recent proposal for cooperation – the Italians had seemed keen, but legal obstacles may have been hindering their ability to commit." It is clear from the Snowden documents that GCHQ has become Europe's intelligence hub in the internet age, and not just because of its success in creating a legally permissive environment for its operations. Britain's location as the European gateway for many transatlantic cables, and its privileged relationship with the NSA has made GCHQ an essential partner for European agencies. The documents show British officials frequently lobbying the NSA on sharing of data with the Europeans and haggling over its security classification so it can be more widely disseminated. In the intelligence world, far more than it managed in diplomacy, Britain has made itself an indispensable bridge between America and Europe's spies. 
+
+	[Defotoe]
+	What a sick society we've become.
+
+	[Exodus20]
+	Snowden, don't go to Germany. It is a probably trap.
+
+		[iThoughtcrime]
+		&lt;font color =&quot;#000000&quot;&gt;Yawn&lt;/font&gt;
+
+		[Exodus20]
+		If Germany can ignore US arrest warrant on Snowden by inviting him to Germany, then they can make exception in the asylum law by first granting him permanent and guaranteed asylum (by the highest court?) before he goes to Germany.
+
+		[alwaysbetblack]
+		Is that what you want to happen? You might come across a poison umbrella
+
+		[dieSchwabin]
+		So what do you think Snowden should do, bearing in mind that he was granted only TEMPORARY asylum in Russia?
+
+		[dieSchwabin]
+		Let me assure you that Germans are far too civilised to stick a poisoned umbrella into Mr Obama (but putting the EU-US free trade agreement on hold will hopefully do the same trick! :-)
+
+	[DanteMeetsBosch]
+	So, where do we go from here? Does anyone really think they will stop this now? I'm very grateful for what Edward Snowden has done, but I fear that nothing will change.
+
+		[DanteMeetsBosch]
+		Do you see what we mean by status quo ante?   I guess this is the thing. How do we break free of the way it's always been and, perhaps, the way human nature will always gravitate to? There's always lip service about how things will change and will become better, but it's just window-dressing (if that's not mixing metaphors...).
+
+		[TheSandbag]
+		Weve already seen it start to happen. Anonymous and the occupy movement are the first front on an impending cyber civil war, being fought between the elites and the freethinkers of the world. A whole new wave of smart people are disenfranchised from the system and are seeing that was in fact a reality constructed to hide from them the truth, we have no power and we are still run by a feudal system.
+
+		[unaszplodrmann]
+		So, where do we go from here? Does anyone really think they will stop this now?    I'm very grateful for what Edward Snowden has done, but I fear that nothing will change.    This was never about getting the establishment to change. It is all about demonstrating to the public that they need to take steps to protect their own privacy and that of their contacts.
+
+		[iThoughtcrime]
+		Yeah, that mask is never going to fit properly after this. It's now starkly obvious you can't become a head of government unless you're willing to betray your nation to some higher authority. The question is, what countries aren't part of this organized deception against their own citizens? Is there a real independent democracy anywhere?
+
+		[discuz]
+		True, but at least we know now that they're lying as soon as their lips move.
+
+	[WolfBlister]
+	The Italians: bringing light comic relief to the dark world of international espionage
+
+		[unaszplodrmann]
+		... from the equally dark home of the mafia.   At least they do it with a smile!
+
+		[iThoughtcrime]
+		Who'd a thunk Italy was the last nation of the rule of law in the west ?
+
+		[ariseandresist]
+		Only in films.
+
+		[ariseandresist]
+		... from the equally dark home of the mafia.
+
+		[unaszplodrmann]
+		And italian proverbs.
+
+	[xyzzy]
+	Spanish agencies with links to a UK Telco? That'll be O2, then, which is owned by Telefonica.
+
+		[Llabriegu]
+		But that wouldn't really be a British telco, would it? There are thee main phone&internet providers in Spain: Movistar (Telefonica's brand name-Spanish), Orange (French) and Vodafone (I wouldn't know)
+
+	[digitalstd]
+	The veil of terrorism has uncovered the corporate truth.
+
+	[vivientoft]
+	'GCHQ has become Europe's inteligence hub in the internet age' Doesn't it make you kind of proud?
+
+		[Hottentot]
+		but Brits are never happy until they've tried to destroy or belittle anything they are any good at. Absolute twaddle. Brits will always promote good things, but what GCHQ has, and is doing is not good, it's unethical and this government has deliberately not told parliament. Well Parliament and the world now know. The car crash into the abyss is not avoidable for governments or secret services, as they have completely abused their powers.
+
+		[Edelstoff]
+		But you prove my point by confirming your opinion of what they are doing as &quot;not good&quot;. In reality you don't really know what they're done, but you are all too quick to assume it is not good - a classic Brit charateristic. You are sure they have 'abused powers', but it is not really difficult to imagine that spying, by definition, is a somewhat murky business. Or do you somehow imagine that spying is somehow done with the explicit permission of everyone involved? Think about how ridiculous that really would be for just a minute.
+
+		[MikeHarold]
+		especially as we have the financial hub that is so good for our economy. And the mother of parliaments. On bliss to be a brit.
+
+		[unaszplodrmann]
+		It should do, but Brits are never happy until they've tried to destroy or belittle anything they are any good at.   I wonder how Turing would feel about that statement.
+
+	[angeldearie]
+	The plot thickens. Or should that be the stench thickens?The plot sickens? Oh, I know...
+
+	[GypsyDanger]
+	The New criminal alliance!
+
+	[discuz]
+	&quot;making the case for reform or reinterpretation of the very restrictive interception legislation in Germany&quot;   Quotes like this really bring home where we are. The nonchalant matter-of-factness with which it is suggested that if the law cannot be changed, it simply needs to be interpreted differently, is breath-taking.
+
+		[Policeless]
+		Human rights, who needs themIf they thought the public were human i've missed something
+
+	[CCMac57]
+	These creeps at GCHQ even know you are reading this. They can monitor what you read online, what you say and who you say it to. They almost certainly class our comments as subversive behaviour. I don't care any more what these faceless cronies think. Some of them will end up behind bars when their superiors hang them out to dry whilst trying to save their own necks.
+
+		[robrut1]
+		That would wonderful.
+
+	[ladylovejoy]
+	Just, how much does this all cost in tax payers money?
+
+		[suprabrew]
+		We are putting our children's children in debt for us to be spied upon so that we and are children and their children may live under authoritarian rule, fascism and a police state.
+
+		[OrlandosTwin]
+		Interesting comment. We are paying for being spied on!
+
+	[glosrfc]
+	It makes perfect sense for any nation to covertly watch, and try to understand the intentions of, another nation.  What's abhorrent about all of this is the indiscriminate nature - that security agencies, and their political masters, think it's okay to spy on their own citizens. And that they deliberately sidestep the law in order to do this, again with the connivance of the politicians we elect to create and uphold those same laws.  It rankles that politician after politician, security chief after security chief, first denied that it was happening and then claimed that this blanket surveillance was in our best interests; that it was only to protect us from external threat; that there was genuine oversight; that the data couldn't identify individuals. We're told that these revelations threaten national security; that it's traitorous behaviour that puts everyone in danger. All of it a pack of lies. It's only now, when the sheer scale of this spying has impacted on their own political leadership, that we start to hear expressions of remorse and an admittance that the security agencies have gone too far. Otherwise they would have continued to lie and bluster to their citizens and electorate.  That's what truly stinks - that our own politicians continue to think we're all idiots that can have the wool pulled over our eyes.
+
+	[rezevici]
+	I'm sitting silent here in my house, thinking back on time when I lived behind the Iron Curtain. When my telephone conversations were listened to, when my mail was steamed open and studied.  Back then I couldn't imagine there will be time when all this is executed on the other side of curtain, too. And to the maximum. But like then and there, we are treated as potential enemies of the system. How have we come to this? There must be something dangerous in us. So the system needs to protect us from ourselves... Even when, as it seems, we are so weak.
+
+		[discuz]
+		Thank God something like that taking place here and now is beyond belief.   Yeah well, go talk to Belhaj.
+
+		[rezevici]
+		Bohemina1 said: &quot;[...] I was scared to come home from school to find out that my father was taken away. [...] dear friend of mine spent days wondering about town calling her daddy as the family was not told where he disappeared to.&quot; Thank God something like that taking place here and now is beyond belief. But which powers do we possess to never allow it happening? Do you believe that laws protect us -from that secret machinery hidden somewhere beyond our reach? You see, that machinery already exists here.
+
+		[Bohemina1]
+		I don't think you have an idea of how things went &quot;over there&quot;, once upon the time. Luckily, we are still very far from putting an equation sign between the two - and we better make sure that we never have to. Nobody is &quot;steaming my e-mail open&quot;; they store millions and millions of e-mails every day without any interest in actually reading it. Not that they would have the capacity, either. Not that I like it, I don't. What has been happening is problematic even without the hysteria and without the falsehoods - those only detract from our ability to effectively address the issues.
+
+		[EbbTide64]
+		Don't believe the carefully worded &quot;nobody is reading your emails&quot; bluster. Your emails and phone calls are being electronically searched.
+
+		[Goonnneeeerrrrr]
+		This is my every day in Sweden, my mail goes missing even registered ones, my phone-lines dies when I tell about things happen to me nowadays - even when I talk with NHS people (recorded).  My computer connection dies when I tell people about things I face (registered).  Documentation of gross human rights violations (recorded).  Direct threats made verbally and on internet (recorded).  I have been denied access to NHS medical care with explanation I was too old to receive medical care (recorded).  As a result of being denied access to medical care I have developed spread intestine cancer - the authorities has used the medical care as a weapon. I filed a case against Sweden in the ECHR in Strasbourg was taken up in small chamber - I lost. Which means that other EU states can use their NHS service against their people. (Recorded phone calls and material within the case and verdict saved).  A doctor in South America has after seeing what comes out when I visit bathroom and that I'm denied medical care urged me to take my passport and leave Sweden - just cross the boarder to any neighbouring country and a.s.a.p. - by watching photos she could set a diagnose.  Lawyers I talked to in US said the same thing - leave, just leave forget about your belongings get a passport and leave that place.  SWEDEN 2013
+
+	[DrPinch]
+	As John le Carre explained at this year's Hay Festival: &quot;The reason the security services have problems with the criminal activities of their agents is that they recruit criminals.&quot; The same recruitment handbook is used by banks, as we all know.
+
+	[SaveRMiddle]
+	This is where the world's leaders spend the hard earned tax dollars of their citizens as they enforce Austerity from the bottom up and the middle down......claiming deficits must be addressed.  These leaders are criminals.
+
+	[justoneofthesheep]
+	why are so many of the comments so accepting of this mass invasion! The ramification of such mass data collection are horrific. We should be acting to replace all officials associated with and complicit in such atrocities. Its this type of action simply creates enemies.. We need justification for this mass invasion of privacy... terrorism is no longer a valid excuse, we are way beyond this reason. We are being herded into a smaller and smaller area .... baa baa bang.. STOP spending and vote out the professional politicians
+
+		[DeirdreBarlow]
+		Because many of the people accepting are employed by the government to say so! Unfortunately, they've got us by the short and curlies, because they're using our tax money to pay for people to say &quot;spying is ok&quot;. The reason for this is because, they think &quot;if many people like us are saying, spying is ok, then we will think it must be ok&quot;. But, it will never be ok. Not in a million years.
+
+		[TransAtlanticist]
+		I think you'll find some of the comments are not so much accepting of this and certainly not liking it, but simply a bemused reaction to the hypocritical nature of the faux outrage and surprise of European governments when they were clearly intimately involved in this all along. Saying something is unsurprising does not mean you agree with the extent of it.
+
+		[Gastinel]
+		So what would the reaction of the White House be if it was discovered that GCHQ routinely listened to Obama's conversations with his National Security Advisor? Mock outrage?
+
+	[Sandrovic]
+	Does anyone else think our own governments has declared war on us?

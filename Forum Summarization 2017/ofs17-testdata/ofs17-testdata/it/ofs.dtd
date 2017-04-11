@@ -1,0 +1,23 @@
+
+<!ELEMENT document (articleText,commentaries,links)>
+<!ELEMENT articleText (s+)>
+<!ELEMENT s (#PCDATA)>
+
+<!ELEMENT commentaries (comment+)>
+<!ELEMENT comment (s+,comment*)>
+
+<!ELEMENT links (link*)>
+<!ELEMENT link (argument,sentiment)>
+<!ELEMENT argument (#PCDATA)>
+<!ELEMENT sentiment (#PCDATA)>
+
+<!ATTLIST document id ID #REQUIRED>
+<!ATTLIST s id ID #REQUIRED>
+<!ATTLIST comment id ID #REQUIRED>
+<!ATTLIST comment bloggerId CDATA #REQUIRED>
+<!ATTLIST link id ID #REQUIRED>
+<!ATTLIST link com_sentence IDREF #IMPLIED>
+<!ATTLIST link art_sentence IDREF #IMPLIED>
+<!ATTLIST argument label (in_favour | impartial | against | not_applicable) "not_applicable">
+<!ATTLIST sentiment label (positive | neutral | negative | not_applicable) "not_applicable">
+

@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE document SYSTEM "ofs.dtd">
+<document id="1957284403">
+<articleText>
+<s id="s0">BT and Vodafone among telecoms companies passing details to GCHQ</s>
+<s id="s1">Some of the world &apos;s leading telecoms firms , including BT and Vodafone , are secretly collaborating with Britain &apos;s spy agency GCHQ , and are passing on details of their customers &apos; phone calls , email messages and Facebook entries , documents leaked by the whistleblower Edward Snowden show . </s>
+<s id="s2">BT , Vodafone Cable , and the American firm Verizon Business – together with four other smaller providers – have given GCHQ secret unlimited access to their network of undersea cables . </s>
+<s id="s3">The cables carry much of the world &apos;s phone calls and internet traffic . </s>
+<s id="s4">In June the Guardian revealed details of GCHQ &apos;s ambitious data-hoovering programmes , Mastering the Internet and Global Telecoms Exploitation , aimed at scooping up as much online and telephone traffic as possible . </s>
+<s id="s5">It emerged GCHQ was able to tap into fibre-optic cables and store huge volumes of data for up to 30 days . </s>
+<s id="s6">That operation , codenamed Tempora , has been running for 20 months . </s>
+<s id="s7">On Friday Germany &apos;s Süddeutsche newspaper published the most highly sensitive aspect of this operation – the names of the commercial companies working secretly with GCHQ , and giving the agency access to their customers &apos; private communications . </s>
+<s id="s8">The paper said it had seen a copy of an internal GCHQ powerpoint presentation from 2009 discussing Tempora . </s>
+<s id="s9">The document identified for the first time which telecoms companies are working with GCHQ &apos;s &quot; special source &quot; team . </s>
+<s id="s10">It gives top secret codenames for each firm , with BT ( &quot; Remedy &quot; ) , Verizon Business ( &quot; Dacron &quot; ) , and Vodafone Cable ( &quot; Gerontic&quot; ) . </s>
+<s id="s11">The other firms include Global Crossing ( &quot; Pinnage &quot; ) , Level 3 ( &quot; Little &quot; ) , Viatel ( &quot;Vitreous &quot; ) and Interoute ( &quot; Streetcar &quot; ) . </s>
+<s id="s12">The companies refused to comment on any specifics relating to Tempora , but several noted they were obliged to comply with UK and EU law . </s>
+<s id="s13">The revelations are likely to dismay GCHQ and Downing Street , who are fearful that BT and the other firms will suffer a backlash from customers furious that their private data and intimate emails have been secretly passed to a government spy agency . </s>
+<s id="s14">In June a source with knowledge of intelligence said the companies had no choice but to co-operate in this operation . </s>
+<s id="s15">They are forbidden from revealing the existence of warrants compelling them to allow GCHQ access to the cables . </s>
+<s id="s16">Together , these seven companies operate a huge share of the high-capacity undersea fibre-optic cables that make up the backbone of the internet &apos;s architecture . </s>
+<s id="s17">GCHQ &apos;s mass tapping operation has been built up over the past five years by attaching intercept probes to the transatlantic cables where they land on British shores . </s>
+<s id="s18">GCHQ &apos;s station in Bude , north Cornwall , plays a role . </s>
+<s id="s19">The cables carry data to western Europe from telephone exchanges and internet servers in north America . </s>
+<s id="s20">This allows GCHQ and NSA analysts to search vast amounts of data on the activity of millions of internet users . </s>
+<s id="s21">Metadata – the sites users visit , whom they email , and similar information – is stored for up to 30 days , while the content of communications is typically stored for three days . </s>
+<s id="s22">GCHQ has the ability to tap cables carrying both internet data and phone calls . </s>
+<s id="s23">By last year GCHQ was handling 600m &quot;telephone events &quot; each day , had tapped more than 200 fibre-optic cables and was able to process data from at least 46 of them at a time . </s>
+<s id="s24">Each of the cables carries data at a rate of 10 gigabits per second , so the tapped cables had the capacity , in theory , to deliver more than 21 petabytes a day – equivalent to sending all the information in all the books in the British Library 192 times every 24 hours . </s>
+<s id="s25">This operation is carried out under clandestine agreements with the seven companies , described in one document as &quot;intercept partners &quot; . </s>
+<s id="s26">The companies are paid for logistical and technical assistance . </s>
+<s id="s27">The identity of the companies allowing GCHQ to tap their cables was regarded as extremely sensitive within the agency . </s>
+<s id="s28">Though the Tempora programme itself was classified as top secret , the identities of the cable companies was even more secret , referred to as &quot;exceptionally controlled information &quot; , with the company names replaced with the codewords , such as &quot; GERONTIC&quot; , &quot; REMEDY&quot; and &quot; PINNAGE&quot; . </s>
+<s id="s29">However , some documents made it clear which codenames referred to which companies . </s>
+<s id="s30">GCHQ also assigned the firms &quot; sensitive relationship teams &quot; . </s>
+<s id="s31">One document warns that if the names emerged it could cause &quot;high-level political fallout &quot; . </s>
+<s id="s32">Germans have been enraged by the revelations of spying by the National Security Agency and GCHQ after it emerged that both agencies were hoovering up German data as well . </s>
+<s id="s33">On Friday the Süddeutsche said it was now clear that private telecoms firms were far more deeply complicit in US-UK spying activities than had been previously thought . </s>
+<s id="s34">The source familiar with intelligence maintained in June that GCHQ was &quot; not looking at every piece of straw &quot; but was sifting a &quot;vast haystack of data &quot; for what he called &quot;needles &quot; . </s>
+<s id="s35">He added : &quot; If you had the impression we are reading millions of emails , we are not . </s>
+<s id="s36">There is no intention in this whole programme to use it for looking at UK domestic traffic – British people talking to each other . </s>
+<s id="s37">&quot; The source said analysts used four criteria for determining what was examined : security , terror , organised crime and Britain &apos;s economic wellbeing .&quot; </s>
+<s id="s38">The vast majority of the data is discarded without being looked at … we simply do n&apos;t have the resources . </s>
+<s id="s39">&quot; Nonetheless , the agency repeatedly referred to plans to expand this collection ability still further in the future . </s>
+<s id="s40">Once it is collected , analysts are able to search the information for emails , online chats and browsing histories using an interface called XKeyscore , uncovered in the Guardian on Wednesday . </s>
+<s id="s41">By May 2012 , 300 analysts from GCHQ and 250 NSA analysts had direct access to search and sift through the data collected under the Tempora program . </s>
+<s id="s42">Documents seen by the Guardian suggest some telecoms companies allowed GCHQ to access cables which they did not themselves own or operate , but only operated a landing station for . </s>
+<s id="s43">Such practices could raise alarm among other cable providers who do not co-operate with GCHQ programmes that their facilities are being used by the intelligence agency . </s>
+<s id="s44">Telecoms providers can be compelled to co-operate with requests from the government , relayed through ministers , under the 1984 Telecommunications Act , but privacy advocates have raised concerns that the firms are not doing enough to challenge orders enabling large-scale surveillance , or are co-operating to a degree beyond that required by law . </s>
+<s id="s45">&quot; We urgently need clarity on how close the relationship is between companies assisting with intelligence gathering and government , &quot; said Eric King , head of research for Privacy International . </s>
+<s id="s46">&quot; Were the companies strong-armed , or are they voluntary intercept partners ? </s>
+<s id="s47">&quot; Vodafone said it complied with the laws of all the countries in which its cables operate . </s>
+<s id="s48">&quot; Media reports on these matters have demonstrated a misunderstanding of the basic facts of European , German and UK legislation and of the legal obligations set out within every telecommunications operator &apos;s licence … Vodafone complies with the law in all of our countries of operation , &quot; said a spokesman . </s>
+<s id="s49">&quot; Vodafone does not disclose any customer data in any jurisdiction unless legally required to do so . </s>
+<s id="s50">Questions related to national security are a matter for governments not telecommunications operators . </s>
+<s id="s51">&quot; A spokeswoman for Interoute said : &quot; As with all communication providers in Europe we are required to comply with European and local laws including those on data protection and retention . </s>
+<s id="s52">From time to time we are presented with requests from authorities . </s>
+<s id="s53">When we receive such requests , they are processed by our legal and security teams and if valid , acted upon . </s>
+<s id="s54">&quot; A spokeswoman for Verizon said : &quot; Verizon continually takes steps to safeguard our customers &apos; privacy . </s>
+<s id="s55">Verizon also complies with the law in every country in which we operate . </s>
+<s id="s56">&quot; BT declined to comment . </s>
+</articleText>
+<commentaries>
+<comment id="c0" bloggerId="epinoa">
+<s id="s57">[epinoa] So BT and Vodafone breached the Data Protection Act ? </s>
+<comment id="c1" bloggerId="enfrance ">
+<s id="s58">[enfrance ] Is this Atlantic Bridge in operation ? </s>
+</comment>
+<comment id="c2" bloggerId="alex442">
+<s id="s59">[alex442] Human Rights ? </s>
+<s id="s60">Aww , how quaint ... </s>
+</comment>
+<comment id="c3" bloggerId="nitpiqin ">
+<s id="s61">[nitpiqin ] That &apos;s what we need to judge them and prosecute them with their own laws . </s>
+<s id="s62">They are breaking their own laws . </s>
+</comment>
+<comment id="c4" bloggerId="MirandaKeen ">
+<s id="s63">[MirandaKeen ] In the near future , I hope . </s>
+</comment>
+<comment id="c5" bloggerId="MirandaKeen ">
+<s id="s64">[MirandaKeen ] And the Universal Declaration of Human RightsArticle 12No one shall be subjected to arbitrary interference with their privacy , family , home or correspondence , nor to attacks upon their honour and reputation . </s>
+<s id="s65">Everyone has the right to the protection of the law against such interference and attacks . </s>
+</comment>
+</comment>
+<comment id="c6" bloggerId="00jebus ">
+<s id="s66">[00jebus ] So THATs how Vodafone get away with not paying any tax ( allegedly ) hmmm .... is there a telecom company that does n&apos;t pass on infomation ? </s>
+<comment id="c7" bloggerId="Bluestone ">
+<s id="s67">[Bluestone ] You scratch our backs , we &apos;ll scratch yours - and bugger the proles ! </s>
+<s id="s68">Haw haw ! </s>
+</comment>
+<comment id="c8" bloggerId="jonbryce ">
+<s id="s69">[jonbryce ] Vodafone Cable was Cable &amp; Wireless until they took it over on 27 July 2012 . </s>
+<s id="s70">The tax settlement was in 2010 , so there is no link . </s>
+</comment>
+<comment id="c9" bloggerId="DavidMillipede ">
+<s id="s71">[DavidMillipede ] Probably not given that they have to comp&apos;ly with secret government demands . </s>
+<s id="s72">We need a revolution , and we need it now , to restore democracy to the people and not elitist wankers like this shabby government who could n&apos;t even win an election , yet take all the liberties they have been with public services . </s>
+</comment>
+</comment>
+<comment id="c10" bloggerId="dennis79">
+<s id="s73">[dennis79] All of this is certainly not done to combat terrorism . </s>
+<s id="s74">Spying upon politics , economics , NGOs etc . </s>
+<s id="s75">I &apos;m also pretty confident that a number of individuals are subjugated to more thorough investigation purely for state needs . </s>
+<s id="s76">States have always set up people , used people as fall guys , coerced and manipulated their subjects . </s>
+<s id="s77">All this is far easier when in the possession of a very complete knowledge of someone &apos;s life . </s>
+<comment id="c11" bloggerId="SpecialRX">
+<s id="s78">[SpecialRX] I suspect you &apos;re right . </s>
+<s id="s79">Have a recommend on me . </s>
+</comment>
+<comment id="c12" bloggerId=" Malkatrinho">
+<s id="s80">[ Malkatrinho] It has nothing to do with &amp;quot;Terrorists&amp;quot ; , you &apos;re bang on . </s>
+<s id="s81">It &apos;s about keeping an eye on the general populace , which might start getting a little &amp;quot ;uppity&amp;quot ; when the consequences of climate change and economic collapse really start to kick in in around 10-15 years time ( if we &apos;re being optimistic ) . </s>
+</comment>
+</comment>
+<comment id="c13" bloggerId="timetorememberagain ">
+<s id="s82">[timetorememberagain ] A spokeswoman for Verizon said : &amp;quot ;Verizon continually takes steps to safeguard our customers &apos; privacy . </s>
+<s id="s83">Verizon also complies with the law in every country in which we operate .&amp;quot ; This is a contradiction . </s>
+<s id="s84">It sounds like they &apos;re doing everything just right but in fact the two statements are mutually exclusive because They are forbidden from revealing the existence of warrants compelling them to allow GCHQ access to the cables . </s>
+<s id="s85">So the government demands access to my ( and everyone else &apos;s ) phone calls and the provider obeys without telling me but instead assures me they &apos;re continually taking steps to safeguard my privacy . </s>
+<s id="s86">Sheer doublespeak and deception of the highest order . </s>
+<s id="s87">Recall Parliament now ! </s>
+<s id="s88">Demonstrate now ! </s>
+<comment id="c14" bloggerId="AGrumpyGit ">
+<s id="s89">[AGrumpyGit ] Democracy does indeed work that way , but we &apos;ve living in a quasi-democracy for som time now , in which we all go through a meaningless but apparently necessary election system but we always end up with &amp;quot ;leaders&amp;quot ; that perpuate their hidden agenda . </s>
+</comment>
+<comment id="c15" bloggerId="timetorememberagain ">
+<s id="s90">[timetorememberagain ] It should have been debated in parliament.If the majority were in favour , the access would be granted.That is how democracy works . </s>
+<s id="s91">Quite so . </s>
+<s id="s92">Those among us who might previously have argued that at least we still live in a democracy , might now begin to question that assumption . </s>
+<s id="s93">With luck we might even stage mass demonstrations demanding our rights . </s>
+<s id="s94">Organise ! </s>
+<s id="s95">Resist ! </s>
+</comment>
+<comment id="c16" bloggerId="SamSSSS">
+<s id="s96">[SamSSSS] I do n&apos;t see why the existence of warrants for access had to be hidden from the public. </s>
+<s id="s97">It should have been debated in parliament . </s>
+<s id="s98">If the majority were in favour , the access would be granted.That is how democracy works . </s>
+</comment>
+</comment>
+<comment id="c17" bloggerId="VaughnParadis ">
+<s id="s99">[VaughnParadis ] I &apos;d be concerned about Vodafone passing on details of my communications , if Vodafone could provide me with a signal in the first place . </s>
+<s id="s100">Best way to keep your information secure ? </s>
+<s id="s101">Use Vodafone . </s>
+<s id="s102">You wo n&apos;t be in contact with anybody . </s>
+<comment id="c18" bloggerId="Snapshackle ">
+<s id="s103">[Snapshackle ] Agreed , 4G? ? </s>
+<s id="s104">3G would be nice , or even a fucking signal . </s>
+</comment>
+<comment id="c19" bloggerId=" OurPlanet ">
+<s id="s105">[ OurPlanet ] That really made me laugh in a serious situation . </s>
+<s id="s106">Thanks VaughnParadisThe best antidote to this crap is to make them irrelevant and stupid looking . </s>
+<s id="s107">Fear only feeds these imbeciles egos . </s>
+</comment>
+<comment id="c20" bloggerId=" Malkatrinho">
+<s id="s108">[ Malkatrinho] that &apos;s a lovely shade of green . </s>
+</comment>
+<comment id="c21" bloggerId="jonbryce ">
+<s id="s109">[jonbryce ] This is the former Cable &amp; Wireless division of Vodafone . </s>
+<s id="s110">Lots of ISPs use them for their transatlantic traffic . </s>
+<s id="s111">Those that do n&apos;t use one of the other ones listed . </s>
+<s id="s112">Level 3 is probably the biggest . </s>
+</comment>
+</comment>
+<comment id="c22" bloggerId="IronCurtain ">
+<s id="s113">[IronCurtain ] The Governments and the Corporations banding together . </s>
+<s id="s114">cui bonno ? </s>
+<s id="s115">you ? </s>
+<s id="s116">me ? </s>
+<s id="s117">Freedom ? </s>
+<s id="s118">Liberty ? </s>
+<s id="s119">not likely . </s>
+<comment id="c23" bloggerId="enfrance ">
+<s id="s120">[enfrance ] If apathy is the order of the day here , perhaps pionting out that Vodaphone have cost each invidual in the UK so much as a result of its tax deal would that make people wake up ? </s>
+<s id="s121">Nah , I despair . </s>
+<s id="s122">And the likelyhood of anyone boycotting either BT or Vodaphone is nill except perhaps a few who will make no difference at all . </s>
+<s id="s123">How about a petition of some sort ? </s>
+<s id="s124">Its late and I &apos;m too tired and hot to think of one that could do the subject justice . </s>
+<s id="s125">Anyone ? </s>
+<s id="s126">As for people thinking this does not affect them . </s>
+<s id="s127">Even if you think you are doing nothing wrong what &apos;s to stop you being framed for something by this information ? </s>
+<s id="s128">or mistaken for someone else or regarded as doing something which may be the first step to terrorism , like searching for pressure cookers on the net , buying a rucksack on the net and having a son with a lively interest in online news ? </s>
+<s id="s129">Just ask the New York family elsewhere in the Guardian . </s>
+<s id="s130">Perhaps we should all stop reading the news online just in case ! </s>
+</comment>
+<comment id="c24" bloggerId="zacmcd ">
+<s id="s131">[zacmcd ] There is a petition to Stop Tempora , it takes a minute to sign ( but a confirmation email needs to be clicked ) . </s>
+<s id="s132">Also , minimise the use of these companies ; give them less money to undermine us with . </s>
+<s id="s133">You can make free 2048 bit encrypted VoIP calls using Yuilop save money and lower their turnover ... </s>
+</comment>
+<comment id="c25" bloggerId=" Haigin88 ">
+<s id="s134">[ Haigin88 ] &amp;quot ;Fascism should rightly be called Corporatism , as it is the merger of corporate and government power .&amp;quot ; . Benito Mussolini </s>
+</comment>
+<comment id="c26" bloggerId="kaneandabel ">
+<s id="s135">[kaneandabel ] TThe question is when will the poeple fill the street like it happened before Iraq war , a million march in London would be a good idea now . </s>
+<s id="s136">Of course then we may have a false flag operation and then clamp on the screws ... with the orange alert worldwide , made just a day back by Gen Alexanders team . </s>
+<s id="s137">But otherwise , I see no chance of change . </s>
+<s id="s138">In Germany the protests are happening in ernst . </s>
+<s id="s139">Thousands fill German streets to protest Berlin’s NSA spying involvement </s>
+</comment>
+<comment id="c27" bloggerId="kaneandabel ">
+<s id="s140">[kaneandabel ] ; ) I deserved that one </s>
+</comment>
+</comment>
+<comment id="c28" bloggerId="ViktorBurakov">
+<s id="s141">[ViktorBurakov] To begin with I thought it all meant that they were paranoid , perpetually terrified of some bogeyman , imaginary or real . </s>
+<s id="s142">Now though , I &apos;m convinced it &apos;s something a lot more sinister </s>
+<comment id="c29" bloggerId="jonwilde ">
+<s id="s143">[jonwilde ] Which , I guess , means that the terrorists have won . </s>
+<s id="s144">I was n&apos;t nervous at all before I learnt how closely we were being monitored . </s>
+<s id="s145">What are those odds again against being a victim of a terrorist act ? </s>
+</comment>
+<comment id="c30" bloggerId=" Malkatrinho">
+<s id="s146">[ Malkatrinho] I think it &apos;s more to do with incompetence and leakiness than it is part of some grand dastardly plan to provoke people . </s>
+<s id="s147">They &apos;d much rather we stayed ignorant , compliant and biddable . </s>
+</comment>
+<comment id="c31" bloggerId=" Malkatrinho">
+<s id="s148">[ Malkatrinho] They are terrified . </s>
+<s id="s149">Of what happens when enough people begin to protest about corruption , inequality , collapsing civil society , etc . </s>
+<s id="s150">They &apos;re terrified that the same kind of mass protests that swept Brazil , Turkey , Bulgaria or the Middle East will eventually be provoked in the West . </s>
+</comment>
+<comment id="c32" bloggerId="ScepticOptimist ">
+<s id="s151">[ScepticOptimist ] And it is exactly the only way we can regain our freedom - a British spring ; mass protest &amp; civil disobedience . </s>
+<s id="s152">Then we will see these fuckers true colours when they send the troops in an people are dragged bleeding off the streets . </s>
+<s id="s153">But they can not win if we all unite against them . </s>
+<s id="s154">History has shown time and time again that true power lies in the hands of the people . </s>
+</comment>
+<comment id="c33" bloggerId="gwelddycybydd ">
+<s id="s155">[gwelddycybydd ] I do believe that the government is trying to provoke confrontation.Their security forces ; state and private , are well trained and very well equipped.The </s>
+<s id="s156">drip , drip , drip of corruption , cronyism , incompetence and naked self interest and frequently exposed by their &apos;friends &apos; in the mostly right leaning media seem to be designed to build pressure in the populace .Maybe , they want to put us in our place , once and for all . </s>
+</comment>
+</comment>
+<comment id="c34" bloggerId="RandomAccountant ">
+<s id="s157">[RandomAccountant ] Welcome to 21st century Britain.Big </s>
+<s id="s158">Brother has arrived .29 years late . </s>
+<comment id="c35" bloggerId="allislost ">
+<s id="s159">[allislost ] Been like this for an age , only now many more understand the plight of the many who have been hounded into submission and/or mental institutions . </s>
+</comment>
+</comment>
+<comment id="c36" bloggerId="GreenRevolution ">
+<s id="s160">[GreenRevolution ] I am going to boycott both ! </s>
+<s id="s161">This disgraceful spying business has no end ! </s>
+<s id="s162">Shame on those who participate in this abhorent snooping . </s>
+</comment>
+<comment id="c37" bloggerId="cockersf1 ">
+<s id="s163">[cockersf1 ] Do you think this qould be a way of getting out of contracts with these companies ? </s>
+<comment id="c38" bloggerId="brendon1 ">
+<s id="s164">[brendon1 ] The problem is that most of the world &apos;s Internet traffic goes via Level3 . </s>
+<s id="s165">There &apos;s no easy way of getting around that . </s>
+</comment>
+<comment id="c39" bloggerId="zacmcd ">
+<s id="s166">[zacmcd ] Hard for the layman to know . </s>
+<s id="s167">SSL being secure would explain why they need backdoor access via Prism . </s>
+<s id="s168">There is also mention that encrypted mobile messaging apps pose a threat to their capabilities ... </s>
+</comment>
+<comment id="c40" bloggerId=" TheSandbag">
+<s id="s169">[ TheSandbag] From the descriptions of tempora I &apos;m fairly sure they have broken SSL otherwise its pointless . </s>
+<s id="s170">Large numbers of web apps and traffic is ssl encrypted now so why bother creating a massive fiber intercept program if you could n&apos;t see 60 % + of all the traffic and almost all of the communications data ? </s>
+</comment>
+</comment>
+<comment id="c41" bloggerId="nowwhataretheyupto">
+<s id="s171">[nowwhataretheyupto] so this is why the government go easy on these toss pots not paying corporation tax . </s>
+<s id="s172">And they dare to call bank robbers criminals . </s>
+<s id="s173">Jesus , there &apos;s no f*cking morals with any of them . </s>
+<s id="s174">What &apos;s happened to these people , or are they so smacked off their tits to care ? . </s>
+</comment>
+<comment id="c42" bloggerId="Miss_Direction ">
+<s id="s175">[Miss_Direction ] There are four points i would like to raise : 1 ) Even if the security services can be trusted with all the vast data they gather what happens if it falls into the wrong hands 2 ) GCHQ have been known in the past to target animals rights protestors , environmental organisations and Union groups therefore it is clear that they are already used as a political weapon against dissent 3 ) Democracy depends on transparency and accountability and this important element is being undermined at the highest levels for the benefit of corporate and political interests 4 ) Lastly i would like to know if the NSA and GCHQ actively targeted the Occupy movement and who authorised this action and what was their remit </s>
+<comment id="c43" bloggerId="elevengoalposts ">
+<s id="s176">[elevengoalposts ] &apos;&apos;GCHQ have been known in the past to target animals rights protestors , environmental organisations and Union groups .. . </s>
+<s id="s177">&apos;&apos; You have first-hand , written evidence about that , or just assertions ? </s>
+</comment>
+<comment id="c44" bloggerId="Exodus20">
+<s id="s178">[Exodus20] Rights and laws are at best ideals , no more , no less . </s>
+<s id="s179">To those corrupted by greed and power , these are nothing more than sweets to quieten gullible and innocent children . </s>
+</comment>
+<comment id="c45" bloggerId="Exodus20">
+<s id="s180">[Exodus20] Even if the security services can be trusted with all the vast data they gather what happens if it falls into the wrong hands I share that sentiment and concern . </s>
+<s id="s181">Security services are necessary but i am afraid most , even all of them , sooner rather than later will become rogue , cancerous , arrogant corrupt and become the tools of suppression for politicians and big money . </s>
+<s id="s182">Most people do not appreciate the preciousness and precariousness of accountable democracy and responsibility freedom . </s>
+</comment>
+<comment id="c46" bloggerId="Miss_Direction ">
+<s id="s183">[Miss_Direction ] The right to freedom of expression is recognized as a human right under Article 19 of the Universal Declaration of Human Rights and recognized in international human rights law in the International Covenant on Civil and Political Rights ( ICCPR ) . </s>
+<s id="s184">Article 19 of the ICCPR states that &amp;quot ;everyone shall have the right to hold opinions without interference&amp;quot ; and &amp;quot ;everyone shall have the right to freedom of expression ; this right shall include freedom to seek , receive and impart information and ideas of all kinds , regardless of frontiers , either orally , in writing or in print , in the form of art , or through any other media of his choice&amp;quot ; http ://en.wikipedia </s>
+<s id="s185">.org/wiki/ </s>
+<s id="s186">Freedom_of_speech Our basic right to freedom of speech should be upheld through international law as long as it does not harm or interfere with the liberty of others ... it therefore appears that we have lost sight of what is an important and we have a problem that requires fixing . </s>
+</comment>
+</comment>
+<comment id="c47" bloggerId="amonduul ">
+<s id="s187">[amonduul ] Ignore shockman - rightwing troll . </s>
+<comment id="c48" bloggerId=" Derek Seymour ">
+<s id="s188">[ Derek Seymour ] This is not a right or left issue , so I &apos;m calling shockman a fascist troll </s>
+</comment>
+<comment id="c49" bloggerId="BStroszek ">
+<s id="s189">[BStroszek ] If you &apos;re tired , why do n&apos;t you fuck off to bed , and spare us your drivel . </s>
+</comment>
+</comment>
+</commentaries>
+<links>
+</links>
+</document>

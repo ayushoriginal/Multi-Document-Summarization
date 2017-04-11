@@ -1,0 +1,152 @@
+
+Foreign politicians and officials who took part in two G20 summit meetings in London in 2009 had their computers monitored and their phone calls intercepted on the instructions of their British government hosts, according to documents seen by the Guardian. Some delegates were tricked into using internet cafes which had been set up by British intelligence agencies to read their email traffic. The revelation comes as Britain prepares to host another summit on Monday – for the G8 nations, all of whom attended the 2009 meetings which were the object of the systematic spying. It is likely to lead to some tension among visiting delegates who will want the prime minister to explain whether they were targets in 2009 and whether the exercise is to be repeated this week. The disclosure raises new questions about the boundaries of surveillance by GCHQ and its American sister organisation, the National Security Agency, whose access to phone records and internet data has been defended as necessary in the fight against terrorism and serious crime. The G20 spying appears to have been organised for the more mundane purpose of securing an advantage in meetings. Named targets include long-standing allies such as South Africa and Turkey. There have often been rumours of this kind of espionage at international conferences, but it is highly unusual for hard evidence to confirm it and spell out the detail. The evidence is contained in documents – classified as top secret – which were uncovered by the NSA whistleblower Edward Snowden and seen by the Guardian. They reveal that during G20 meetings in April and September 2009 GCHQ used what one document calls "ground-breaking intelligence capabilities" to intercept the communications of visiting delegations. This included: •?Setting up internet cafes where they used an email interception programme and key-logging software to spy on delegates' use of computers; •?Penetrating the security on delegates' BlackBerrys to monitor their email messages and phone calls; •?Supplying 45 analysts with a live round-the-clock summary of who was phoning who at the summit; •?Targeting the Turkish finance minister and possibly 15 others in his party; •?Receiving reports from an NSA attempt to eavesdrop on the Russian leader, Dmitry Medvedev, as his phone calls passed through satellite links to Moscow. The documents suggest that the operation was sanctioned in principle at a senior level in the government of the then prime minister, Gordon Brown, and that intelligence, including briefings for visiting delegates, was passed to British ministers. A briefing paper dated 20 January 2009 records advice given by GCHQ officials to their director, Sir Iain Lobban, who was planning to meet the then foreign secretary, David Miliband. The officials summarised Brown's aims for the meeting of G20 heads of state due to begin on 2 April, which was attempting to deal with the economic aftermath of the 2008 banking crisis. The briefing paper added: "The GCHQ intent is to ensure that intelligence relevant to HMG's desired outcomes for its presidency of the G20 reaches customers at the right time and in a form which allows them to make full use of it." Two documents explicitly refer to the intelligence product being passed to "ministers". According to the material seen by the Guardian, GCHQ generated this product by attacking both the computers and the telephones of delegates. One document refers to a tactic which was "used a lot in recent UK conference, eg G20". The tactic, which is identified by an internal codeword which the Guardian is not revealing, is defined in an internal glossary as "active collection against an email account that acquires mail messages without removing them from the remote server". A PowerPoint slide explains that this means "reading people's email before/as they do". The same document also refers to GCHQ, MI6 and others setting up internet cafes which "were able to extract key logging info, providing creds for delegates, meaning we have sustained intelligence options against them even after conference has finished". This appears to be a reference to acquiring delegates' online login details. Another document summarises a sustained campaign to penetrate South African computers, recording that they gained access to the network of their foreign ministry, "investigated phone lines used by High Commission in London" and "retrieved documents including briefings for South African delegates to G20 and G8 meetings". (South Africa is a member of the G20 group and has observer status at G8 meetings.) A detailed report records the efforts of the NSA's intercept specialists at Menwith Hill in North Yorkshire to target and decode encrypted phone calls from London to Moscow which were made by the Russian president, Dmitry Medvedev, and other Russian delegates. Other documents record apparently successful efforts to penetrate the security of BlackBerry smartphones: "New converged events capabilities against BlackBerry provided advance copies of G20 briefings to ministers … Diplomatic targets from all nations have an MO of using smartphones. Exploited this use at the G20 meetings last year." The operation appears to have run for at least six months. One document records that in March 2009 – the month before the heads of state meeting – GCHQ was working on an official requirement to "deliver a live dynamically updating graph of telephony call records for target G20 delegates … and continuing until G20 (2 April)." Another document records that when G20 finance ministers met in London in September, GCHQ again took advantage of the occasion to spy on delegates, identifying the Turkish finance minister, Mehmet Simsek, as a target and listing 15 other junior ministers and officials in his delegation as "possible targets". As with the other G20 spying, there is no suggestion that Simsek and his party were involved in any kind of criminal offence. The document explicitly records a political objective – "to establish Turkey's position on agreements from the April London summit" and their "willingness (or not) to co-operate with the rest of the G20 nations". The September meeting of finance ministers was also the subject of a new technique to provide a live report on any telephone call made by delegates and to display all of the activity on a graphic which was projected on to the 15-sq-metre video wall of GCHQ's operations centre as well as on to the screens of 45 specialist analysts who were monitoring the delegates. "For the first time, analysts had a live picture of who was talking to who that updated constantly and automatically," according to an internal review. A second review implies that the analysts' findings were being relayed rapidly to British representatives in the G20 meetings, a negotiating advantage of which their allies and opposite numbers may not have been aware:  "In a live situation such as this, intelligence received may be used to influence events on the ground taking place just minutes or hours later. This means that it is not sufficient to mine call records afterwards – real-time tip-off is essential." In the week after the September meeting, a group of analysts sent an internal message to the GCHQ section which had organised this live monitoring: "Thank you very much for getting the application ready for the G20 finance meeting last weekend … The call records activity pilot was very successful and was well received as a current indicator of delegate activity?… "It proved useful to note which nation delegation was active during the moments before, during and after the summit. All in all, a very successful weekend with the delegation telephony plot." 
+
+	[Eccentrix]
+	It's interesting how this sort of thing is normally associated with Russia or China or Iran but never with countries like the United Kingdom. It seems all you need to do to set up a strong state apparatus is throw the population the sop of some elections every 4-5 years and you can then create the illusion that you conform to a different set of morals from so-called rogue states. Delightfully diabolical, devious and deceitful.
+
+		[Pr0Crastinat0r]
+		@Eccentrix - here, here.
+
+		[ChineeChopper]
+		@Eccentrix - When has spying on foreign officials ever been without the purview of democratic government?
+
+		[MsGodard]
+		@Eccentrix -  Good post. I love it when someone nails the reality of this 'democracy'.
+
+		[Camilo Sanchez]
+		@Eccentrix - The US and the UK lost that sensation of freedom long ago. It feels like we are under tyranny
+
+		[Hedropsforglory]
+		@Eccentrix 16 June 2013 9:00pm. Get cifFix for Chrome.    It's interesting how this sort of thing is normally associated with Russia or China or Iran but never with countries like the United Kingdom.   It's interesting how people say this whilst, one can only imagine, believing that the fucking great big round building in Cheltenham is - what - serving ice cream??
+
+	[CanadianWhoGotLost]
+	I'm puzzled. Does that mean they thought the G20 were terrorists?
+
+		[LeDingue]
+		@CanadianWhoGotLost 16 June 2013 9:01pm. Get cifFix for Firefox. I'm puzzled. Does that mean they thought the G20 were terrorists? probably &quot;serious criminals&quot;...
+
+		[Hedropsforglory]
+		This comment was removed by a moderator because it didn't abide by our community standards. Replies may also be deleted. For more detail see our FAQs.
+
+	[kristinekochanski]
+	To be honest I think most people know that countries spy on each other, even friendly nations. If I was a diplomat or a politician of power I would expect to be spied on, having seen the movie. This is not as much a revelation as the Guardian wishes it to be. I am concerned mainly with governments spying on me or others like me, as they have no excuse for that.
+
+		[BaronGrovelville]
+		@kristinekochanski - No you're wrong. Politicians and diplomats also need to be able to do their job without the interference of the military.  Let's not forget what the M in MI5 and MI6 stands for.
+
+		[exturpicausa]
+		@kristinekochanski 16 June 2013 9:01pm. Get cifFix for Chrome. Well said. I am a huge supporter of Snowden's leaks about programmes targeting the American and British people. However, this leak truly is treasonous as it has a legitimate link to national defence. I would support prosecuting journalists who reveal classified programmes that target foreign governments and heads of state (i.e. exactly the kind of work for which we employ spies)
+
+		[missing yet again]
+		@kristinekochanski - When everyone is at it, it would be stupid for the UK not to be doing the same. I'd say that spying on other states is as important as spying on terrorists, as states do as much damage if not more. The spying on the public part of these revelations is going to be interesting in the US. Surely the US government has gone against the US constitution and broken laws. The Democrats and Republicans seem to be closing ranks on the issue.
+
+		[missing yet again]
+		@exturpicausa - Hopefully it won't result in anything happening to any British citizens abroad.
+
+		[U0I0Oi0]
+		@kristinekochanski - It isn't the country that spies on people. It is a bureaucracy within the government. Bureaucracies have to justify the budget. The office system has a tendency to grow within a self justified bureaucracy. In size, intensity and expense in all ways.    I am concerned mainly with governments spying on me or others like me, as they have no excuse for that.   Does all that CCTV make you feel safe?  Does all that CCTV make you feel trusted?
+
+	[ID4796814]
+	Oh - it will be fun at the G8 this year
+
+		[Dooba]
+		@giveusaclue - The UK is hosting the G8 - what makes you think that identical arrangements aren't in place for tomorrow?
+
+		[giveusaclue]
+		@Dooba -  I'm sure they are, and everywhere at every G8 not just in this country
+
+		[Dooba]
+		@giveusaclue - So Cameron and Hague will be the butt of a few jokes at least.
+
+		[Dooba]
+		@ID4796814 - Some awkward moments for Cameron and Hague... lovely.
+
+		[Montecarlo2]
+		@ID4796814 - The G8 are all old hands at this. They expanded to G20 to get some new less electronically sophisticated countries to spy on.
+
+	[gunnison]
+	So these &quot;documents&quot; have surfaced via Snowden, is that right?And he was a contractor for the NSA, not British Intel, but yet he was able to access this material?So the NSA must have datafiles on all of this, which means that either;1. GCHQ shares its datafiles with the NSA, or2. It was a joint operation, or3. The NSA hacked GCHQ. Right?
+
+		[CompassionateTory]
+		@gunnison - Probably number 3.
+
+		[Bluthner]
+		@gunnison - It's not either/or Gunny. Could be any combination of your three possibilities. Most likely is 2&3 combined.
+
+		[foolisholdman]
+		@gunnison - To almost all intents and puposes, the US Ruling Class and the British Ruling Class are two parts of the one body. Therefore their spy systems work extremely closely together.
+
+		[griffinalabama]
+		This comment was removed by a moderator because it didn't abide by our community standards. Replies may also be deleted. For more detail see our FAQs.
+
+		[Dooba]
+		@gunnison - 1. The UK gets most of it's intel from the US. This was a rare chance to show off to the NSA - it's why the powerpoint presentation looked so snazzy.
+
+	[TheGreatBarzoni]
+	Where are the Terrorists?
+
+		[ChineeChopper]
+		@TheGreatBarzoni - No, no no, these people were here on business.
+
+	[ID383676]
+	So, let me get this right. Our spies were spying on foreign governments? What ever next?
+
+		[TheGreatBarzoni]
+		@frostedw - One minute we're told they are not interested in the content of our emails/phonecalls and they're only looking for terrorists, the next they seem to contradict themselves by listening in to that content they wer'nt interested in.. isnt that called lying? Cant you see a picture emerging?Does it matter if your government lies to you?
+
+		[frostedw]
+		@ID383676 -  Our spies were spying on delegates at an economic summit. Do you actually think that's ethical? Or does anything go in your world?
+
+		[TheGreatBarzoni]
+		@frostedw - Excellent point frostedw ha ha! yes I did mean ID383676 and I agree with what your saying!
+
+		[giveusaclue]
+		@frostedw -  But how do you find out about the terrorism except by spying?
+
+		[frostedw]
+		@TheGreatBarzoni - I think you meant that for ID383676, I agree with what you're saying.
+
+	[steeply]
+	This happens when you allow security services to have free reign without being monitored by common sense intelligent peopleIt is absolute unthinking nonsense to say you've got nothing to worry about if you've not done anything wrongUnfortunately for decades left wingers and enviromentalists have been monitored at a cost of millions to the tax payer.And the reason is purely paranoia and ignorance and right wing bordering on fascist tendency thinking Engage your brain SS
+
+		[CanYouFlyBobby]
+		@steeply - Sorry, you think    common sense intelligent people  think it is a bad idea to listen to rivals at a conference?
+
+		[griffinalabama]
+		@exturpicausa - Can you get your nose further up the government's arse?
+
+		[exturpicausa]
+		@griffinalabama 16 June 2013 9:54pm. Get cifFix for Chrome. Can you get your nose any further up Russia's arse?
+
+		[exturpicausa]
+		@steeply 16 June 2013 9:09pm. Get cifFix for Chrome.    This happens when you allow security services   What on earth are you blathering on about? This is exactly the kind of work our intelligence agencies are supposed to be doing.
+
+	[Fluxdeluxe]
+	And people say that the NSA and GCHQ don't do anything illegal..... I can understand many peoples trepidation at reading this but it's important to report it, we in the past could only naturally assume that activities took place like this. Now we have what looks like incontrovertible proof. Any hack worth his salt would print this story it's dynamite and there's a clear public interest. It'll be interesting to see how Cameron and his stooges react to this, to denounce Gordon Brown and Labour leaves themselves open to political suicide if further revelations come out showing direct complicity by Cameron's cabinet in security/espionage affairs.  To support it is almost as indefensible. Cat, hot tin roof.
+
+	[Trofonios]
+	Spin doctors in full swing here trying to downplay this, &quot;not news&quot;, &quot;treason&quot;, &quot;not proper journalism&quot;, etc. Wierd world we live in.
+
+	[antonyJ]
+	Isn't spying what spies do? Whats the benefit of revealing this?
+
+		[MASS]
+		@antonyJ - there is a difference between suspecting and knowing. It's called evidence. If proved correct then it demonstrates yet again what an incompetent bunch of lying tossers our security services and politicians are.I am bothered about national security and I do want us to be safe but the lies that are told to us to try and convinces us that what is being done is for our own good and we should not ask questions are a disgrace to us and to the folks telling them. Grow up FFS. We can handle the truth and we, actually, do pay for it as taxpayers. Unlike far too many companies.....
+
+		[frostedw]
+		@antonyJ -  But it's spying on people at an economic summit. And the benefit of it is to expose the crappy way in which the government acts in order to try and get it to behave better. Are you happy with the British government behaving like this? I'm not.
+
+		[LeoHesse]
+		@antonyJ - Shows we need better spies. The point is not to get caught.
+
+		[KatieL]
+		@antonyJ - &quot;Whats the benefit of revealing this?&quot; Well, it does tell us that foreign diplomats are stupid enough to use a random wifi point to connect to without end-to-end encrypting their traffic. I mean, seriously, WTF??? Who is running their security?
+
+	[Trofonios]
+	Good work Snowden and Guardian. Shit like this should be exposed. Thank god Guardian isn't one of those newspapers who tries to protect the &quot;national interest&quot;, instead it has a bigger perspective.
+
+		[jcrighton00651]
+		@Trofonios - Is there a bigger perspective than our national interest?
+
+		[rebeccazg]
+		@Trofonios - yes :) in a way it is protecting our national interest.. just not the one we are told we are supposed to have x
