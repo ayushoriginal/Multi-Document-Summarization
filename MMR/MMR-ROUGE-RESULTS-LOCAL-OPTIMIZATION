@@ -1,0 +1,1021 @@
+lambda =  0.0  &  mini =  -0.6
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.36995 (95%-conf.int. 0.35785 - 0.38165)
+gcn_salience ROUGE-1 Average_P: 0.39276 (95%-conf.int. 0.37715 - 0.40861)
+gcn_salience ROUGE-1 Average_F: 0.38028 (95%-conf.int. 0.36695 - 0.39338)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09122 (95%-conf.int. 0.08206 - 0.10039)
+gcn_salience ROUGE-2 Average_P: 0.09755 (95%-conf.int. 0.08731 - 0.10796)
+gcn_salience ROUGE-2 Average_F: 0.09411 (95%-conf.int. 0.08446 - 0.10358)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03293 (95%-conf.int. 0.02776 - 0.03822)
+gcn_salience ROUGE-3 Average_P: 0.03539 (95%-conf.int. 0.02959 - 0.04133)
+gcn_salience ROUGE-3 Average_F: 0.03405 (95%-conf.int. 0.02849 - 0.03974)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01463 (95%-conf.int. 0.01139 - 0.01797)
+gcn_salience ROUGE-4 Average_P: 0.01583 (95%-conf.int. 0.01237 - 0.01965)
+gcn_salience ROUGE-4 Average_F: 0.01518 (95%-conf.int. 0.01183 - 0.01876)
+lambda =  0.0  &  mini =  -0.59
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.58
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.57
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.56
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.55
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.54
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.53
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.0  &  mini =  -0.52
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39378 (95%-conf.int. 0.37801 - 0.40959)
+gcn_salience ROUGE-1 Average_F: 0.38102 (95%-conf.int. 0.36759 - 0.39424)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09109 (95%-conf.int. 0.08193 - 0.10017)
+gcn_salience ROUGE-2 Average_P: 0.09755 (95%-conf.int. 0.08731 - 0.10795)
+gcn_salience ROUGE-2 Average_F: 0.09404 (95%-conf.int. 0.08446 - 0.10350)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03267 (95%-conf.int. 0.02762 - 0.03799)
+gcn_salience ROUGE-3 Average_P: 0.03516 (95%-conf.int. 0.02958 - 0.04107)
+gcn_salience ROUGE-3 Average_F: 0.03381 (95%-conf.int. 0.02848 - 0.03936)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01960)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.51
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39378 (95%-conf.int. 0.37801 - 0.40959)
+gcn_salience ROUGE-1 Average_F: 0.38102 (95%-conf.int. 0.36759 - 0.39424)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09109 (95%-conf.int. 0.08193 - 0.10017)
+gcn_salience ROUGE-2 Average_P: 0.09755 (95%-conf.int. 0.08731 - 0.10795)
+gcn_salience ROUGE-2 Average_F: 0.09404 (95%-conf.int. 0.08446 - 0.10350)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03267 (95%-conf.int. 0.02762 - 0.03799)
+gcn_salience ROUGE-3 Average_P: 0.03516 (95%-conf.int. 0.02958 - 0.04107)
+gcn_salience ROUGE-3 Average_F: 0.03381 (95%-conf.int. 0.02848 - 0.03936)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01960)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.5
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.0  &  mini =  -0.49
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.0  &  mini =  -0.48
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.0  &  mini =  -0.47
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.0  &  mini =  -0.46
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39569 (95%-conf.int. 0.37955 - 0.41186)
+gcn_salience ROUGE-1 Average_F: 0.38220 (95%-conf.int. 0.36869 - 0.39559)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09866 (95%-conf.int. 0.08800 - 0.10964)
+gcn_salience ROUGE-2 Average_F: 0.09485 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03593 (95%-conf.int. 0.03008 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04029)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01621 (95%-conf.int. 0.01260 - 0.02033)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01203 - 0.01926)
+lambda =  0.0  &  mini =  -0.45
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.44
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.43
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.42
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.41
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.0  &  mini =  -0.4
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37199 (95%-conf.int. 0.35978 - 0.38390)
+gcn_salience ROUGE-1 Average_P: 0.39513 (95%-conf.int. 0.37968 - 0.41085)
+gcn_salience ROUGE-1 Average_F: 0.38247 (95%-conf.int. 0.36908 - 0.39523)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09183 (95%-conf.int. 0.08251 - 0.10087)
+gcn_salience ROUGE-2 Average_P: 0.09826 (95%-conf.int. 0.08788 - 0.10851)
+gcn_salience ROUGE-2 Average_F: 0.09477 (95%-conf.int. 0.08510 - 0.10421)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03293 (95%-conf.int. 0.02786 - 0.03803)
+gcn_salience ROUGE-3 Average_P: 0.03542 (95%-conf.int. 0.02980 - 0.04143)
+gcn_salience ROUGE-3 Average_F: 0.03406 (95%-conf.int. 0.02869 - 0.03960)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01151 - 0.01810)
+gcn_salience ROUGE-4 Average_P: 0.01590 (95%-conf.int. 0.01246 - 0.01979)
+gcn_salience ROUGE-4 Average_F: 0.01523 (95%-conf.int. 0.01199 - 0.01891)
+lambda =  0.0  &  mini =  -0.39
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37209 (95%-conf.int. 0.35988 - 0.38391)
+gcn_salience ROUGE-1 Average_P: 0.39502 (95%-conf.int. 0.37952 - 0.41062)
+gcn_salience ROUGE-1 Average_F: 0.38246 (95%-conf.int. 0.36907 - 0.39521)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09147 (95%-conf.int. 0.08174 - 0.10053)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08719 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09439 (95%-conf.int. 0.08418 - 0.10398)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03287 (95%-conf.int. 0.02780 - 0.03803)
+gcn_salience ROUGE-3 Average_P: 0.03536 (95%-conf.int. 0.02973 - 0.04136)
+gcn_salience ROUGE-3 Average_F: 0.03401 (95%-conf.int. 0.02864 - 0.03955)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01472 (95%-conf.int. 0.01159 - 0.01814)
+gcn_salience ROUGE-4 Average_P: 0.01595 (95%-conf.int. 0.01251 - 0.01987)
+gcn_salience ROUGE-4 Average_F: 0.01528 (95%-conf.int. 0.01202 - 0.01895)
+lambda =  0.0  &  mini =  -0.38
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37209 (95%-conf.int. 0.35988 - 0.38391)
+gcn_salience ROUGE-1 Average_P: 0.39502 (95%-conf.int. 0.37952 - 0.41062)
+gcn_salience ROUGE-1 Average_F: 0.38246 (95%-conf.int. 0.36907 - 0.39521)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09147 (95%-conf.int. 0.08174 - 0.10053)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08719 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09439 (95%-conf.int. 0.08418 - 0.10398)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03287 (95%-conf.int. 0.02780 - 0.03803)
+gcn_salience ROUGE-3 Average_P: 0.03536 (95%-conf.int. 0.02973 - 0.04136)
+gcn_salience ROUGE-3 Average_F: 0.03401 (95%-conf.int. 0.02864 - 0.03955)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01472 (95%-conf.int. 0.01159 - 0.01814)
+gcn_salience ROUGE-4 Average_P: 0.01595 (95%-conf.int. 0.01251 - 0.01987)
+gcn_salience ROUGE-4 Average_F: 0.01528 (95%-conf.int. 0.01202 - 0.01895)
+lambda =  0.0  &  mini =  -0.37
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37209 (95%-conf.int. 0.35988 - 0.38391)
+gcn_salience ROUGE-1 Average_P: 0.39502 (95%-conf.int. 0.37952 - 0.41062)
+gcn_salience ROUGE-1 Average_F: 0.38246 (95%-conf.int. 0.36907 - 0.39521)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09147 (95%-conf.int. 0.08174 - 0.10053)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08719 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09439 (95%-conf.int. 0.08418 - 0.10398)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03287 (95%-conf.int. 0.02780 - 0.03803)
+gcn_salience ROUGE-3 Average_P: 0.03536 (95%-conf.int. 0.02973 - 0.04136)
+gcn_salience ROUGE-3 Average_F: 0.03401 (95%-conf.int. 0.02864 - 0.03955)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01472 (95%-conf.int. 0.01159 - 0.01814)
+gcn_salience ROUGE-4 Average_P: 0.01595 (95%-conf.int. 0.01251 - 0.01987)
+gcn_salience ROUGE-4 Average_F: 0.01528 (95%-conf.int. 0.01202 - 0.01895)
+lambda =  0.0  &  mini =  -0.36
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37209 (95%-conf.int. 0.35988 - 0.38391)
+gcn_salience ROUGE-1 Average_P: 0.39502 (95%-conf.int. 0.37952 - 0.41062)
+gcn_salience ROUGE-1 Average_F: 0.38246 (95%-conf.int. 0.36907 - 0.39521)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09147 (95%-conf.int. 0.08174 - 0.10053)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08719 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09439 (95%-conf.int. 0.08418 - 0.10398)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03287 (95%-conf.int. 0.02780 - 0.03803)
+gcn_salience ROUGE-3 Average_P: 0.03536 (95%-conf.int. 0.02973 - 0.04136)
+gcn_salience ROUGE-3 Average_F: 0.03401 (95%-conf.int. 0.02864 - 0.03955)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01472 (95%-conf.int. 0.01159 - 0.01814)
+gcn_salience ROUGE-4 Average_P: 0.01595 (95%-conf.int. 0.01251 - 0.01987)
+gcn_salience ROUGE-4 Average_F: 0.01528 (95%-conf.int. 0.01202 - 0.01895)
+lambda =  0.0  &  mini =  -0.35
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37149 (95%-conf.int. 0.35934 - 0.38313)
+gcn_salience ROUGE-1 Average_P: 0.39405 (95%-conf.int. 0.37824 - 0.40977)
+gcn_salience ROUGE-1 Average_F: 0.38168 (95%-conf.int. 0.36896 - 0.39432)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09037 (95%-conf.int. 0.08122 - 0.09938)
+gcn_salience ROUGE-2 Average_P: 0.09665 (95%-conf.int. 0.08634 - 0.10660)
+gcn_salience ROUGE-2 Average_F: 0.09323 (95%-conf.int. 0.08381 - 0.10248)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03210 (95%-conf.int. 0.02710 - 0.03717)
+gcn_salience ROUGE-3 Average_P: 0.03453 (95%-conf.int. 0.02880 - 0.04027)
+gcn_salience ROUGE-3 Average_F: 0.03320 (95%-conf.int. 0.02788 - 0.03838)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01422 (95%-conf.int. 0.01114 - 0.01749)
+gcn_salience ROUGE-4 Average_P: 0.01542 (95%-conf.int. 0.01198 - 0.01927)
+gcn_salience ROUGE-4 Average_F: 0.01477 (95%-conf.int. 0.01149 - 0.01833)
+lambda =  0.0  &  mini =  -0.34
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37149 (95%-conf.int. 0.35934 - 0.38313)
+gcn_salience ROUGE-1 Average_P: 0.39405 (95%-conf.int. 0.37824 - 0.40977)
+gcn_salience ROUGE-1 Average_F: 0.38168 (95%-conf.int. 0.36896 - 0.39432)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09037 (95%-conf.int. 0.08122 - 0.09938)
+gcn_salience ROUGE-2 Average_P: 0.09665 (95%-conf.int. 0.08634 - 0.10660)
+gcn_salience ROUGE-2 Average_F: 0.09323 (95%-conf.int. 0.08381 - 0.10248)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03210 (95%-conf.int. 0.02710 - 0.03717)
+gcn_salience ROUGE-3 Average_P: 0.03453 (95%-conf.int. 0.02880 - 0.04027)
+gcn_salience ROUGE-3 Average_F: 0.03320 (95%-conf.int. 0.02788 - 0.03838)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01422 (95%-conf.int. 0.01114 - 0.01749)
+gcn_salience ROUGE-4 Average_P: 0.01542 (95%-conf.int. 0.01198 - 0.01927)
+gcn_salience ROUGE-4 Average_F: 0.01477 (95%-conf.int. 0.01149 - 0.01833)
+lambda =  0.0  &  mini =  -0.33
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37053 (95%-conf.int. 0.35826 - 0.38239)
+gcn_salience ROUGE-1 Average_P: 0.39346 (95%-conf.int. 0.37765 - 0.40902)
+gcn_salience ROUGE-1 Average_F: 0.38089 (95%-conf.int. 0.36826 - 0.39350)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09032 (95%-conf.int. 0.08111 - 0.09934)
+gcn_salience ROUGE-2 Average_P: 0.09670 (95%-conf.int. 0.08630 - 0.10678)
+gcn_salience ROUGE-2 Average_F: 0.09323 (95%-conf.int. 0.08381 - 0.10255)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03195 (95%-conf.int. 0.02682 - 0.03708)
+gcn_salience ROUGE-3 Average_P: 0.03442 (95%-conf.int. 0.02869 - 0.04022)
+gcn_salience ROUGE-3 Average_F: 0.03307 (95%-conf.int. 0.02770 - 0.03829)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01398 (95%-conf.int. 0.01090 - 0.01740)
+gcn_salience ROUGE-4 Average_P: 0.01518 (95%-conf.int. 0.01172 - 0.01905)
+gcn_salience ROUGE-4 Average_F: 0.01453 (95%-conf.int. 0.01125 - 0.01812)
+lambda =  0.0  &  mini =  -0.32
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37039 (95%-conf.int. 0.35812 - 0.38214)
+gcn_salience ROUGE-1 Average_P: 0.39303 (95%-conf.int. 0.37736 - 0.40841)
+gcn_salience ROUGE-1 Average_F: 0.38062 (95%-conf.int. 0.36790 - 0.39313)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09000 (95%-conf.int. 0.08095 - 0.09879)
+gcn_salience ROUGE-2 Average_P: 0.09626 (95%-conf.int. 0.08597 - 0.10603)
+gcn_salience ROUGE-2 Average_F: 0.09285 (95%-conf.int. 0.08326 - 0.10197)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03172 (95%-conf.int. 0.02665 - 0.03685)
+gcn_salience ROUGE-3 Average_P: 0.03413 (95%-conf.int. 0.02833 - 0.03993)
+gcn_salience ROUGE-3 Average_F: 0.03282 (95%-conf.int. 0.02745 - 0.03810)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01389 (95%-conf.int. 0.01077 - 0.01725)
+gcn_salience ROUGE-4 Average_P: 0.01507 (95%-conf.int. 0.01162 - 0.01895)
+gcn_salience ROUGE-4 Average_F: 0.01442 (95%-conf.int. 0.01114 - 0.01798)
+lambda =  0.0  &  mini =  -0.31
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.36944 (95%-conf.int. 0.35711 - 0.38147)
+gcn_salience ROUGE-1 Average_P: 0.39256 (95%-conf.int. 0.37683 - 0.40799)
+gcn_salience ROUGE-1 Average_F: 0.37991 (95%-conf.int. 0.36700 - 0.39239)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.08978 (95%-conf.int. 0.08048 - 0.09856)
+gcn_salience ROUGE-2 Average_P: 0.09610 (95%-conf.int. 0.08564 - 0.10593)
+gcn_salience ROUGE-2 Average_F: 0.09266 (95%-conf.int. 0.08306 - 0.10162)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03163 (95%-conf.int. 0.02650 - 0.03677)
+gcn_salience ROUGE-3 Average_P: 0.03405 (95%-conf.int. 0.02824 - 0.03985)
+gcn_salience ROUGE-3 Average_F: 0.03273 (95%-conf.int. 0.02733 - 0.03804)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01384 (95%-conf.int. 0.01077 - 0.01724)
+gcn_salience ROUGE-4 Average_P: 0.01502 (95%-conf.int. 0.01151 - 0.01895)
+gcn_salience ROUGE-4 Average_F: 0.01438 (95%-conf.int. 0.01109 - 0.01798)
+lambda =  0.1  &  mini =  -0.6
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.59
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.58
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.57
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.56
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.55
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.54
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.53
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.52
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37009 (95%-conf.int. 0.35785 - 0.38190)
+gcn_salience ROUGE-1 Average_P: 0.39310 (95%-conf.int. 0.37733 - 0.40881)
+gcn_salience ROUGE-1 Average_F: 0.38052 (95%-conf.int. 0.36722 - 0.39367)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09149 (95%-conf.int. 0.08233 - 0.10068)
+gcn_salience ROUGE-2 Average_P: 0.09787 (95%-conf.int. 0.08783 - 0.10842)
+gcn_salience ROUGE-2 Average_F: 0.09441 (95%-conf.int. 0.08489 - 0.10417)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03316 (95%-conf.int. 0.02785 - 0.03868)
+gcn_salience ROUGE-3 Average_P: 0.03563 (95%-conf.int. 0.02975 - 0.04171)
+gcn_salience ROUGE-3 Average_F: 0.03429 (95%-conf.int. 0.02871 - 0.03999)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01485 (95%-conf.int. 0.01163 - 0.01824)
+gcn_salience ROUGE-4 Average_P: 0.01607 (95%-conf.int. 0.01254 - 0.01998)
+gcn_salience ROUGE-4 Average_F: 0.01541 (95%-conf.int. 0.01211 - 0.01899)
+lambda =  0.1  &  mini =  -0.51
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.36995 (95%-conf.int. 0.35785 - 0.38165)
+gcn_salience ROUGE-1 Average_P: 0.39276 (95%-conf.int. 0.37715 - 0.40861)
+gcn_salience ROUGE-1 Average_F: 0.38028 (95%-conf.int. 0.36695 - 0.39338)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09122 (95%-conf.int. 0.08206 - 0.10039)
+gcn_salience ROUGE-2 Average_P: 0.09755 (95%-conf.int. 0.08731 - 0.10796)
+gcn_salience ROUGE-2 Average_F: 0.09411 (95%-conf.int. 0.08446 - 0.10358)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03293 (95%-conf.int. 0.02776 - 0.03822)
+gcn_salience ROUGE-3 Average_P: 0.03539 (95%-conf.int. 0.02959 - 0.04133)
+gcn_salience ROUGE-3 Average_F: 0.03405 (95%-conf.int. 0.02849 - 0.03974)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01463 (95%-conf.int. 0.01139 - 0.01797)
+gcn_salience ROUGE-4 Average_P: 0.01583 (95%-conf.int. 0.01237 - 0.01965)
+gcn_salience ROUGE-4 Average_F: 0.01518 (95%-conf.int. 0.01183 - 0.01876)
+lambda =  0.1  &  mini =  -0.5
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.36995 (95%-conf.int. 0.35785 - 0.38165)
+gcn_salience ROUGE-1 Average_P: 0.39276 (95%-conf.int. 0.37715 - 0.40861)
+gcn_salience ROUGE-1 Average_F: 0.38028 (95%-conf.int. 0.36695 - 0.39338)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09122 (95%-conf.int. 0.08206 - 0.10039)
+gcn_salience ROUGE-2 Average_P: 0.09755 (95%-conf.int. 0.08731 - 0.10796)
+gcn_salience ROUGE-2 Average_F: 0.09411 (95%-conf.int. 0.08446 - 0.10358)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03293 (95%-conf.int. 0.02776 - 0.03822)
+gcn_salience ROUGE-3 Average_P: 0.03539 (95%-conf.int. 0.02959 - 0.04133)
+gcn_salience ROUGE-3 Average_F: 0.03405 (95%-conf.int. 0.02849 - 0.03974)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01463 (95%-conf.int. 0.01139 - 0.01797)
+gcn_salience ROUGE-4 Average_P: 0.01583 (95%-conf.int. 0.01237 - 0.01965)
+gcn_salience ROUGE-4 Average_F: 0.01518 (95%-conf.int. 0.01183 - 0.01876)
+lambda =  0.1  &  mini =  -0.49
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.48
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.47
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.46
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.45
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.44
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.43
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37047 (95%-conf.int. 0.35827 - 0.38220)
+gcn_salience ROUGE-1 Average_P: 0.39326 (95%-conf.int. 0.37765 - 0.40906)
+gcn_salience ROUGE-1 Average_F: 0.38079 (95%-conf.int. 0.36741 - 0.39405)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09114 (95%-conf.int. 0.08197 - 0.10024)
+gcn_salience ROUGE-2 Average_P: 0.09743 (95%-conf.int. 0.08725 - 0.10762)
+gcn_salience ROUGE-2 Average_F: 0.09401 (95%-conf.int. 0.08446 - 0.10347)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03276 (95%-conf.int. 0.02771 - 0.03806)
+gcn_salience ROUGE-3 Average_P: 0.03518 (95%-conf.int. 0.02958 - 0.04108)
+gcn_salience ROUGE-3 Average_F: 0.03386 (95%-conf.int. 0.02848 - 0.03942)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01467 (95%-conf.int. 0.01144 - 0.01801)
+gcn_salience ROUGE-4 Average_P: 0.01587 (95%-conf.int. 0.01239 - 0.01970)
+gcn_salience ROUGE-4 Average_F: 0.01522 (95%-conf.int. 0.01187 - 0.01880)
+lambda =  0.1  &  mini =  -0.42
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.1  &  mini =  -0.41
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.1  &  mini =  -0.4
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39577 (95%-conf.int. 0.37955 - 0.41203)
+gcn_salience ROUGE-1 Average_F: 0.38223 (95%-conf.int. 0.36873 - 0.39567)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09868 (95%-conf.int. 0.08800 - 0.10969)
+gcn_salience ROUGE-2 Average_F: 0.09486 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03594 (95%-conf.int. 0.03009 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04030)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01622 (95%-conf.int. 0.01261 - 0.02034)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01204 - 0.01927)
+lambda =  0.1  &  mini =  -0.39
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37102 (95%-conf.int. 0.35839 - 0.38296)
+gcn_salience ROUGE-1 Average_P: 0.39569 (95%-conf.int. 0.37955 - 0.41186)
+gcn_salience ROUGE-1 Average_F: 0.38220 (95%-conf.int. 0.36869 - 0.39559)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09164 (95%-conf.int. 0.08226 - 0.10119)
+gcn_salience ROUGE-2 Average_P: 0.09866 (95%-conf.int. 0.08800 - 0.10964)
+gcn_salience ROUGE-2 Average_F: 0.09485 (95%-conf.int. 0.08510 - 0.10500)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03311 (95%-conf.int. 0.02801 - 0.03879)
+gcn_salience ROUGE-3 Average_P: 0.03593 (95%-conf.int. 0.03008 - 0.04225)
+gcn_salience ROUGE-3 Average_F: 0.03440 (95%-conf.int. 0.02891 - 0.04029)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01482 (95%-conf.int. 0.01156 - 0.01834)
+gcn_salience ROUGE-4 Average_P: 0.01621 (95%-conf.int. 0.01260 - 0.02033)
+gcn_salience ROUGE-4 Average_F: 0.01545 (95%-conf.int. 0.01203 - 0.01926)
+lambda =  0.1  &  mini =  -0.38
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.37
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.36
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.35
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.34
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.33
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.32
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+lambda =  0.1  &  mini =  -0.31
+---------------------------------------------
+gcn_salience ROUGE-1 Average_R: 0.37086 (95%-conf.int. 0.35837 - 0.38275)
+gcn_salience ROUGE-1 Average_P: 0.39417 (95%-conf.int. 0.37838 - 0.40985)
+gcn_salience ROUGE-1 Average_F: 0.38141 (95%-conf.int. 0.36820 - 0.39481)
+---------------------------------------------
+gcn_salience ROUGE-2 Average_R: 0.09126 (95%-conf.int. 0.08206 - 0.10062)
+gcn_salience ROUGE-2 Average_P: 0.09772 (95%-conf.int. 0.08745 - 0.10823)
+gcn_salience ROUGE-2 Average_F: 0.09421 (95%-conf.int. 0.08461 - 0.10379)
+---------------------------------------------
+gcn_salience ROUGE-3 Average_R: 0.03261 (95%-conf.int. 0.02758 - 0.03789)
+gcn_salience ROUGE-3 Average_P: 0.03511 (95%-conf.int. 0.02953 - 0.04097)
+gcn_salience ROUGE-3 Average_F: 0.03375 (95%-conf.int. 0.02847 - 0.03928)
+---------------------------------------------
+gcn_salience ROUGE-4 Average_R: 0.01454 (95%-conf.int. 0.01133 - 0.01788)
+gcn_salience ROUGE-4 Average_P: 0.01577 (95%-conf.int. 0.01234 - 0.01959)
+gcn_salience ROUGE-4 Average_F: 0.01510 (95%-conf.int. 0.01175 - 0.01867)
+
